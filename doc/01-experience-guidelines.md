@@ -367,9 +367,19 @@ Big photography.
 
 Minimal text.
 
-Avoid cards whenever possible.
-
 Content should feel immersive.
+
+Use cards selectively.
+
+Cards are appropriate for structured or comparable content such as:
+
+- Disciplines
+- Results
+- FAQ items
+- Sponsors
+- Products (future store)
+
+For storytelling sections, prefer immersive layouts, large photography and editorial compositions over card-based layouts.
 
 ---
 
