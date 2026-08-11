@@ -18,3 +18,16 @@ Create the Vite project:
 npm create vite@latest rallydelvientoalosandes-v2 -- --template react-ts
 npm install
 npm run dev
+
+## 2026-08-11 — Tailwind CSS Setup
+
+### Issue
+
+#2 — Project Setup
+
+### Commands
+
+Install Tailwind CSS and the Vite integration:
+
+```bash
+npm install tailwindcss @tailwindcss/vite
