@@ -1,13 +1,7 @@
-import './App.css'
+import Home from './pages/Home/Home'
 
 function App() {
-  return (
-    <main className="min-h-screen bg-black text-white flex items-center justify-center">
-      <h1 className="text-4xl font-bold">
-        Rally del Viento a los Andes
-      </h1>
-    </main>
-  )
+  return <Home />
 }
 
 export default App
