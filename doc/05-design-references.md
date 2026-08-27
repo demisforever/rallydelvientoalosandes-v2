@@ -116,3 +116,11 @@ Do not reproduce:
 - Bootstrap aesthetics.
 - Material Design appearance.
 - Overly corporate interfaces.
+
+## Strava references — GPX source
+
+The following Strava activities were used as references for the updated GPX tracks:
+
+- **Etapa 1:** [Strava activity](https://www.strava.com/activities/17307325242)
+- **Etapa 2:** [Strava activity](https://www.strava.com/activities/17332254369)
+- **Etapa 3:** [Strava activity](https://www.strava.com/activities/17332232046)
