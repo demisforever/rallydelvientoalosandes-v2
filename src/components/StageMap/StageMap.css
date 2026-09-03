@@ -1,0 +1,61 @@
+.stage-map {
+  width: 100%;
+  height: 100%;
+  background: #0f0f10;
+}
+
+.stage-map__container {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+
+.stage-marker {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  box-sizing: border-box;
+  background: #0f0f10;
+  border: 3px solid #c08a45;
+}
+
+.stage-marker-start {
+  background: #c08a45;
+}
+
+.stage-marker-finish {
+  background: #0f0f10;
+}
+
+/*controls styles */
+.stage-map .maplibregl-ctrl-group {
+  background: rgba(15, 15, 16, 0.9);
+  border: 1px solid rgba(255, 255, 255, 0.12);
+  box-shadow: none;
+}
+
+.stage-map .maplibregl-ctrl-group button {
+  filter: invert(1);
+}
+
+.stage-map .maplibregl-ctrl-group button + button {
+  border-top-color: rgba(255, 255, 255, 0.12);
+}
+/*controls styles */
+
+.stage-marker-hover {
+  width: 14px;
+  height: 14px;
+
+  border-radius: 50%;
+
+  background: #c08a45;
+
+  border: 3px solid #ffffff;
+
+  box-shadow:
+    0 0 0 4px rgba(192, 138, 69, 0.3),
+    0 0 14px rgba(192, 138, 69, 0.8);
+
+  pointer-events: none;
+}

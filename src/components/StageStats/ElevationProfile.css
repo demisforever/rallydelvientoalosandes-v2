@@ -1,0 +1,96 @@
+.elevation-profile {
+  width: 100%;
+}
+
+.elevation-profile__header {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: 16px;
+  margin-bottom: 12px;
+
+  font-size: 13px;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.elevation-profile__chart {
+  display: block;
+  width: 100%;
+  height: 280px;
+  overflow: visible;
+}
+
+.elevation-profile__grid {
+  stroke: rgba(255, 255, 255, 0.12);
+  stroke-width: 1;
+  stroke-dasharray: 4 6;
+}
+
+.elevation-profile__axis {
+  stroke: rgba(255, 255, 255, 0.25);
+  stroke-width: 1;
+}
+
+.elevation-profile__axis-label {
+  fill: rgba(255, 255, 255, 0.55);
+  font-size: 12px;
+}
+
+.elevation-profile__area {
+  fill: rgba(192, 138, 69, 0.16);
+}
+
+.elevation-profile__line {
+  fill: none;
+  stroke: #c08a45;
+  stroke-width: 3;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+}
+.elevation-profile {
+  position: relative;
+}
+
+.elevation-profile__hover-line {
+  stroke: rgba(255, 255, 255, 0.5);
+  stroke-width: 1;
+  stroke-dasharray: 4 4;
+  pointer-events: none;
+}
+
+.elevation-profile__hover-point {
+  fill: #c08a45;
+  stroke: #ffffff;
+  stroke-width: 2;
+  pointer-events: none;
+}
+
+.elevation-profile__tooltip {
+  position: absolute;
+  top: 12px;
+
+  transform: translateX(-50%);
+
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+
+  padding: 8px 10px;
+
+  background: rgba(15, 15, 16, 0.92);
+  border: 1px solid rgba(255, 255, 255, 0.15);
+
+  color: #ffffff;
+
+  font-size: 12px;
+  line-height: 1.3;
+
+  pointer-events: none;
+  white-space: nowrap;
+}
+
+.elevation-profile__tooltip strong {
+  color: #ffffff;
+  font-size: 15px;
+}

@@ -1,0 +1,162 @@
+.stage {
+  position: relative;
+  padding: 160px 6vw;
+  background: #0f0f10;
+  overflow: hidden;
+}
+
+.stage__header {
+  position: relative;
+  z-index: 2;
+  max-width: 900px;
+  margin: 0 auto 80px;
+  text-align: center;
+}
+
+.stage__number {
+  display: block;
+  margin-bottom: 16px;
+  color: #c08a45;
+  font-size: 0.8rem;
+  font-weight: 600;
+  letter-spacing: 0.2em;
+}
+
+.stage__header h2 {
+  margin: 0;
+  color: #ffffff;
+  font-size: clamp(2.5rem, 6vw, 5rem);
+  line-height: 0.95;
+  letter-spacing: -0.03em;
+}
+
+.stage__header p {
+  margin: 24px auto 0;
+  max-width: 600px;
+  color: #d8d8d8;
+  font-size: 1rem;
+}
+
+.stage__content {
+  position: relative;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0;
+  max-width: 1400px;
+  height: 600px;
+  margin: 0 auto;
+  align-items: stretch;
+}
+
+.stage__map,
+.stage__image {
+  position: relative;
+  z-index: 2;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.stage__map {
+  border-radius: 4px 0 0 4px;
+}
+
+.stage__image {
+  border-radius: 0 4px 4px 0;
+}
+
+.stage__image img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.stage__route {
+  position: absolute;
+  z-index: 3;
+  top: 10%;
+  bottom: 10%;
+  left: 50%;
+  width: 3px;
+  transform: translateX(-50%);
+  background: #c08a45;
+  box-shadow: 0 0 14px rgba(192, 138, 69, 0.45);
+}
+
+.stage__route::before,
+.stage__route::after {
+  content: '';
+  position: absolute;
+  left: 50%;
+  width: 11px;
+  height: 11px;
+  border-radius: 50%;
+  background: #c08a45;
+  transform: translateX(-50%);
+  box-shadow: 0 0 12px rgba(192, 138, 69, 0.5);
+}
+
+.stage__route::before {
+  top: 0;
+}
+
+.stage__route::after {
+  bottom: 0;
+}
+
+@media (max-width: 768px) {
+  .stage {
+    padding: 100px 20px;
+  }
+
+  .stage__header {
+    margin-bottom: 50px;
+    text-align: left;
+  }
+
+  .stage__content {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    height: auto;
+    min-height: auto;
+    padding-left: 24px;
+  }
+
+  .stage__map,
+  .stage__image {
+    height: 420px;
+    width: 100%;
+  }
+
+  .stage__map {
+    border-radius: 4px;
+  }
+
+  .stage__image {
+    border-radius: 4px;
+  }
+
+  .stage__route {
+    top: 0;
+    bottom: 0;
+    left: 8px;
+    width: 2px;
+    transform: none;
+  }
+
+  .stage__route::before,
+  .stage__route::after {
+    width: 9px;
+    height: 9px;
+  }
+}
+
+.stage__content--map-right .stage__map {
+  order: 2;
+}
+
+.stage__content--map-right .stage__image {
+  order: 1;
+}

@@ -1,0 +1,31 @@
+.gpx-download {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+
+  padding: 10px 18px;
+
+  border: 1px solid rgba(192, 138, 69, 0.7);
+  border-radius: 2px;
+
+  background: transparent;
+  color: #ffffff;
+
+  font-family: inherit;
+  font-size: 13px;
+  font-weight: 600;
+  letter-spacing: 0.5px;
+
+  cursor: pointer;
+
+  transition:
+    background 180ms ease,
+    border-color 180ms ease,
+    color 180ms ease;
+}
+
+.gpx-download:hover {
+  background: #c08a45;
+  border-color: #c08a45;
+  color: #0f0f10;
+}
