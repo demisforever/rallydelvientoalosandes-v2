@@ -1,0 +1,2874 @@
+{
+  "year": 2025,
+  "source": {
+    "name": "Cronometraje Instantáneo",
+    "url": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025"
+  },
+  "competitions": [
+    {
+      "id": "promocional",
+      "name": "Rally Promocional",
+      "format": "individual",
+      "stages": [
+        {
+          "number": 1,
+          "name": "Huinganco → Varvarco"
+        }
+      ],
+      "results": [
+        {
+          "format": "individual",
+          "position": {
+            "overall": 1,
+            "gender": 1,
+            "category": 1
+          },
+          "bib": 101,
+          "name": "SAEZ Fabio",
+          "category": {
+            "name": "Promocional - Caballeros - Categoría Única",
+            "gender": "M"
+          },
+          "location": null,
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "time": "02:28:35"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "02:28:35",
+          "difference": {
+            "first": null,
+            "previous": null
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=101"
+        },
+        {
+          "format": "individual",
+          "position": {
+            "overall": 2,
+            "gender": 2,
+            "category": 2
+          },
+          "bib": 108,
+          "name": "CONTRERAS Juan Claudio",
+          "category": {
+            "name": "Promocional - Caballeros - Categoría Única",
+            "gender": "M"
+          },
+          "location": "Huinganco",
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "time": "03:01:11"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "03:01:11",
+          "difference": {
+            "first": "00:32:36",
+            "previous": "00:32:36"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=108"
+        },
+        {
+          "format": "individual",
+          "position": {
+            "overall": 3,
+            "gender": 3,
+            "category": 3
+          },
+          "bib": 107,
+          "name": "Bottoso Ricardo",
+          "category": {
+            "name": "Promocional - Caballeros - Categoría Única",
+            "gender": "M"
+          },
+          "location": null,
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "time": "03:06:26"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "03:06:26",
+          "difference": {
+            "first": "00:37:51",
+            "previous": "00:05:15"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=107"
+        },
+        {
+          "format": "individual",
+          "position": {
+            "overall": 4,
+            "gender": 4,
+            "category": 4
+          },
+          "bib": 114,
+          "name": "LABADIE Carlos",
+          "category": {
+            "name": "Promocional - Caballeros - Categoría Única",
+            "gender": "M"
+          },
+          "location": "Cutral Co",
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "time": "03:11:58"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "03:11:58",
+          "difference": {
+            "first": "00:43:22",
+            "previous": "00:05:32"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=114"
+        },
+        {
+          "format": "individual",
+          "position": {
+            "overall": 5,
+            "gender": 5,
+            "category": 5
+          },
+          "bib": 103,
+          "name": "ALVAREZ Facundo",
+          "category": {
+            "name": "Promocional - Caballeros - Categoría Única",
+            "gender": "M"
+          },
+          "location": "Cipolletti",
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "time": "03:19:02"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "03:19:02",
+          "difference": {
+            "first": "00:50:26",
+            "previous": "00:07:04"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=103"
+        },
+        {
+          "format": "individual",
+          "position": {
+            "overall": 6,
+            "gender": 1,
+            "category": 1
+          },
+          "bib": 119,
+          "name": "SOLORZA Veronica",
+          "category": {
+            "name": "Promocional - Damas - Categoría Única",
+            "gender": "F"
+          },
+          "location": "General Roca",
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "time": "03:21:47"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "03:21:47",
+          "difference": {
+            "first": "00:53:12",
+            "previous": "00:02:46"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=119"
+        },
+        {
+          "format": "individual",
+          "position": {
+            "overall": 7,
+            "gender": 2,
+            "category": 2
+          },
+          "bib": 115,
+          "name": "FIORILO Carolina",
+          "category": {
+            "name": "Promocional - Damas - Categoría Única",
+            "gender": "F"
+          },
+          "location": "General Roca",
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "time": "03:25:27"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "03:25:27",
+          "difference": {
+            "first": "00:56:52",
+            "previous": "00:03:40"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=115"
+        },
+        {
+          "format": "individual",
+          "position": {
+            "overall": 8,
+            "gender": 3,
+            "category": 3
+          },
+          "bib": 100,
+          "name": "Orrego Silvana",
+          "category": {
+            "name": "Promocional - Damas - Categoría Única",
+            "gender": "F"
+          },
+          "location": "Neuquen",
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "time": "03:32:48"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "03:32:48",
+          "difference": {
+            "first": "01:04:12",
+            "previous": "00:07:21"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=100"
+        },
+        {
+          "format": "individual",
+          "position": {
+            "overall": 9,
+            "gender": 6,
+            "category": 6
+          },
+          "bib": 102,
+          "name": "ALMANZA Gabriel",
+          "category": {
+            "name": "Promocional - Caballeros - Categoría Única",
+            "gender": "M"
+          },
+          "location": "Cinco Saltos",
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "time": "03:38:40"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "03:38:40",
+          "difference": {
+            "first": "01:10:05",
+            "previous": "00:05:53"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=102"
+        },
+        {
+          "format": "individual",
+          "position": {
+            "overall": 10,
+            "gender": 4,
+            "category": 4
+          },
+          "bib": 116,
+          "name": "MARESSA Maria Elisa",
+          "category": {
+            "name": "Promocional - Damas - Categoría Única",
+            "gender": "F"
+          },
+          "location": "Cervantes",
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "time": "03:41:43"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "03:41:43",
+          "difference": {
+            "first": "01:13:08",
+            "previous": "00:03:03"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=116"
+        },
+        {
+          "format": "individual",
+          "position": {
+            "overall": 11,
+            "gender": 5,
+            "category": 5
+          },
+          "bib": 110,
+          "name": "CORTEZ Marcela",
+          "category": {
+            "name": "Promocional - Damas - Categoría Única",
+            "gender": "F"
+          },
+          "location": "General Roca",
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "time": "03:47:22"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "03:47:22",
+          "difference": {
+            "first": "01:18:47",
+            "previous": "00:05:39"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=110"
+        },
+        {
+          "format": "individual",
+          "position": {
+            "overall": 12,
+            "gender": 6,
+            "category": 6
+          },
+          "bib": 118,
+          "name": "ORMASABAL Mirna",
+          "category": {
+            "name": "Promocional - Damas - Categoría Única",
+            "gender": "F"
+          },
+          "location": "Las Ovejas",
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "time": "03:57:38"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "03:57:38",
+          "difference": {
+            "first": "01:29:02",
+            "previous": "00:10:16"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=118"
+        },
+        {
+          "format": "individual",
+          "position": {
+            "overall": 13,
+            "gender": 7,
+            "category": 7
+          },
+          "bib": 109,
+          "name": "FERNANDEZ MAURICIO",
+          "category": {
+            "name": "Promocional - Caballeros - Categoría Única",
+            "gender": "M"
+          },
+          "location": "PLOTTIER",
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "time": "03:59:12"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "03:59:12",
+          "difference": {
+            "first": "01:30:37",
+            "previous": "00:01:35"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=109"
+        },
+        {
+          "format": "individual",
+          "position": {
+            "overall": 14,
+            "gender": 8,
+            "category": 8
+          },
+          "bib": 112,
+          "name": "HERNANDEZ Segio Nicolás",
+          "category": {
+            "name": "Promocional - Caballeros - Categoría Única",
+            "gender": "M"
+          },
+          "location": "Varvarco",
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "time": "04:12:24"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "04:12:24",
+          "difference": {
+            "first": "01:43:49",
+            "previous": "00:13:12"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=112"
+        },
+        {
+          "format": "individual",
+          "position": {
+            "overall": 15,
+            "gender": 7,
+            "category": 7
+          },
+          "bib": 113,
+          "name": "SARNO Sofia",
+          "category": {
+            "name": "Promocional - Damas - Categoría Única",
+            "gender": "F"
+          },
+          "location": "Cipolletti",
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "time": "04:12:37"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "04:12:37",
+          "difference": {
+            "first": "01:44:01",
+            "previous": "00:00:13"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=113"
+        },
+        {
+          "format": "individual",
+          "position": {
+            "overall": 16,
+            "gender": 9,
+            "category": 9
+          },
+          "bib": 106,
+          "name": "Bengolea Luis Eduardo",
+          "category": {
+            "name": "Promocional - Caballeros - Categoría Única",
+            "gender": "M"
+          },
+          "location": "centenario",
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "time": "04:12:39"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "04:12:39",
+          "difference": {
+            "first": "01:44:03",
+            "previous": "00:00:02"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=106"
+        },
+        {
+          "format": "individual",
+          "position": {
+            "overall": 17,
+            "gender": 8,
+            "category": 8
+          },
+          "bib": 117,
+          "name": "PARADA Evangelina Del Carmen",
+          "category": {
+            "name": "Promocional - Damas - Categoría Única",
+            "gender": "F"
+          },
+          "location": "Buenos Aires",
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "time": "05:09:30"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "05:09:30",
+          "difference": {
+            "first": "02:40:54",
+            "previous": "00:56:51"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=117"
+        },
+        {
+          "format": "individual",
+          "position": {
+            "overall": 18,
+            "gender": 9,
+            "category": 9
+          },
+          "bib": 105,
+          "name": "VAZQUEZ Marcela",
+          "category": {
+            "name": "Promocional - Damas - Categoría Única",
+            "gender": "F"
+          },
+          "location": "Las Ovejas",
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "time": "05:38:19"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "05:38:19",
+          "difference": {
+            "first": "03:09:44",
+            "previous": "00:28:49"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=105"
+        },
+        {
+          "format": "individual",
+          "position": {
+            "overall": 19,
+            "gender": 10,
+            "category": 10
+          },
+          "bib": 104,
+          "name": "ARAVENA Irma",
+          "category": {
+            "name": "Promocional - Damas - Categoría Única",
+            "gender": "F"
+          },
+          "location": "Las Ovejas",
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "time": "05:38:21"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "05:38:21",
+          "difference": {
+            "first": "03:09:46",
+            "previous": "00:00:02"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=104"
+        }
+      ]
+    },
+    {
+      "id": "duplas",
+      "name": "Rally Duplas",
+      "format": "pair",
+      "stages": [
+        {
+          "number": 1,
+          "name": "Huinganco → Varvarco"
+        },
+        {
+          "number": 2,
+          "name": "Varvarco → Los Cerrillos"
+        },
+        {
+          "number": 3,
+          "name": "Los Cerrillos → Huinganco"
+        }
+      ],
+      "results": [
+        {
+          "format": "pair",
+          "position": {
+            "overall": 1,
+            "gender": 1,
+            "category": 1
+          },
+          "bib": 17,
+          "name": "team U.C",
+          "category": {
+            "name": "Rally Duplas - Caballeros Master A: 30 a 39 Años(Define la categoría, la Edad del Menor de la Dupla)",
+            "gender": "E"
+          },
+          "location": null,
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "rider1Time": "02:16:51",
+              "rider2Time": "00:00:00"
+            },
+            {
+              "number": 2,
+              "rider1Time": "03:28:22",
+              "rider2Time": "00:00:01"
+            },
+            {
+              "number": 3,
+              "rider1Time": "04:58:06",
+              "rider2Time": "00:00:00"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "10:43:21",
+          "difference": {
+            "first": null,
+            "previous": null
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=17"
+        },
+        {
+          "format": "pair",
+          "position": {
+            "overall": 2,
+            "gender": 2,
+            "category": 2
+          },
+          "bib": 12,
+          "name": "Og Factory - Nomad Bike Store",
+          "category": {
+            "name": "Rally Duplas - Caballeros Master A: 30 a 39 Años(Define la categoría, la Edad del Menor de la Dupla)",
+            "gender": "E"
+          },
+          "location": null,
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "rider1Time": "02:25:49",
+              "rider2Time": "00:00:01"
+            },
+            {
+              "number": 2,
+              "rider1Time": "03:28:20",
+              "rider2Time": "00:00:00"
+            },
+            {
+              "number": 3,
+              "rider1Time": "05:13:54",
+              "rider2Time": "00:00:01"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "11:08:04",
+          "difference": {
+            "first": "00:24:43",
+            "previous": "00:24:43"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=12"
+        },
+        {
+          "format": "pair",
+          "position": {
+            "overall": 3,
+            "gender": 3,
+            "category": 1
+          },
+          "bib": 2,
+          "name": "Confa Team (Confalonieri/Confalonieri)",
+          "category": {
+            "name": "Rally Duplas - Caballeros Elite . 15 a 29 Años(Define la categoría, la Edad del Menor de la Dupla)",
+            "gender": "E"
+          },
+          "location": null,
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "rider1Time": "02:26:02",
+              "rider2Time": "00:00:00"
+            },
+            {
+              "number": 2,
+              "rider1Time": "03:43:21",
+              "rider2Time": "00:00:00"
+            },
+            {
+              "number": 3,
+              "rider1Time": "05:14:41",
+              "rider2Time": "00:00:00"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "11:24:04",
+          "difference": {
+            "first": "00:40:43",
+            "previous": "00:16:00"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=2"
+        },
+        {
+          "format": "pair",
+          "position": {
+            "overall": 4,
+            "gender": 4,
+            "category": 3
+          },
+          "bib": 9,
+          "name": "El Taller",
+          "category": {
+            "name": "Rally Duplas - Caballeros Master A: 30 a 39 Años(Define la categoría, la Edad del Menor de la Dupla)",
+            "gender": "E"
+          },
+          "location": null,
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "rider1Time": "02:19:30",
+              "rider2Time": "00:00:00"
+            },
+            {
+              "number": 2,
+              "rider1Time": "03:51:50",
+              "rider2Time": "00:00:04"
+            },
+            {
+              "number": 3,
+              "rider1Time": "05:22:15",
+              "rider2Time": "00:00:00"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "11:33:39",
+          "difference": {
+            "first": "00:50:19",
+            "previous": "00:09:35"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=9"
+        },
+        {
+          "format": "pair",
+          "position": {
+            "overall": 5,
+            "gender": 5,
+            "category": 4
+          },
+          "bib": 1,
+          "name": "Dorhmann Bikes",
+          "category": {
+            "name": "Rally Duplas - Caballeros Master A: 30 a 39 Años(Define la categoría, la Edad del Menor de la Dupla)",
+            "gender": "E"
+          },
+          "location": null,
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "rider1Time": "02:04:44",
+              "rider2Time": "00:27:10"
+            },
+            {
+              "number": 2,
+              "rider1Time": "03:40:23",
+              "rider2Time": "00:00:00"
+            },
+            {
+              "number": 3,
+              "rider1Time": "04:48:47",
+              "rider2Time": "00:43:28"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "11:44:31",
+          "difference": {
+            "first": "01:01:10",
+            "previous": "00:10:52"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=1"
+        },
+        {
+          "format": "pair",
+          "position": {
+            "overall": 6,
+            "gender": 6,
+            "category": 1
+          },
+          "bib": 29,
+          "name": "Pipones De Avena Y Nueces",
+          "category": {
+            "name": "Rally Duplas - Caballeros Master B: 40 a 49 Años(Define la categoría, la Edad del Menor de la Dupla)",
+            "gender": "E"
+          },
+          "location": null,
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "rider1Time": "02:29:24",
+              "rider2Time": "00:00:00"
+            },
+            {
+              "number": 2,
+              "rider1Time": "03:57:30",
+              "rider2Time": "00:00:00"
+            },
+            {
+              "number": 3,
+              "rider1Time": "05:27:48",
+              "rider2Time": "00:00:00"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "11:54:42",
+          "difference": {
+            "first": "01:11:22",
+            "previous": "00:10:11"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=29"
+        },
+        {
+          "format": "pair",
+          "position": {
+            "overall": 7,
+            "gender": 7,
+            "category": 5
+          },
+          "bib": 15,
+          "name": "team KANDO",
+          "category": {
+            "name": "Rally Duplas - Caballeros Master A: 30 a 39 Años(Define la categoría, la Edad del Menor de la Dupla)",
+            "gender": "E"
+          },
+          "location": null,
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "rider1Time": "02:36:12",
+              "rider2Time": "00:00:00"
+            },
+            {
+              "number": 2,
+              "rider1Time": "03:56:17",
+              "rider2Time": "00:00:01"
+            },
+            {
+              "number": 3,
+              "rider1Time": "05:25:21",
+              "rider2Time": "00:00:02"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "11:57:52",
+          "difference": {
+            "first": "01:14:32",
+            "previous": "00:03:10"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=15"
+        },
+        {
+          "format": "pair",
+          "position": {
+            "overall": 8,
+            "gender": 8,
+            "category": 2
+          },
+          "bib": 3,
+          "name": "Generacion Xz",
+          "category": {
+            "name": "Rally Duplas - Caballeros Elite . 15 a 29 Años(Define la categoría, la Edad del Menor de la Dupla)",
+            "gender": "E"
+          },
+          "location": null,
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "rider1Time": "02:31:27",
+              "rider2Time": "00:00:01"
+            },
+            {
+              "number": 2,
+              "rider1Time": "03:52:01",
+              "rider2Time": "00:00:00"
+            },
+            {
+              "number": 3,
+              "rider1Time": "05:45:40",
+              "rider2Time": "00:00:00"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "12:09:08",
+          "difference": {
+            "first": "01:25:47",
+            "previous": "00:11:15"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=3"
+        },
+        {
+          "format": "pair",
+          "position": {
+            "overall": 9,
+            "gender": 9,
+            "category": 2
+          },
+          "bib": 31,
+          "name": "Rio Colorado",
+          "category": {
+            "name": "Rally Duplas - Caballeros Master B: 40 a 49 Años(Define la categoría, la Edad del Menor de la Dupla)",
+            "gender": "E"
+          },
+          "location": null,
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "rider1Time": "02:30:53",
+              "rider2Time": "00:00:01"
+            },
+            {
+              "number": 2,
+              "rider1Time": "04:06:38",
+              "rider2Time": "00:00:01"
+            },
+            {
+              "number": 3,
+              "rider1Time": "06:01:01",
+              "rider2Time": "00:00:00"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "12:38:34",
+          "difference": {
+            "first": "01:55:13",
+            "previous": "00:29:26"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=31"
+        },
+        {
+          "format": "pair",
+          "position": {
+            "overall": 10,
+            "gender": 10,
+            "category": 3
+          },
+          "bib": 18,
+          "name": "Bike Pringles",
+          "category": {
+            "name": "Rally Duplas - Caballeros Master B: 40 a 49 Años(Define la categoría, la Edad del Menor de la Dupla)",
+            "gender": "E"
+          },
+          "location": null,
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "rider1Time": "02:42:19",
+              "rider2Time": "00:00:01"
+            },
+            {
+              "number": 2,
+              "rider1Time": "04:20:21",
+              "rider2Time": "00:00:01"
+            },
+            {
+              "number": 3,
+              "rider1Time": "05:52:47",
+              "rider2Time": "00:00:00"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "12:55:29",
+          "difference": {
+            "first": "02:12:08",
+            "previous": "00:16:55"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=18"
+        },
+        {
+          "format": "pair",
+          "position": {
+            "overall": 11,
+            "gender": 1,
+            "category": 1
+          },
+          "bib": 58,
+          "name": "team Mira que linda vista",
+          "category": {
+            "name": "Rally Duplas - Mixto B: 35 a 49 Años (Define la categoría, la Edad de la Dama)",
+            "gender": "E"
+          },
+          "location": null,
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "rider1Time": "02:43:10",
+              "rider2Time": "00:00:01"
+            },
+            {
+              "number": 2,
+              "rider1Time": "04:24:32",
+              "rider2Time": "00:00:01"
+            },
+            {
+              "number": 3,
+              "rider1Time": "06:16:45",
+              "rider2Time": "00:00:01"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "13:24:31",
+          "difference": {
+            "first": "02:41:10",
+            "previous": "00:29:01"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=58"
+        },
+        {
+          "format": "pair",
+          "position": {
+            "overall": 12,
+            "gender": 2,
+            "category": 2
+          },
+          "bib": 50,
+          "name": "De Las Mechas Por El Norte",
+          "category": {
+            "name": "Rally Duplas - Mixto B: 35 a 49 Años (Define la categoría, la Edad de la Dama)",
+            "gender": "E"
+          },
+          "location": null,
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "rider1Time": "02:46:49",
+              "rider2Time": "00:00:00"
+            },
+            {
+              "number": 2,
+              "rider1Time": "04:31:36",
+              "rider2Time": "00:00:00"
+            },
+            {
+              "number": 3,
+              "rider1Time": "06:16:46",
+              "rider2Time": "00:00:02"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "13:35:12",
+          "difference": {
+            "first": "02:51:51",
+            "previous": "00:10:41"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=50"
+        },
+        {
+          "format": "pair",
+          "position": {
+            "overall": 13,
+            "gender": 11,
+            "category": 6
+          },
+          "bib": 16,
+          "name": "team Medubiker",
+          "category": {
+            "name": "Rally Duplas - Caballeros Master A: 30 a 39 Años(Define la categoría, la Edad del Menor de la Dupla)",
+            "gender": "E"
+          },
+          "location": null,
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "rider1Time": "02:46:33",
+              "rider2Time": "00:02:39"
+            },
+            {
+              "number": 2,
+              "rider1Time": "04:36:13",
+              "rider2Time": "00:03:54"
+            },
+            {
+              "number": 3,
+              "rider1Time": "06:11:37",
+              "rider2Time": "00:00:01"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "13:40:55",
+          "difference": {
+            "first": "02:57:35",
+            "previous": "00:05:43"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=16"
+        },
+        {
+          "format": "pair",
+          "position": {
+            "overall": 14,
+            "gender": 12,
+            "category": 1
+          },
+          "bib": 43,
+          "name": "Ser Movimiento Retro",
+          "category": {
+            "name": "Rally Duplas - Caballeros Master C: 50 a 59 Años(Define la categoría, la Edad del Menor de la Dupla)",
+            "gender": "E"
+          },
+          "location": null,
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "rider1Time": "02:43:13",
+              "rider2Time": "00:00:00"
+            },
+            {
+              "number": 2,
+              "rider1Time": "04:29:10",
+              "rider2Time": "00:00:02"
+            },
+            {
+              "number": 3,
+              "rider1Time": "06:30:45",
+              "rider2Time": "00:00:00"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "13:43:10",
+          "difference": {
+            "first": "02:59:49",
+            "previous": "00:02:15"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=43"
+        },
+        {
+          "format": "pair",
+          "position": {
+            "overall": 15,
+            "gender": 13,
+            "category": 7
+          },
+          "bib": 14,
+          "name": "Team Catriel",
+          "category": {
+            "name": "Rally Duplas - Caballeros Master A: 30 a 39 Años(Define la categoría, la Edad del Menor de la Dupla)",
+            "gender": "E"
+          },
+          "location": null,
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "rider1Time": "02:45:27",
+              "rider2Time": "00:00:00"
+            },
+            {
+              "number": 2,
+              "rider1Time": "04:52:19",
+              "rider2Time": "00:00:00"
+            },
+            {
+              "number": 3,
+              "rider1Time": "06:16:43",
+              "rider2Time": "00:00:00"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "13:54:30",
+          "difference": {
+            "first": "03:11:09",
+            "previous": "00:11:20"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=14"
+        },
+        {
+          "format": "pair",
+          "position": {
+            "overall": 16,
+            "gender": 14,
+            "category": 4
+          },
+          "bib": 22,
+          "name": "Insert - M11",
+          "category": {
+            "name": "Rally Duplas - Caballeros Master B: 40 a 49 Años(Define la categoría, la Edad del Menor de la Dupla)",
+            "gender": "E"
+          },
+          "location": null,
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "rider1Time": "02:49:20",
+              "rider2Time": "00:00:01"
+            },
+            {
+              "number": 2,
+              "rider1Time": "04:33:29",
+              "rider2Time": "00:00:00"
+            },
+            {
+              "number": 3,
+              "rider1Time": "06:32:02",
+              "rider2Time": "00:00:00"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "13:54:53",
+          "difference": {
+            "first": "03:11:33",
+            "previous": "00:00:23"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=22"
+        },
+        {
+          "format": "pair",
+          "position": {
+            "overall": 17,
+            "gender": 15,
+            "category": 8
+          },
+          "bib": 8,
+          "name": "Chimi Y Changa",
+          "category": {
+            "name": "Rally Duplas - Caballeros Master A: 30 a 39 Años(Define la categoría, la Edad del Menor de la Dupla)",
+            "gender": "E"
+          },
+          "location": null,
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "rider1Time": "02:48:03",
+              "rider2Time": "00:25:34"
+            },
+            {
+              "number": 2,
+              "rider1Time": "04:28:15",
+              "rider2Time": "00:00:02"
+            },
+            {
+              "number": 3,
+              "rider1Time": "06:16:59",
+              "rider2Time": "00:00:00"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "13:58:54",
+          "difference": {
+            "first": "03:15:33",
+            "previous": "00:04:00"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=8"
+        },
+        {
+          "format": "pair",
+          "position": {
+            "overall": 18,
+            "gender": 16,
+            "category": 3
+          },
+          "bib": 4,
+          "name": "Spet Grupa",
+          "category": {
+            "name": "Rally Duplas - Caballeros Elite . 15 a 29 Años(Define la categoría, la Edad del Menor de la Dupla)",
+            "gender": "E"
+          },
+          "location": null,
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "rider1Time": "02:41:28",
+              "rider2Time": "00:00:00"
+            },
+            {
+              "number": 2,
+              "rider1Time": "04:19:23",
+              "rider2Time": "00:00:00"
+            },
+            {
+              "number": 3,
+              "rider1Time": "06:58:48",
+              "rider2Time": "00:00:00"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "14:01:39",
+          "difference": {
+            "first": "03:18:18",
+            "previous": "00:02:45"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=4"
+        },
+        {
+          "format": "pair",
+          "position": {
+            "overall": 19,
+            "gender": 17,
+            "category": 5
+          },
+          "bib": 33,
+          "name": "team LOS TOROS",
+          "category": {
+            "name": "Rally Duplas - Caballeros Master B: 40 a 49 Años(Define la categoría, la Edad del Menor de la Dupla)",
+            "gender": "E"
+          },
+          "location": null,
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "rider1Time": "02:56:43",
+              "rider2Time": "00:00:00"
+            },
+            {
+              "number": 2,
+              "rider1Time": "04:52:21",
+              "rider2Time": "00:00:01"
+            },
+            {
+              "number": 3,
+              "rider1Time": "06:29:51",
+              "rider2Time": "00:00:00"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "14:18:55",
+          "difference": {
+            "first": "03:35:34",
+            "previous": "00:17:16"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=33"
+        },
+        {
+          "format": "pair",
+          "position": {
+            "overall": 20,
+            "gender": 18,
+            "category": 6
+          },
+          "bib": 28,
+          "name": "Pilar Team",
+          "category": {
+            "name": "Rally Duplas - Caballeros Master B: 40 a 49 Años(Define la categoría, la Edad del Menor de la Dupla)",
+            "gender": "E"
+          },
+          "location": null,
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "rider1Time": "02:46:03",
+              "rider2Time": "00:00:00"
+            },
+            {
+              "number": 2,
+              "rider1Time": "04:24:51",
+              "rider2Time": "00:00:01"
+            },
+            {
+              "number": 3,
+              "rider1Time": "07:12:33",
+              "rider2Time": "00:00:01"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "14:23:29",
+          "difference": {
+            "first": "03:40:08",
+            "previous": "00:04:33"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=28"
+        },
+        {
+          "format": "pair",
+          "position": {
+            "overall": 21,
+            "gender": 3,
+            "category": 3
+          },
+          "bib": 59,
+          "name": "Team Rodando Juntos",
+          "category": {
+            "name": "Rally Duplas - Mixto B: 35 a 49 Años (Define la categoría, la Edad de la Dama)",
+            "gender": "E"
+          },
+          "location": null,
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "rider1Time": "02:53:33",
+              "rider2Time": "00:00:00"
+            },
+            {
+              "number": 2,
+              "rider1Time": "04:51:06",
+              "rider2Time": "00:00:00"
+            },
+            {
+              "number": 3,
+              "rider1Time": "06:41:56",
+              "rider2Time": "00:00:00"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "14:26:36",
+          "difference": {
+            "first": "03:43:15",
+            "previous": "00:03:07"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=59"
+        },
+        {
+          "format": "pair",
+          "position": {
+            "overall": 22,
+            "gender": 19,
+            "category": 9
+          },
+          "bib": 7,
+          "name": "Cadena Suelta",
+          "category": {
+            "name": "Rally Duplas - Caballeros Master A: 30 a 39 Años(Define la categoría, la Edad del Menor de la Dupla)",
+            "gender": "E"
+          },
+          "location": null,
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "rider1Time": "03:08:32",
+              "rider2Time": "00:00:30"
+            },
+            {
+              "number": 2,
+              "rider1Time": "04:58:07",
+              "rider2Time": "00:00:00"
+            },
+            {
+              "number": 3,
+              "rider1Time": "06:45:42",
+              "rider2Time": "00:00:00"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "14:52:51",
+          "difference": {
+            "first": "04:09:30",
+            "previous": "00:26:16"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=7"
+        },
+        {
+          "format": "pair",
+          "position": {
+            "overall": 23,
+            "gender": 20,
+            "category": 7
+          },
+          "bib": 24,
+          "name": "Los Espartanos",
+          "category": {
+            "name": "Rally Duplas - Caballeros Master B: 40 a 49 Años(Define la categoría, la Edad del Menor de la Dupla)",
+            "gender": "E"
+          },
+          "location": null,
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "rider1Time": "02:36:16",
+              "rider2Time": "00:00:00"
+            },
+            {
+              "number": 2,
+              "rider1Time": "03:43:21",
+              "rider2Time": "00:00:01"
+            },
+            {
+              "number": 3,
+              "rider1Time": "08:37:04",
+              "rider2Time": "00:00:02"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "14:58:44",
+          "difference": {
+            "first": "04:15:23",
+            "previous": "00:05:52"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=24"
+        },
+        {
+          "format": "pair",
+          "position": {
+            "overall": 24,
+            "gender": 21,
+            "category": 2
+          },
+          "bib": 39,
+          "name": "El Taber",
+          "category": {
+            "name": "Rally Duplas - Caballeros Master C: 50 a 59 Años(Define la categoría, la Edad del Menor de la Dupla)",
+            "gender": "E"
+          },
+          "location": null,
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "rider1Time": "03:08:41",
+              "rider2Time": "00:00:00"
+            },
+            {
+              "number": 2,
+              "rider1Time": "05:00:43",
+              "rider2Time": "00:00:01"
+            },
+            {
+              "number": 3,
+              "rider1Time": "06:50:26",
+              "rider2Time": "00:00:01"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "14:59:51",
+          "difference": {
+            "first": "04:16:30",
+            "previous": "00:01:07"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=39"
+        },
+        {
+          "format": "pair",
+          "position": {
+            "overall": 25,
+            "gender": 22,
+            "category": 8
+          },
+          "bib": 30,
+          "name": "Rayma",
+          "category": {
+            "name": "Rally Duplas - Caballeros Master B: 40 a 49 Años(Define la categoría, la Edad del Menor de la Dupla)",
+            "gender": "E"
+          },
+          "location": null,
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "rider1Time": "02:58:37",
+              "rider2Time": "00:00:10"
+            },
+            {
+              "number": 2,
+              "rider1Time": "05:11:56",
+              "rider2Time": "00:00:01"
+            },
+            {
+              "number": 3,
+              "rider1Time": "07:06:09",
+              "rider2Time": "00:00:01"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "15:16:54",
+          "difference": {
+            "first": "04:33:33",
+            "previous": "00:17:03"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=30"
+        },
+        {
+          "format": "pair",
+          "position": {
+            "overall": 26,
+            "gender": 23,
+            "category": 3
+          },
+          "bib": 41,
+          "name": "Pura Garra",
+          "category": {
+            "name": "Rally Duplas - Caballeros Master C: 50 a 59 Años(Define la categoría, la Edad del Menor de la Dupla)",
+            "gender": "E"
+          },
+          "location": null,
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "rider1Time": "03:11:52",
+              "rider2Time": "00:00:00"
+            },
+            {
+              "number": 2,
+              "rider1Time": "05:06:51",
+              "rider2Time": "00:00:01"
+            },
+            {
+              "number": 3,
+              "rider1Time": "06:59:41",
+              "rider2Time": "00:00:01"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "15:18:26",
+          "difference": {
+            "first": "04:35:05",
+            "previous": "00:01:32"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=41"
+        },
+        {
+          "format": "pair",
+          "position": {
+            "overall": 27,
+            "gender": 24,
+            "category": 4
+          },
+          "bib": 38,
+          "name": "EJM TEAM",
+          "category": {
+            "name": "Rally Duplas - Caballeros Master C: 50 a 59 Años(Define la categoría, la Edad del Menor de la Dupla)",
+            "gender": "E"
+          },
+          "location": null,
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "rider1Time": "03:15:41",
+              "rider2Time": "00:00:00"
+            },
+            {
+              "number": 2,
+              "rider1Time": "05:05:28",
+              "rider2Time": "00:00:02"
+            },
+            {
+              "number": 3,
+              "rider1Time": "06:59:39",
+              "rider2Time": "00:00:00"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "15:20:51",
+          "difference": {
+            "first": "04:37:30",
+            "previous": "00:02:25"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=38"
+        },
+        {
+          "format": "pair",
+          "position": {
+            "overall": 28,
+            "gender": 25,
+            "category": 9
+          },
+          "bib": 34,
+          "name": "team Matrimilleros",
+          "category": {
+            "name": "Rally Duplas - Caballeros Master B: 40 a 49 Años(Define la categoría, la Edad del Menor de la Dupla)",
+            "gender": "E"
+          },
+          "location": null,
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "rider1Time": "02:47:49",
+              "rider2Time": "00:00:00"
+            },
+            {
+              "number": 2,
+              "rider1Time": "04:29:11",
+              "rider2Time": "00:00:00"
+            },
+            {
+              "number": 3,
+              "rider1Time": "08:37:04",
+              "rider2Time": "00:00:02"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "15:56:07",
+          "difference": {
+            "first": "05:12:46",
+            "previous": "00:35:16"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=34"
+        },
+        {
+          "format": "pair",
+          "position": {
+            "overall": 29,
+            "gender": 4,
+            "category": 4
+          },
+          "bib": 57,
+          "name": "Og Factory Team",
+          "category": {
+            "name": "Rally Duplas - Mixto B: 35 a 49 Años (Define la categoría, la Edad de la Dama)",
+            "gender": "E"
+          },
+          "location": null,
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "rider1Time": "03:16:38",
+              "rider2Time": "00:00:00"
+            },
+            {
+              "number": 2,
+              "rider1Time": "05:17:44",
+              "rider2Time": "00:00:00"
+            },
+            {
+              "number": 3,
+              "rider1Time": "07:24:30",
+              "rider2Time": "00:00:00"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "15:58:53",
+          "difference": {
+            "first": "05:15:32",
+            "previous": "00:02:45"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=57"
+        },
+        {
+          "format": "pair",
+          "position": {
+            "overall": 30,
+            "gender": 1,
+            "category": 1
+          },
+          "bib": 46,
+          "name": "Las Gigantes",
+          "category": {
+            "name": "Rally Duplas - Damas B: 35 a 49 Años(Define la categoría, la Edad del Menor de la Dupla)",
+            "gender": "E"
+          },
+          "location": null,
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "rider1Time": "03:19:00",
+              "rider2Time": "00:00:01"
+            },
+            {
+              "number": 2,
+              "rider1Time": "05:24:13",
+              "rider2Time": "00:00:00"
+            },
+            {
+              "number": 3,
+              "rider1Time": "07:20:15",
+              "rider2Time": "00:00:01"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "16:03:30",
+          "difference": {
+            "first": "05:20:09",
+            "previous": "00:04:38"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=46"
+        },
+        {
+          "format": "pair",
+          "position": {
+            "overall": 31,
+            "gender": 5,
+            "category": 5
+          },
+          "bib": 49,
+          "name": "Amo la bici",
+          "category": {
+            "name": "Rally Duplas - Mixto B: 35 a 49 Años (Define la categoría, la Edad de la Dama)",
+            "gender": "E"
+          },
+          "location": null,
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "rider1Time": "03:19:44",
+              "rider2Time": "00:00:01"
+            },
+            {
+              "number": 2,
+              "rider1Time": "05:24:18",
+              "rider2Time": "00:00:01"
+            },
+            {
+              "number": 3,
+              "rider1Time": "07:30:21",
+              "rider2Time": "00:00:00"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "16:14:24",
+          "difference": {
+            "first": "05:31:03",
+            "previous": "00:10:54"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=49"
+        },
+        {
+          "format": "pair",
+          "position": {
+            "overall": 32,
+            "gender": 26,
+            "category": 10
+          },
+          "bib": 26,
+          "name": "Los Gigantes",
+          "category": {
+            "name": "Rally Duplas - Caballeros Master B: 40 a 49 Años(Define la categoría, la Edad del Menor de la Dupla)",
+            "gender": "E"
+          },
+          "location": null,
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "rider1Time": "03:18:30",
+              "rider2Time": "00:00:00"
+            },
+            {
+              "number": 2,
+              "rider1Time": "05:21:30",
+              "rider2Time": "00:00:02"
+            },
+            {
+              "number": 3,
+              "rider1Time": "07:39:41",
+              "rider2Time": "00:01:49"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "16:21:31",
+          "difference": {
+            "first": "05:38:11",
+            "previous": "00:07:07"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=26"
+        },
+        {
+          "format": "pair",
+          "position": {
+            "overall": 33,
+            "gender": 27,
+            "category": 11
+          },
+          "bib": 21,
+          "name": "Cero Movimiento",
+          "category": {
+            "name": "Rally Duplas - Caballeros Master B: 40 a 49 Años(Define la categoría, la Edad del Menor de la Dupla)",
+            "gender": "E"
+          },
+          "location": null,
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "rider1Time": "03:14:13",
+              "rider2Time": "00:00:00"
+            },
+            {
+              "number": 2,
+              "rider1Time": "05:05:09",
+              "rider2Time": "00:00:00"
+            },
+            {
+              "number": 3,
+              "rider1Time": "08:07:36",
+              "rider2Time": "00:00:00"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "16:26:58",
+          "difference": {
+            "first": "05:43:37",
+            "previous": "00:05:27"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=21"
+        },
+        {
+          "format": "pair",
+          "position": {
+            "overall": 34,
+            "gender": 6,
+            "category": 6
+          },
+          "bib": 56,
+          "name": "Mar Baltico",
+          "category": {
+            "name": "Rally Duplas - Mixto B: 35 a 49 Años (Define la categoría, la Edad de la Dama)",
+            "gender": "E"
+          },
+          "location": null,
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "rider1Time": "03:25:37",
+              "rider2Time": "00:00:01"
+            },
+            {
+              "number": 2,
+              "rider1Time": "05:24:06",
+              "rider2Time": "00:00:01"
+            },
+            {
+              "number": 3,
+              "rider1Time": "07:45:46",
+              "rider2Time": "00:00:01"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "16:35:32",
+          "difference": {
+            "first": "05:52:12",
+            "previous": "00:08:34"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=56"
+        },
+        {
+          "format": "pair",
+          "position": {
+            "overall": 35,
+            "gender": 28,
+            "category": 5
+          },
+          "bib": 42,
+          "name": "Rodados Villalba",
+          "category": {
+            "name": "Rally Duplas - Caballeros Master C: 50 a 59 Años(Define la categoría, la Edad del Menor de la Dupla)",
+            "gender": "E"
+          },
+          "location": null,
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "rider1Time": "03:43:28",
+              "rider2Time": "00:00:01"
+            },
+            {
+              "number": 2,
+              "rider1Time": "05:24:10",
+              "rider2Time": "00:00:00"
+            },
+            {
+              "number": 3,
+              "rider1Time": "07:25:50",
+              "rider2Time": "00:00:00"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "16:37:29",
+          "difference": {
+            "first": "05:54:09",
+            "previous": "00:01:57"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=42"
+        },
+        {
+          "format": "pair",
+          "position": {
+            "overall": 36,
+            "gender": 29,
+            "category": 10
+          },
+          "bib": 13,
+          "name": "Painanis",
+          "category": {
+            "name": "Rally Duplas - Caballeros Master A: 30 a 39 Años(Define la categoría, la Edad del Menor de la Dupla)",
+            "gender": "E"
+          },
+          "location": null,
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "rider1Time": "03:27:29",
+              "rider2Time": "00:00:00"
+            },
+            {
+              "number": 2,
+              "rider1Time": "05:11:56",
+              "rider2Time": "00:00:00"
+            },
+            {
+              "number": 3,
+              "rider1Time": "08:00:11",
+              "rider2Time": "00:00:01"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "16:39:37",
+          "difference": {
+            "first": "05:56:16",
+            "previous": "00:02:07"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=13"
+        },
+        {
+          "format": "pair",
+          "position": {
+            "overall": 37,
+            "gender": 30,
+            "category": 6
+          },
+          "bib": 37,
+          "name": "Bicicleteria Charly",
+          "category": {
+            "name": "Rally Duplas - Caballeros Master C: 50 a 59 Años(Define la categoría, la Edad del Menor de la Dupla)",
+            "gender": "E"
+          },
+          "location": null,
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "rider1Time": "03:30:47",
+              "rider2Time": "00:00:00"
+            },
+            {
+              "number": 2,
+              "rider1Time": "05:38:23",
+              "rider2Time": "00:24:31"
+            },
+            {
+              "number": 3,
+              "rider1Time": "07:25:50",
+              "rider2Time": "00:00:00"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "17:01:31",
+          "difference": {
+            "first": "06:18:11",
+            "previous": "00:21:55"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=37"
+        },
+        {
+          "format": "pair",
+          "position": {
+            "overall": 38,
+            "gender": 7,
+            "category": 7
+          },
+          "bib": 53,
+          "name": "La Manada",
+          "category": {
+            "name": "Rally Duplas - Mixto B: 35 a 49 Años (Define la categoría, la Edad de la Dama)",
+            "gender": "E"
+          },
+          "location": null,
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "rider1Time": "03:16:06",
+              "rider2Time": "00:00:01"
+            },
+            {
+              "number": 2,
+              "rider1Time": "05:24:17",
+              "rider2Time": "01:01:37"
+            },
+            {
+              "number": 3,
+              "rider1Time": "07:27:18",
+              "rider2Time": "00:00:01"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "17:11:19",
+          "difference": {
+            "first": "06:27:58",
+            "previous": "00:09:48"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=53"
+        },
+        {
+          "format": "pair",
+          "position": {
+            "overall": 39,
+            "gender": 31,
+            "category": 12
+          },
+          "bib": 23,
+          "name": "Los Cojudos.",
+          "category": {
+            "name": "Rally Duplas - Caballeros Master B: 40 a 49 Años(Define la categoría, la Edad del Menor de la Dupla)",
+            "gender": "E"
+          },
+          "location": null,
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "rider1Time": "03:34:53",
+              "rider2Time": "00:00:01"
+            },
+            {
+              "number": 2,
+              "rider1Time": "05:54:17",
+              "rider2Time": "00:00:00"
+            },
+            {
+              "number": 3,
+              "rider1Time": "07:56:24",
+              "rider2Time": "00:00:01"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "17:25:36",
+          "difference": {
+            "first": "06:42:15",
+            "previous": "00:14:17"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=23"
+        },
+        {
+          "format": "pair",
+          "position": {
+            "overall": 40,
+            "gender": 8,
+            "category": 8
+          },
+          "bib": 52,
+          "name": "Furia Y Alegría",
+          "category": {
+            "name": "Rally Duplas - Mixto B: 35 a 49 Años (Define la categoría, la Edad de la Dama)",
+            "gender": "E"
+          },
+          "location": null,
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "rider1Time": "03:23:25",
+              "rider2Time": "00:00:00"
+            },
+            {
+              "number": 2,
+              "rider1Time": "05:24:17",
+              "rider2Time": "01:01:37"
+            },
+            {
+              "number": 3,
+              "rider1Time": "07:37:12",
+              "rider2Time": "00:00:00"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "17:26:30",
+          "difference": {
+            "first": "06:43:10",
+            "previous": "00:00:54"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=52"
+        },
+        {
+          "format": "pair",
+          "position": {
+            "overall": 41,
+            "gender": 32,
+            "category": 13
+          },
+          "bib": 36,
+          "name": "Timon Y Pumba",
+          "category": {
+            "name": "Rally Duplas - Caballeros Master B: 40 a 49 Años(Define la categoría, la Edad del Menor de la Dupla)",
+            "gender": "E"
+          },
+          "location": null,
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "rider1Time": "02:58:08",
+              "rider2Time": "00:00:00"
+            },
+            {
+              "number": 2,
+              "rider1Time": "04:18:01",
+              "rider2Time": "01:45:20"
+            },
+            {
+              "number": 3,
+              "rider1Time": "08:37:04",
+              "rider2Time": "00:00:02"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "17:40:35",
+          "difference": {
+            "first": "06:57:14",
+            "previous": "00:14:05"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=36"
+        },
+        {
+          "format": "pair",
+          "position": {
+            "overall": 42,
+            "gender": 9,
+            "category": 9
+          },
+          "bib": 55,
+          "name": "Los Correcaminos",
+          "category": {
+            "name": "Rally Duplas - Mixto B: 35 a 49 Años (Define la categoría, la Edad de la Dama)",
+            "gender": "E"
+          },
+          "location": null,
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "rider1Time": "03:39:00",
+              "rider2Time": "00:00:00"
+            },
+            {
+              "number": 2,
+              "rider1Time": "05:10:51",
+              "rider2Time": "00:42:16"
+            },
+            {
+              "number": 3,
+              "rider1Time": "06:54:38",
+              "rider2Time": "01:24:04"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "17:50:48",
+          "difference": {
+            "first": "07:07:28",
+            "previous": "00:10:14"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=55"
+        },
+        {
+          "format": "pair",
+          "position": {
+            "overall": 43,
+            "gender": 33,
+            "category": 14
+          },
+          "bib": 35,
+          "name": "Tero Rengo",
+          "category": {
+            "name": "Rally Duplas - Caballeros Master B: 40 a 49 Años(Define la categoría, la Edad del Menor de la Dupla)",
+            "gender": "E"
+          },
+          "location": null,
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "rider1Time": "03:33:35",
+              "rider2Time": "00:00:01"
+            },
+            {
+              "number": 2,
+              "rider1Time": "05:49:20",
+              "rider2Time": "00:00:00"
+            },
+            {
+              "number": 3,
+              "rider1Time": "08:37:04",
+              "rider2Time": "00:00:02"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "18:02:02",
+          "difference": {
+            "first": "07:18:41",
+            "previous": "00:11:14"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=35"
+        },
+        {
+          "format": "pair",
+          "position": {
+            "overall": 44,
+            "gender": 34,
+            "category": 15
+          },
+          "bib": 32,
+          "name": "Rodamundos Team",
+          "category": {
+            "name": "Rally Duplas - Caballeros Master B: 40 a 49 Años(Define la categoría, la Edad del Menor de la Dupla)",
+            "gender": "E"
+          },
+          "location": null,
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "rider1Time": "03:29:55",
+              "rider2Time": "00:00:00"
+            },
+            {
+              "number": 2,
+              "rider1Time": "05:16:45",
+              "rider2Time": "00:49:29"
+            },
+            {
+              "number": 3,
+              "rider1Time": "08:37:04",
+              "rider2Time": "00:00:02"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "18:15:14",
+          "difference": {
+            "first": "07:31:53",
+            "previous": "00:13:12"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=32"
+        },
+        {
+          "format": "pair",
+          "position": {
+            "overall": 45,
+            "gender": 35,
+            "category": 4
+          },
+          "bib": 5,
+          "name": "Team Huingán",
+          "category": {
+            "name": "Rally Duplas - Caballeros Elite . 15 a 29 Años(Define la categoría, la Edad del Menor de la Dupla)",
+            "gender": "E"
+          },
+          "location": null,
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "rider1Time": "03:51:07",
+              "rider2Time": "00:00:00"
+            },
+            {
+              "number": 2,
+              "rider1Time": "06:04:36",
+              "rider2Time": "00:00:01"
+            },
+            {
+              "number": 3,
+              "rider1Time": "08:21:24",
+              "rider2Time": "00:00:02"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "18:19:09",
+          "difference": {
+            "first": "07:35:49",
+            "previous": "00:03:55"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=5"
+        },
+        {
+          "format": "pair",
+          "position": {
+            "overall": 46,
+            "gender": 36,
+            "category": 16
+          },
+          "bib": 20,
+          "name": "Catadores Lite",
+          "category": {
+            "name": "Rally Duplas - Caballeros Master B: 40 a 49 Años(Define la categoría, la Edad del Menor de la Dupla)",
+            "gender": "E"
+          },
+          "location": null,
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "rider1Time": "03:54:09",
+              "rider2Time": "00:00:01"
+            },
+            {
+              "number": 2,
+              "rider1Time": "05:21:00",
+              "rider2Time": "00:40:32"
+            },
+            {
+              "number": 3,
+              "rider1Time": "08:37:04",
+              "rider2Time": "00:00:02"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "18:32:47",
+          "difference": {
+            "first": "07:49:26",
+            "previous": "00:13:38"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=20"
+        },
+        {
+          "format": "pair",
+          "position": {
+            "overall": 47,
+            "gender": 37,
+            "category": 17
+          },
+          "bib": 27,
+          "name": "Oldelbike",
+          "category": {
+            "name": "Rally Duplas - Caballeros Master B: 40 a 49 Años(Define la categoría, la Edad del Menor de la Dupla)",
+            "gender": "E"
+          },
+          "location": null,
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "rider1Time": "03:53:32",
+              "rider2Time": "00:00:00"
+            },
+            {
+              "number": 2,
+              "rider1Time": "06:13:22",
+              "rider2Time": "00:00:02"
+            },
+            {
+              "number": 3,
+              "rider1Time": "08:26:45",
+              "rider2Time": "00:00:00"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "18:33:41",
+          "difference": {
+            "first": "07:50:20",
+            "previous": "00:00:54"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=27"
+        },
+        {
+          "format": "pair",
+          "position": {
+            "overall": 48,
+            "gender": 2,
+            "category": 1
+          },
+          "bib": 48,
+          "name": "Team Master Neuquen 130",
+          "category": {
+            "name": "Rally Duplas - Damas C: 50 y + Años(Define la categoría, la Edad del Menor de la Dupla)",
+            "gender": "E"
+          },
+          "location": null,
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "rider1Time": "03:58:31",
+              "rider2Time": "00:00:01"
+            },
+            {
+              "number": 2,
+              "rider1Time": "06:10:05",
+              "rider2Time": "00:00:01"
+            },
+            {
+              "number": 3,
+              "rider1Time": "08:29:09",
+              "rider2Time": "00:00:01"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "18:39:47",
+          "difference": {
+            "first": "07:56:26",
+            "previous": "00:06:06"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=48"
+        },
+        {
+          "format": "pair",
+          "position": {
+            "overall": 49,
+            "gender": 10,
+            "category": 10
+          },
+          "bib": 51,
+          "name": "Endurance Mix",
+          "category": {
+            "name": "Rally Duplas - Mixto B: 35 a 49 Años (Define la categoría, la Edad de la Dama)",
+            "gender": "E"
+          },
+          "location": null,
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "rider1Time": "03:18:23",
+              "rider2Time": "00:42:40"
+            },
+            {
+              "number": 2,
+              "rider1Time": "05:20:42",
+              "rider2Time": "00:42:38"
+            },
+            {
+              "number": 3,
+              "rider1Time": "09:01:09",
+              "rider2Time": "00:00:00"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "19:07:32",
+          "difference": {
+            "first": "08:24:11",
+            "previous": "00:27:45"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=51"
+        },
+        {
+          "format": "pair",
+          "position": {
+            "overall": 50,
+            "gender": 11,
+            "category": 11
+          },
+          "bib": 54,
+          "name": "Los Bagley",
+          "category": {
+            "name": "Rally Duplas - Mixto B: 35 a 49 Años (Define la categoría, la Edad de la Dama)",
+            "gender": "E"
+          },
+          "location": null,
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "rider1Time": "04:13:32",
+              "rider2Time": "00:00:00"
+            },
+            {
+              "number": 2,
+              "rider1Time": "06:15:12",
+              "rider2Time": "00:09:50"
+            },
+            {
+              "number": 3,
+              "rider1Time": "09:01:09",
+              "rider2Time": "00:00:00"
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "19:39:43",
+          "difference": {
+            "first": "08:56:22",
+            "previous": "00:32:12"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=54"
+        },
+        {
+          "format": "pair",
+          "position": {
+            "overall": 51,
+            "gender": 38,
+            "category": 11
+          },
+          "bib": 11,
+          "name": "Los Pedalestrangers",
+          "category": {
+            "name": "Rally Duplas - Caballeros Master A: 30 a 39 Años(Define la categoría, la Edad del Menor de la Dupla)",
+            "gender": "E"
+          },
+          "location": null,
+          "status": "finished",
+          "stages": [
+            {
+              "number": 1,
+              "rider1Time": "03:33:07",
+              "rider2Time": "00:37:13"
+            },
+            {
+              "number": 2,
+              "rider1Time": "05:45:07",
+              "rider2Time": "00:32:47"
+            },
+            {
+              "number": 3,
+              "rider1Time": "08:30:33",
+              "rider2Time": null
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "18:58:47",
+          "difference": {
+            "first": null,
+            "previous": null
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=11"
+        },
+        {
+          "format": "pair",
+          "position": {
+            "overall": 52,
+            "gender": 39,
+            "category": 18
+          },
+          "bib": 62,
+          "name": "Brutal Bike",
+          "category": {
+            "name": "Rally Duplas - Caballeros Master B: 40 a 49 Años(Define la categoría, la Edad del Menor de la Dupla)",
+            "gender": "E"
+          },
+          "location": null,
+          "status": "dnf",
+          "stages": [
+            {
+              "number": 1,
+              "rider1Time": "02:35:58",
+              "rider2Time": "00:00:00"
+            },
+            {
+              "number": 2,
+              "rider1Time": "04:12:37",
+              "rider2Time": "00:00:00"
+            },
+            {
+              "number": 3,
+              "rider1Time": null,
+              "rider2Time": null
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "DNF",
+          "difference": {
+            "first": null,
+            "previous": null
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=62"
+        },
+        {
+          "format": "pair",
+          "position": {
+            "overall": 53,
+            "gender": 40,
+            "category": 19
+          },
+          "bib": 25,
+          "name": "Los Galgos",
+          "category": {
+            "name": "Rally Duplas - Caballeros Master B: 40 a 49 Años(Define la categoría, la Edad del Menor de la Dupla)",
+            "gender": "E"
+          },
+          "location": null,
+          "status": "dnf",
+          "stages": [
+            {
+              "number": 1,
+              "rider1Time": "03:01:28",
+              "rider2Time": "00:00:00"
+            },
+            {
+              "number": 2,
+              "rider1Time": "04:37:46",
+              "rider2Time": "00:36:56"
+            },
+            {
+              "number": 3,
+              "rider1Time": null,
+              "rider2Time": null
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "DNF",
+          "difference": {
+            "first": null,
+            "previous": "01:27:34"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=25"
+        },
+        {
+          "format": "pair",
+          "position": {
+            "overall": 54,
+            "gender": 41,
+            "category": 7
+          },
+          "bib": 40,
+          "name": "Mapuche Btt",
+          "category": {
+            "name": "Rally Duplas - Caballeros Master C: 50 a 59 Años(Define la categoría, la Edad del Menor de la Dupla)",
+            "gender": "E"
+          },
+          "location": null,
+          "status": "dnf",
+          "stages": [
+            {
+              "number": 1,
+              "rider1Time": "03:43:28",
+              "rider2Time": "00:00:01"
+            },
+            {
+              "number": 2,
+              "rider1Time": "05:38:23",
+              "rider2Time": "00:24:31"
+            },
+            {
+              "number": 3,
+              "rider1Time": null,
+              "rider2Time": null
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "DNF",
+          "difference": {
+            "first": null,
+            "previous": "01:30:12"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=40"
+        },
+        {
+          "format": "pair",
+          "position": {
+            "overall": 55,
+            "gender": 3,
+            "category": 2
+          },
+          "bib": 47,
+          "name": "Las Desconocidas",
+          "category": {
+            "name": "Rally Duplas - Damas C: 50 y + Años(Define la categoría, la Edad del Menor de la Dupla)",
+            "gender": "E"
+          },
+          "location": null,
+          "status": "dnf",
+          "stages": [
+            {
+              "number": 1,
+              "rider1Time": "03:46:58",
+              "rider2Time": "00:00:01"
+            },
+            {
+              "number": 2,
+              "rider1Time": "06:10:05",
+              "rider2Time": "00:00:01"
+            },
+            {
+              "number": 3,
+              "rider1Time": null,
+              "rider2Time": null
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "DNF",
+          "difference": {
+            "first": null,
+            "previous": "00:10:43"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=47"
+        },
+        {
+          "format": "pair",
+          "position": {
+            "overall": 56,
+            "gender": 4,
+            "category": 2
+          },
+          "bib": 45,
+          "name": "Las Bbr (banda Buena Racha)",
+          "category": {
+            "name": "Rally Duplas - Damas B: 35 a 49 Años(Define la categoría, la Edad del Menor de la Dupla)",
+            "gender": "E"
+          },
+          "location": null,
+          "status": "dnf",
+          "stages": [
+            {
+              "number": 1,
+              "rider1Time": "04:05:49",
+              "rider2Time": "00:00:00"
+            },
+            {
+              "number": 2,
+              "rider1Time": "06:15:10",
+              "rider2Time": "00:09:52"
+            },
+            {
+              "number": 3,
+              "rider1Time": null,
+              "rider2Time": null
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "DNF",
+          "difference": {
+            "first": null,
+            "previous": "00:33:46"
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=45"
+        },
+        {
+          "format": "pair",
+          "position": {
+            "overall": 57,
+            "gender": 42,
+            "category": 1
+          },
+          "bib": 44,
+          "name": "Sin Rodillas Y A Puro Corazón",
+          "category": {
+            "name": "Rally Duplas - Caballeros Master D: 60 y + Años(Define la categoría, la Edad del Menor de la Dupla)",
+            "gender": "E"
+          },
+          "location": null,
+          "status": "dnf",
+          "stages": [
+            {
+              "number": 1,
+              "rider1Time": "05:38:28",
+              "rider2Time": "00:00:02"
+            },
+            {
+              "number": 2,
+              "rider1Time": null,
+              "rider2Time": null
+            },
+            {
+              "number": 3,
+              "rider1Time": null,
+              "rider2Time": null
+            }
+          ],
+          "penaltyBonus": null,
+          "totalTime": "DNF",
+          "difference": {
+            "first": null,
+            "previous": null
+          },
+          "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=44"
+        }
+      ]
+    }
+  ]
+}

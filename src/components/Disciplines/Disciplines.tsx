@@ -26,7 +26,7 @@ const disciplines = [
 
 function Disciplines() {
   return (
-    <section id="disciplinas" className="disciplines">
+    <section id="disciplines" className="disciplines">
       <div className="disciplines__header">
         <span className="disciplines__eyebrow">DISCIPLINAS</span>
 

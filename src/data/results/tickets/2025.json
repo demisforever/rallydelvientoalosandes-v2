@@ -1,0 +1,2197 @@
+{
+  "year": 2025,
+  "source": {
+    "name": "Cronometraje Instantáneo",
+    "url": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025"
+  },
+  "tickets": [
+    {
+      "participantId": 101,
+      "format": "individual",
+      "number": 101,
+      "name": "SAEZ Fabio",
+      "category": "Promocional - Caballeros - Categoría Única",
+      "location": null,
+      "position": {
+        "overall": 1,
+        "gender": 1,
+        "category": 1
+      },
+      "totalTime": "02:28:35",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "time": "02:28:35"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=101"
+    },
+    {
+      "participantId": 108,
+      "format": "individual",
+      "number": 108,
+      "name": "CONTRERAS Juan Claudio",
+      "category": "Promocional - Caballeros - Categoría Única",
+      "location": "Huinganco",
+      "position": {
+        "overall": 2,
+        "gender": 2,
+        "category": 2
+      },
+      "totalTime": "03:01:11",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "time": "03:01:11"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=108"
+    },
+    {
+      "participantId": 107,
+      "format": "individual",
+      "number": 107,
+      "name": "Bottoso Ricardo",
+      "category": "Promocional - Caballeros - Categoría Única",
+      "location": null,
+      "position": {
+        "overall": 3,
+        "gender": 3,
+        "category": 3
+      },
+      "totalTime": "03:06:26",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "time": "03:06:26"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=107"
+    },
+    {
+      "participantId": 114,
+      "format": "individual",
+      "number": 114,
+      "name": "LABADIE Carlos",
+      "category": "Promocional - Caballeros - Categoría Única",
+      "location": "Cutral Co",
+      "position": {
+        "overall": 4,
+        "gender": 4,
+        "category": 4
+      },
+      "totalTime": "03:11:58",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "time": "03:11:58"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=114"
+    },
+    {
+      "participantId": 103,
+      "format": "individual",
+      "number": 103,
+      "name": "ALVAREZ Facundo",
+      "category": "Promocional - Caballeros - Categoría Única",
+      "location": "Cipolletti",
+      "position": {
+        "overall": 5,
+        "gender": 5,
+        "category": 5
+      },
+      "totalTime": "03:19:02",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "time": "03:19:02"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=103"
+    },
+    {
+      "participantId": 119,
+      "format": "individual",
+      "number": 119,
+      "name": "SOLORZA Veronica",
+      "category": "Promocional - Damas - Categoría Única",
+      "location": "General Roca",
+      "position": {
+        "overall": 6,
+        "gender": 1,
+        "category": 1
+      },
+      "totalTime": "03:21:47",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "time": "03:21:47"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=119"
+    },
+    {
+      "participantId": 115,
+      "format": "individual",
+      "number": 115,
+      "name": "FIORILO Carolina",
+      "category": "Promocional - Damas - Categoría Única",
+      "location": "General Roca",
+      "position": {
+        "overall": 7,
+        "gender": 2,
+        "category": 2
+      },
+      "totalTime": "03:25:27",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "time": "03:25:27"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=115"
+    },
+    {
+      "participantId": 100,
+      "format": "individual",
+      "number": 100,
+      "name": "Orrego Silvana",
+      "category": "Promocional - Damas - Categoría Única",
+      "location": "Neuquen",
+      "position": {
+        "overall": 8,
+        "gender": 3,
+        "category": 3
+      },
+      "totalTime": "03:32:48",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "time": "03:32:48"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=100"
+    },
+    {
+      "participantId": 102,
+      "format": "individual",
+      "number": 102,
+      "name": "ALMANZA Gabriel",
+      "category": "Promocional - Caballeros - Categoría Única",
+      "location": "Cinco Saltos",
+      "position": {
+        "overall": 9,
+        "gender": 6,
+        "category": 6
+      },
+      "totalTime": "03:38:40",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "time": "03:38:40"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=102"
+    },
+    {
+      "participantId": 116,
+      "format": "individual",
+      "number": 116,
+      "name": "MARESSA Maria Elisa",
+      "category": "Promocional - Damas - Categoría Única",
+      "location": "Cervantes",
+      "position": {
+        "overall": 10,
+        "gender": 4,
+        "category": 4
+      },
+      "totalTime": "03:41:43",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "time": "03:41:43"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=116"
+    },
+    {
+      "participantId": 110,
+      "format": "individual",
+      "number": 110,
+      "name": "CORTEZ Marcela",
+      "category": "Promocional - Damas - Categoría Única",
+      "location": "General Roca",
+      "position": {
+        "overall": 11,
+        "gender": 5,
+        "category": 5
+      },
+      "totalTime": "03:47:22",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "time": "03:47:22"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=110"
+    },
+    {
+      "participantId": 118,
+      "format": "individual",
+      "number": 118,
+      "name": "ORMASABAL Mirna",
+      "category": "Promocional - Damas - Categoría Única",
+      "location": "Las Ovejas",
+      "position": {
+        "overall": 12,
+        "gender": 6,
+        "category": 6
+      },
+      "totalTime": "03:57:38",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "time": "03:57:38"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=118"
+    },
+    {
+      "participantId": 109,
+      "format": "individual",
+      "number": 109,
+      "name": "FERNANDEZ MAURICIO",
+      "category": "Promocional - Caballeros - Categoría Única",
+      "location": "PLOTTIER",
+      "position": {
+        "overall": 13,
+        "gender": 7,
+        "category": 7
+      },
+      "totalTime": "03:59:12",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "time": "03:59:12"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=109"
+    },
+    {
+      "participantId": 112,
+      "format": "individual",
+      "number": 112,
+      "name": "HERNANDEZ Segio Nicolás",
+      "category": "Promocional - Caballeros - Categoría Única",
+      "location": "Varvarco",
+      "position": {
+        "overall": 14,
+        "gender": 8,
+        "category": 8
+      },
+      "totalTime": "04:12:24",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "time": "04:12:24"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=112"
+    },
+    {
+      "participantId": 113,
+      "format": "individual",
+      "number": 113,
+      "name": "SARNO Sofia",
+      "category": "Promocional - Damas - Categoría Única",
+      "location": "Cipolletti",
+      "position": {
+        "overall": 15,
+        "gender": 7,
+        "category": 7
+      },
+      "totalTime": "04:12:37",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "time": "04:12:37"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=113"
+    },
+    {
+      "participantId": 106,
+      "format": "individual",
+      "number": 106,
+      "name": "Bengolea Luis Eduardo",
+      "category": "Promocional - Caballeros - Categoría Única",
+      "location": "centenario",
+      "position": {
+        "overall": 16,
+        "gender": 9,
+        "category": 9
+      },
+      "totalTime": "04:12:39",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "time": "04:12:39"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=106"
+    },
+    {
+      "participantId": 117,
+      "format": "individual",
+      "number": 117,
+      "name": "PARADA Evangelina Del Carmen",
+      "category": "Promocional - Damas - Categoría Única",
+      "location": "Buenos Aires",
+      "position": {
+        "overall": 17,
+        "gender": 8,
+        "category": 8
+      },
+      "totalTime": "05:09:30",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "time": "05:09:30"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=117"
+    },
+    {
+      "participantId": 105,
+      "format": "individual",
+      "number": 105,
+      "name": "VAZQUEZ Marcela",
+      "category": "Promocional - Damas - Categoría Única",
+      "location": "Las Ovejas",
+      "position": {
+        "overall": 18,
+        "gender": 9,
+        "category": 9
+      },
+      "totalTime": "05:38:19",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "time": "05:38:19"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=105"
+    },
+    {
+      "participantId": 104,
+      "format": "individual",
+      "number": 104,
+      "name": "ARAVENA Irma",
+      "category": "Promocional - Damas - Categoría Única",
+      "location": "Las Ovejas",
+      "position": {
+        "overall": 19,
+        "gender": 10,
+        "category": 10
+      },
+      "totalTime": "05:38:21",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "time": "05:38:21"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=104"
+    },
+    {
+      "participantId": 17,
+      "format": "pair",
+      "number": 17,
+      "name": "team U.C",
+      "category": "Rally Duplas - Caballeros Master A: 30 a 39 Años(Define la categoría, la Edad del Menor de la Dupla)",
+      "location": null,
+      "position": {
+        "overall": 1,
+        "gender": 1,
+        "category": 1
+      },
+      "totalTime": "10:43:21",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "rider1Time": "02:16:51",
+          "rider2Time": "00:00:00"
+        },
+        {
+          "name": "ETAPA 2 - VARVARCO - LAGUNA LOS CERRILLOS",
+          "rider1Time": "03:28:22",
+          "rider2Time": "00:00:01"
+        },
+        {
+          "name": "ETAPA 3 - LAGUNA LOS CERRILLOS - HUINGANCO",
+          "rider1Time": "04:58:06",
+          "rider2Time": "00:00:00"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=17"
+    },
+    {
+      "participantId": 12,
+      "format": "pair",
+      "number": 12,
+      "name": "Og Factory - Nomad Bike Store",
+      "category": "Rally Duplas - Caballeros Master A: 30 a 39 Años(Define la categoría, la Edad del Menor de la Dupla)",
+      "location": null,
+      "position": {
+        "overall": 2,
+        "gender": 2,
+        "category": 2
+      },
+      "totalTime": "11:08:04",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "rider1Time": "02:25:49",
+          "rider2Time": "00:00:01"
+        },
+        {
+          "name": "ETAPA 2 - VARVARCO - LAGUNA LOS CERRILLOS",
+          "rider1Time": "03:28:20",
+          "rider2Time": "00:00:00"
+        },
+        {
+          "name": "ETAPA 3 - LAGUNA LOS CERRILLOS - HUINGANCO",
+          "rider1Time": "05:13:54",
+          "rider2Time": "00:00:01"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=12"
+    },
+    {
+      "participantId": 2,
+      "format": "pair",
+      "number": 2,
+      "name": "Confa Team (Confalonieri/Confalonieri)",
+      "category": "Rally Duplas - Caballeros Elite . 15 a 29 Años(Define la categoría, la Edad del Menor de la Dupla)",
+      "location": null,
+      "position": {
+        "overall": 3,
+        "gender": 3,
+        "category": 1
+      },
+      "totalTime": "11:24:04",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "rider1Time": "02:26:02",
+          "rider2Time": "00:00:00"
+        },
+        {
+          "name": "ETAPA 2 - VARVARCO - LAGUNA LOS CERRILLOS",
+          "rider1Time": "03:43:21",
+          "rider2Time": "00:00:00"
+        },
+        {
+          "name": "ETAPA 3 - LAGUNA LOS CERRILLOS - HUINGANCO",
+          "rider1Time": "05:14:41",
+          "rider2Time": "00:00:00"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=2"
+    },
+    {
+      "participantId": 9,
+      "format": "pair",
+      "number": 9,
+      "name": "El Taller",
+      "category": "Rally Duplas - Caballeros Master A: 30 a 39 Años(Define la categoría, la Edad del Menor de la Dupla)",
+      "location": null,
+      "position": {
+        "overall": 4,
+        "gender": 4,
+        "category": 3
+      },
+      "totalTime": "11:33:39",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "rider1Time": "02:19:30",
+          "rider2Time": "00:00:00"
+        },
+        {
+          "name": "ETAPA 2 - VARVARCO - LAGUNA LOS CERRILLOS",
+          "rider1Time": "03:51:50",
+          "rider2Time": "00:00:04"
+        },
+        {
+          "name": "ETAPA 3 - LAGUNA LOS CERRILLOS - HUINGANCO",
+          "rider1Time": "05:22:15",
+          "rider2Time": "00:00:00"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=9"
+    },
+    {
+      "participantId": 1,
+      "format": "pair",
+      "number": 1,
+      "name": "Dorhmann Bikes",
+      "category": "Rally Duplas - Caballeros Master A: 30 a 39 Años(Define la categoría, la Edad del Menor de la Dupla)",
+      "location": null,
+      "position": {
+        "overall": 5,
+        "gender": 5,
+        "category": 4
+      },
+      "totalTime": "11:44:31",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "rider1Time": "02:04:44",
+          "rider2Time": "00:27:10"
+        },
+        {
+          "name": "ETAPA 2 - VARVARCO - LAGUNA LOS CERRILLOS",
+          "rider1Time": "03:40:23",
+          "rider2Time": "00:00:00"
+        },
+        {
+          "name": "ETAPA 3 - LAGUNA LOS CERRILLOS - HUINGANCO",
+          "rider1Time": "04:48:47",
+          "rider2Time": "00:43:28"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=1"
+    },
+    {
+      "participantId": 29,
+      "format": "pair",
+      "number": 29,
+      "name": "Pipones De Avena Y Nueces",
+      "category": "Rally Duplas - Caballeros Master B: 40 a 49 Años(Define la categoría, la Edad del Menor de la Dupla)",
+      "location": null,
+      "position": {
+        "overall": 6,
+        "gender": 6,
+        "category": 1
+      },
+      "totalTime": "11:54:42",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "rider1Time": "02:29:24",
+          "rider2Time": "00:00:00"
+        },
+        {
+          "name": "ETAPA 2 - VARVARCO - LAGUNA LOS CERRILLOS",
+          "rider1Time": "03:57:30",
+          "rider2Time": "00:00:00"
+        },
+        {
+          "name": "ETAPA 3 - LAGUNA LOS CERRILLOS - HUINGANCO",
+          "rider1Time": "05:27:48",
+          "rider2Time": "00:00:00"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=29"
+    },
+    {
+      "participantId": 15,
+      "format": "pair",
+      "number": 15,
+      "name": "team KANDO",
+      "category": "Rally Duplas - Caballeros Master A: 30 a 39 Años(Define la categoría, la Edad del Menor de la Dupla)",
+      "location": null,
+      "position": {
+        "overall": 7,
+        "gender": 7,
+        "category": 5
+      },
+      "totalTime": "11:57:52",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "rider1Time": "02:36:12",
+          "rider2Time": "00:00:00"
+        },
+        {
+          "name": "ETAPA 2 - VARVARCO - LAGUNA LOS CERRILLOS",
+          "rider1Time": "03:56:17",
+          "rider2Time": "00:00:01"
+        },
+        {
+          "name": "ETAPA 3 - LAGUNA LOS CERRILLOS - HUINGANCO",
+          "rider1Time": "05:25:21",
+          "rider2Time": "00:00:02"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=15"
+    },
+    {
+      "participantId": 3,
+      "format": "pair",
+      "number": 3,
+      "name": "Generacion Xz",
+      "category": "Rally Duplas - Caballeros Elite . 15 a 29 Años(Define la categoría, la Edad del Menor de la Dupla)",
+      "location": null,
+      "position": {
+        "overall": 8,
+        "gender": 8,
+        "category": 2
+      },
+      "totalTime": "12:09:08",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "rider1Time": "02:31:27",
+          "rider2Time": "00:00:01"
+        },
+        {
+          "name": "ETAPA 2 - VARVARCO - LAGUNA LOS CERRILLOS",
+          "rider1Time": "03:52:01",
+          "rider2Time": "00:00:00"
+        },
+        {
+          "name": "ETAPA 3 - LAGUNA LOS CERRILLOS - HUINGANCO",
+          "rider1Time": "05:45:40",
+          "rider2Time": "00:00:00"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=3"
+    },
+    {
+      "participantId": 31,
+      "format": "pair",
+      "number": 31,
+      "name": "Rio Colorado",
+      "category": "Rally Duplas - Caballeros Master B: 40 a 49 Años(Define la categoría, la Edad del Menor de la Dupla)",
+      "location": null,
+      "position": {
+        "overall": 9,
+        "gender": 9,
+        "category": 2
+      },
+      "totalTime": "12:38:34",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "rider1Time": "02:30:53",
+          "rider2Time": "00:00:01"
+        },
+        {
+          "name": "ETAPA 2 - VARVARCO - LAGUNA LOS CERRILLOS",
+          "rider1Time": "04:06:38",
+          "rider2Time": "00:00:01"
+        },
+        {
+          "name": "ETAPA 3 - LAGUNA LOS CERRILLOS - HUINGANCO",
+          "rider1Time": "06:01:01",
+          "rider2Time": "00:00:00"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=31"
+    },
+    {
+      "participantId": 18,
+      "format": "pair",
+      "number": 18,
+      "name": "Bike Pringles",
+      "category": "Rally Duplas - Caballeros Master B: 40 a 49 Años(Define la categoría, la Edad del Menor de la Dupla)",
+      "location": null,
+      "position": {
+        "overall": 10,
+        "gender": 10,
+        "category": 3
+      },
+      "totalTime": "12:55:29",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "rider1Time": "02:42:19",
+          "rider2Time": "00:00:01"
+        },
+        {
+          "name": "ETAPA 2 - VARVARCO - LAGUNA LOS CERRILLOS",
+          "rider1Time": "04:20:21",
+          "rider2Time": "00:00:01"
+        },
+        {
+          "name": "ETAPA 3 - LAGUNA LOS CERRILLOS - HUINGANCO",
+          "rider1Time": "05:52:47",
+          "rider2Time": "00:00:00"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=18"
+    },
+    {
+      "participantId": 58,
+      "format": "pair",
+      "number": 58,
+      "name": "team Mira que linda vista",
+      "category": "Rally Duplas - Mixto B: 35 a 49 Años (Define la categoría, la Edad de la Dama)",
+      "location": null,
+      "position": {
+        "overall": 11,
+        "gender": 1,
+        "category": 1
+      },
+      "totalTime": "13:24:31",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "rider1Time": "02:43:10",
+          "rider2Time": "00:00:01"
+        },
+        {
+          "name": "ETAPA 2 - VARVARCO - LAGUNA LOS CERRILLOS",
+          "rider1Time": "04:24:32",
+          "rider2Time": "00:00:01"
+        },
+        {
+          "name": "ETAPA 3 - LAGUNA LOS CERRILLOS - HUINGANCO",
+          "rider1Time": "06:16:45",
+          "rider2Time": "00:00:01"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=58"
+    },
+    {
+      "participantId": 50,
+      "format": "pair",
+      "number": 50,
+      "name": "De Las Mechas Por El Norte",
+      "category": "Rally Duplas - Mixto B: 35 a 49 Años (Define la categoría, la Edad de la Dama)",
+      "location": null,
+      "position": {
+        "overall": 12,
+        "gender": 2,
+        "category": 2
+      },
+      "totalTime": "13:35:12",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "rider1Time": "02:46:49",
+          "rider2Time": "00:00:00"
+        },
+        {
+          "name": "ETAPA 2 - VARVARCO - LAGUNA LOS CERRILLOS",
+          "rider1Time": "04:31:36",
+          "rider2Time": "00:00:00"
+        },
+        {
+          "name": "ETAPA 3 - LAGUNA LOS CERRILLOS - HUINGANCO",
+          "rider1Time": "06:16:46",
+          "rider2Time": "00:00:02"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=50"
+    },
+    {
+      "participantId": 16,
+      "format": "pair",
+      "number": 16,
+      "name": "team Medubiker",
+      "category": "Rally Duplas - Caballeros Master A: 30 a 39 Años(Define la categoría, la Edad del Menor de la Dupla)",
+      "location": null,
+      "position": {
+        "overall": 13,
+        "gender": 11,
+        "category": 6
+      },
+      "totalTime": "13:40:55",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "rider1Time": "02:46:33",
+          "rider2Time": "00:02:39"
+        },
+        {
+          "name": "ETAPA 2 - VARVARCO - LAGUNA LOS CERRILLOS",
+          "rider1Time": "04:36:13",
+          "rider2Time": "00:03:54"
+        },
+        {
+          "name": "ETAPA 3 - LAGUNA LOS CERRILLOS - HUINGANCO",
+          "rider1Time": "06:11:37",
+          "rider2Time": "00:00:01"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=16"
+    },
+    {
+      "participantId": 43,
+      "format": "pair",
+      "number": 43,
+      "name": "Ser Movimiento Retro",
+      "category": "Rally Duplas - Caballeros Master C: 50 a 59 Años(Define la categoría, la Edad del Menor de la Dupla)",
+      "location": null,
+      "position": {
+        "overall": 14,
+        "gender": 12,
+        "category": 1
+      },
+      "totalTime": "13:43:10",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "rider1Time": "02:43:13",
+          "rider2Time": "00:00:00"
+        },
+        {
+          "name": "ETAPA 2 - VARVARCO - LAGUNA LOS CERRILLOS",
+          "rider1Time": "04:29:10",
+          "rider2Time": "00:00:02"
+        },
+        {
+          "name": "ETAPA 3 - LAGUNA LOS CERRILLOS - HUINGANCO",
+          "rider1Time": "06:30:45",
+          "rider2Time": "00:00:00"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=43"
+    },
+    {
+      "participantId": 14,
+      "format": "pair",
+      "number": 14,
+      "name": "Team Catriel",
+      "category": "Rally Duplas - Caballeros Master A: 30 a 39 Años(Define la categoría, la Edad del Menor de la Dupla)",
+      "location": null,
+      "position": {
+        "overall": 15,
+        "gender": 13,
+        "category": 7
+      },
+      "totalTime": "13:54:30",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "rider1Time": "02:45:27",
+          "rider2Time": "00:00:00"
+        },
+        {
+          "name": "ETAPA 2 - VARVARCO - LAGUNA LOS CERRILLOS",
+          "rider1Time": "04:52:19",
+          "rider2Time": "00:00:00"
+        },
+        {
+          "name": "ETAPA 3 - LAGUNA LOS CERRILLOS - HUINGANCO",
+          "rider1Time": "06:16:43",
+          "rider2Time": "00:00:00"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=14"
+    },
+    {
+      "participantId": 22,
+      "format": "pair",
+      "number": 22,
+      "name": "Insert - M11",
+      "category": "Rally Duplas - Caballeros Master B: 40 a 49 Años(Define la categoría, la Edad del Menor de la Dupla)",
+      "location": null,
+      "position": {
+        "overall": 16,
+        "gender": 14,
+        "category": 4
+      },
+      "totalTime": "13:54:53",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "rider1Time": "02:49:20",
+          "rider2Time": "00:00:01"
+        },
+        {
+          "name": "ETAPA 2 - VARVARCO - LAGUNA LOS CERRILLOS",
+          "rider1Time": "04:33:29",
+          "rider2Time": "00:00:00"
+        },
+        {
+          "name": "ETAPA 3 - LAGUNA LOS CERRILLOS - HUINGANCO",
+          "rider1Time": "06:32:02",
+          "rider2Time": "00:00:00"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=22"
+    },
+    {
+      "participantId": 8,
+      "format": "pair",
+      "number": 8,
+      "name": "Chimi Y Changa",
+      "category": "Rally Duplas - Caballeros Master A: 30 a 39 Años(Define la categoría, la Edad del Menor de la Dupla)",
+      "location": null,
+      "position": {
+        "overall": 17,
+        "gender": 15,
+        "category": 8
+      },
+      "totalTime": "13:58:54",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "rider1Time": "02:48:03",
+          "rider2Time": "00:25:34"
+        },
+        {
+          "name": "ETAPA 2 - VARVARCO - LAGUNA LOS CERRILLOS",
+          "rider1Time": "04:28:15",
+          "rider2Time": "00:00:02"
+        },
+        {
+          "name": "ETAPA 3 - LAGUNA LOS CERRILLOS - HUINGANCO",
+          "rider1Time": "06:16:59",
+          "rider2Time": "00:00:00"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=8"
+    },
+    {
+      "participantId": 4,
+      "format": "pair",
+      "number": 4,
+      "name": "Spet Grupa",
+      "category": "Rally Duplas - Caballeros Elite . 15 a 29 Años(Define la categoría, la Edad del Menor de la Dupla)",
+      "location": null,
+      "position": {
+        "overall": 18,
+        "gender": 16,
+        "category": 3
+      },
+      "totalTime": "14:01:39",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "rider1Time": "02:41:28",
+          "rider2Time": "00:00:00"
+        },
+        {
+          "name": "ETAPA 2 - VARVARCO - LAGUNA LOS CERRILLOS",
+          "rider1Time": "04:19:23",
+          "rider2Time": "00:00:00"
+        },
+        {
+          "name": "ETAPA 3 - LAGUNA LOS CERRILLOS - HUINGANCO",
+          "rider1Time": "06:58:48",
+          "rider2Time": "00:00:00"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=4"
+    },
+    {
+      "participantId": 33,
+      "format": "pair",
+      "number": 33,
+      "name": "team LOS TOROS",
+      "category": "Rally Duplas - Caballeros Master B: 40 a 49 Años(Define la categoría, la Edad del Menor de la Dupla)",
+      "location": null,
+      "position": {
+        "overall": 19,
+        "gender": 17,
+        "category": 5
+      },
+      "totalTime": "14:18:55",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "rider1Time": "02:56:43",
+          "rider2Time": "00:00:00"
+        },
+        {
+          "name": "ETAPA 2 - VARVARCO - LAGUNA LOS CERRILLOS",
+          "rider1Time": "04:52:21",
+          "rider2Time": "00:00:01"
+        },
+        {
+          "name": "ETAPA 3 - LAGUNA LOS CERRILLOS - HUINGANCO",
+          "rider1Time": "06:29:51",
+          "rider2Time": "00:00:00"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=33"
+    },
+    {
+      "participantId": 28,
+      "format": "pair",
+      "number": 28,
+      "name": "Pilar Team",
+      "category": "Rally Duplas - Caballeros Master B: 40 a 49 Años(Define la categoría, la Edad del Menor de la Dupla)",
+      "location": null,
+      "position": {
+        "overall": 20,
+        "gender": 18,
+        "category": 6
+      },
+      "totalTime": "14:23:29",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "rider1Time": "02:46:03",
+          "rider2Time": "00:00:00"
+        },
+        {
+          "name": "ETAPA 2 - VARVARCO - LAGUNA LOS CERRILLOS",
+          "rider1Time": "04:24:51",
+          "rider2Time": "00:00:01"
+        },
+        {
+          "name": "ETAPA 3 - LAGUNA LOS CERRILLOS - HUINGANCO",
+          "rider1Time": "07:12:33",
+          "rider2Time": "00:00:01"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=28"
+    },
+    {
+      "participantId": 59,
+      "format": "pair",
+      "number": 59,
+      "name": "Team Rodando Juntos",
+      "category": "Rally Duplas - Mixto B: 35 a 49 Años (Define la categoría, la Edad de la Dama)",
+      "location": null,
+      "position": {
+        "overall": 21,
+        "gender": 3,
+        "category": 3
+      },
+      "totalTime": "14:26:36",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "rider1Time": "02:53:33",
+          "rider2Time": "00:00:00"
+        },
+        {
+          "name": "ETAPA 2 - VARVARCO - LAGUNA LOS CERRILLOS",
+          "rider1Time": "04:51:06",
+          "rider2Time": "00:00:00"
+        },
+        {
+          "name": "ETAPA 3 - LAGUNA LOS CERRILLOS - HUINGANCO",
+          "rider1Time": "06:41:56",
+          "rider2Time": "00:00:00"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=59"
+    },
+    {
+      "participantId": 7,
+      "format": "pair",
+      "number": 7,
+      "name": "Cadena Suelta",
+      "category": "Rally Duplas - Caballeros Master A: 30 a 39 Años(Define la categoría, la Edad del Menor de la Dupla)",
+      "location": null,
+      "position": {
+        "overall": 22,
+        "gender": 19,
+        "category": 9
+      },
+      "totalTime": "14:52:51",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "rider1Time": "03:08:32",
+          "rider2Time": "00:00:30"
+        },
+        {
+          "name": "ETAPA 2 - VARVARCO - LAGUNA LOS CERRILLOS",
+          "rider1Time": "04:58:07",
+          "rider2Time": "00:00:00"
+        },
+        {
+          "name": "ETAPA 3 - LAGUNA LOS CERRILLOS - HUINGANCO",
+          "rider1Time": "06:45:42",
+          "rider2Time": "00:00:00"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=7"
+    },
+    {
+      "participantId": 24,
+      "format": "pair",
+      "number": 24,
+      "name": "Los Espartanos",
+      "category": "Rally Duplas - Caballeros Master B: 40 a 49 Años(Define la categoría, la Edad del Menor de la Dupla)",
+      "location": null,
+      "position": {
+        "overall": 23,
+        "gender": 20,
+        "category": 7
+      },
+      "totalTime": "14:58:44",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "rider1Time": "02:36:16",
+          "rider2Time": "00:00:00"
+        },
+        {
+          "name": "ETAPA 2 - VARVARCO - LAGUNA LOS CERRILLOS",
+          "rider1Time": "03:43:21",
+          "rider2Time": "00:00:01"
+        },
+        {
+          "name": "ETAPA 3 - LAGUNA LOS CERRILLOS - HUINGANCO",
+          "rider1Time": "08:37:04",
+          "rider2Time": "00:00:02"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=24"
+    },
+    {
+      "participantId": 39,
+      "format": "pair",
+      "number": 39,
+      "name": "El Taber",
+      "category": "Rally Duplas - Caballeros Master C: 50 a 59 Años(Define la categoría, la Edad del Menor de la Dupla)",
+      "location": null,
+      "position": {
+        "overall": 24,
+        "gender": 21,
+        "category": 2
+      },
+      "totalTime": "14:59:51",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "rider1Time": "03:08:41",
+          "rider2Time": "00:00:00"
+        },
+        {
+          "name": "ETAPA 2 - VARVARCO - LAGUNA LOS CERRILLOS",
+          "rider1Time": "05:00:43",
+          "rider2Time": "00:00:01"
+        },
+        {
+          "name": "ETAPA 3 - LAGUNA LOS CERRILLOS - HUINGANCO",
+          "rider1Time": "06:50:26",
+          "rider2Time": "00:00:01"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=39"
+    },
+    {
+      "participantId": 30,
+      "format": "pair",
+      "number": 30,
+      "name": "Rayma",
+      "category": "Rally Duplas - Caballeros Master B: 40 a 49 Años(Define la categoría, la Edad del Menor de la Dupla)",
+      "location": null,
+      "position": {
+        "overall": 25,
+        "gender": 22,
+        "category": 8
+      },
+      "totalTime": "15:16:54",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "rider1Time": "02:58:37",
+          "rider2Time": "00:00:10"
+        },
+        {
+          "name": "ETAPA 2 - VARVARCO - LAGUNA LOS CERRILLOS",
+          "rider1Time": "05:11:56",
+          "rider2Time": "00:00:01"
+        },
+        {
+          "name": "ETAPA 3 - LAGUNA LOS CERRILLOS - HUINGANCO",
+          "rider1Time": "07:06:09",
+          "rider2Time": "00:00:01"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=30"
+    },
+    {
+      "participantId": 41,
+      "format": "pair",
+      "number": 41,
+      "name": "Pura Garra",
+      "category": "Rally Duplas - Caballeros Master C: 50 a 59 Años(Define la categoría, la Edad del Menor de la Dupla)",
+      "location": null,
+      "position": {
+        "overall": 26,
+        "gender": 23,
+        "category": 3
+      },
+      "totalTime": "15:18:26",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "rider1Time": "03:11:52",
+          "rider2Time": "00:00:00"
+        },
+        {
+          "name": "ETAPA 2 - VARVARCO - LAGUNA LOS CERRILLOS",
+          "rider1Time": "05:06:51",
+          "rider2Time": "00:00:01"
+        },
+        {
+          "name": "ETAPA 3 - LAGUNA LOS CERRILLOS - HUINGANCO",
+          "rider1Time": "06:59:41",
+          "rider2Time": "00:00:01"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=41"
+    },
+    {
+      "participantId": 38,
+      "format": "pair",
+      "number": 38,
+      "name": "EJM TEAM",
+      "category": "Rally Duplas - Caballeros Master C: 50 a 59 Años(Define la categoría, la Edad del Menor de la Dupla)",
+      "location": null,
+      "position": {
+        "overall": 27,
+        "gender": 24,
+        "category": 4
+      },
+      "totalTime": "15:20:51",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "rider1Time": "03:15:41",
+          "rider2Time": "00:00:00"
+        },
+        {
+          "name": "ETAPA 2 - VARVARCO - LAGUNA LOS CERRILLOS",
+          "rider1Time": "05:05:28",
+          "rider2Time": "00:00:02"
+        },
+        {
+          "name": "ETAPA 3 - LAGUNA LOS CERRILLOS - HUINGANCO",
+          "rider1Time": "06:59:39",
+          "rider2Time": "00:00:00"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=38"
+    },
+    {
+      "participantId": 34,
+      "format": "pair",
+      "number": 34,
+      "name": "team Matrimilleros",
+      "category": "Rally Duplas - Caballeros Master B: 40 a 49 Años(Define la categoría, la Edad del Menor de la Dupla)",
+      "location": null,
+      "position": {
+        "overall": 28,
+        "gender": 25,
+        "category": 9
+      },
+      "totalTime": "15:56:07",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "rider1Time": "02:47:49",
+          "rider2Time": "00:00:00"
+        },
+        {
+          "name": "ETAPA 2 - VARVARCO - LAGUNA LOS CERRILLOS",
+          "rider1Time": "04:29:11",
+          "rider2Time": "00:00:00"
+        },
+        {
+          "name": "ETAPA 3 - LAGUNA LOS CERRILLOS - HUINGANCO",
+          "rider1Time": "08:37:04",
+          "rider2Time": "00:00:02"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=34"
+    },
+    {
+      "participantId": 57,
+      "format": "pair",
+      "number": 57,
+      "name": "Og Factory Team",
+      "category": "Rally Duplas - Mixto B: 35 a 49 Años (Define la categoría, la Edad de la Dama)",
+      "location": null,
+      "position": {
+        "overall": 29,
+        "gender": 4,
+        "category": 4
+      },
+      "totalTime": "15:58:53",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "rider1Time": "03:16:38",
+          "rider2Time": "00:00:00"
+        },
+        {
+          "name": "ETAPA 2 - VARVARCO - LAGUNA LOS CERRILLOS",
+          "rider1Time": "05:17:44",
+          "rider2Time": "00:00:00"
+        },
+        {
+          "name": "ETAPA 3 - LAGUNA LOS CERRILLOS - HUINGANCO",
+          "rider1Time": "07:24:30",
+          "rider2Time": "00:00:00"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=57"
+    },
+    {
+      "participantId": 46,
+      "format": "pair",
+      "number": 46,
+      "name": "Las Gigantes",
+      "category": "Rally Duplas - Damas B: 35 a 49 Años(Define la categoría, la Edad del Menor de la Dupla)",
+      "location": null,
+      "position": {
+        "overall": 30,
+        "gender": 1,
+        "category": 1
+      },
+      "totalTime": "16:03:30",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "rider1Time": "03:19:00",
+          "rider2Time": "00:00:01"
+        },
+        {
+          "name": "ETAPA 2 - VARVARCO - LAGUNA LOS CERRILLOS",
+          "rider1Time": "05:24:13",
+          "rider2Time": "00:00:00"
+        },
+        {
+          "name": "ETAPA 3 - LAGUNA LOS CERRILLOS - HUINGANCO",
+          "rider1Time": "07:20:15",
+          "rider2Time": "00:00:01"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=46"
+    },
+    {
+      "participantId": 49,
+      "format": "pair",
+      "number": 49,
+      "name": "Amo la bici",
+      "category": "Rally Duplas - Mixto B: 35 a 49 Años (Define la categoría, la Edad de la Dama)",
+      "location": null,
+      "position": {
+        "overall": 31,
+        "gender": 5,
+        "category": 5
+      },
+      "totalTime": "16:14:24",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "rider1Time": "03:19:44",
+          "rider2Time": "00:00:01"
+        },
+        {
+          "name": "ETAPA 2 - VARVARCO - LAGUNA LOS CERRILLOS",
+          "rider1Time": "05:24:18",
+          "rider2Time": "00:00:01"
+        },
+        {
+          "name": "ETAPA 3 - LAGUNA LOS CERRILLOS - HUINGANCO",
+          "rider1Time": "07:30:21",
+          "rider2Time": "00:00:00"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=49"
+    },
+    {
+      "participantId": 26,
+      "format": "pair",
+      "number": 26,
+      "name": "Los Gigantes",
+      "category": "Rally Duplas - Caballeros Master B: 40 a 49 Años(Define la categoría, la Edad del Menor de la Dupla)",
+      "location": null,
+      "position": {
+        "overall": 32,
+        "gender": 26,
+        "category": 10
+      },
+      "totalTime": "16:21:31",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "rider1Time": "03:18:30",
+          "rider2Time": "00:00:00"
+        },
+        {
+          "name": "ETAPA 2 - VARVARCO - LAGUNA LOS CERRILLOS",
+          "rider1Time": "05:21:30",
+          "rider2Time": "00:00:02"
+        },
+        {
+          "name": "ETAPA 3 - LAGUNA LOS CERRILLOS - HUINGANCO",
+          "rider1Time": "07:39:41",
+          "rider2Time": "00:01:49"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=26"
+    },
+    {
+      "participantId": 21,
+      "format": "pair",
+      "number": 21,
+      "name": "Cero Movimiento",
+      "category": "Rally Duplas - Caballeros Master B: 40 a 49 Años(Define la categoría, la Edad del Menor de la Dupla)",
+      "location": null,
+      "position": {
+        "overall": 33,
+        "gender": 27,
+        "category": 11
+      },
+      "totalTime": "16:26:58",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "rider1Time": "03:14:13",
+          "rider2Time": "00:00:00"
+        },
+        {
+          "name": "ETAPA 2 - VARVARCO - LAGUNA LOS CERRILLOS",
+          "rider1Time": "05:05:09",
+          "rider2Time": "00:00:00"
+        },
+        {
+          "name": "ETAPA 3 - LAGUNA LOS CERRILLOS - HUINGANCO",
+          "rider1Time": "08:07:36",
+          "rider2Time": "00:00:00"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=21"
+    },
+    {
+      "participantId": 56,
+      "format": "pair",
+      "number": 56,
+      "name": "Mar Baltico",
+      "category": "Rally Duplas - Mixto B: 35 a 49 Años (Define la categoría, la Edad de la Dama)",
+      "location": null,
+      "position": {
+        "overall": 34,
+        "gender": 6,
+        "category": 6
+      },
+      "totalTime": "16:35:32",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "rider1Time": "03:25:37",
+          "rider2Time": "00:00:01"
+        },
+        {
+          "name": "ETAPA 2 - VARVARCO - LAGUNA LOS CERRILLOS",
+          "rider1Time": "05:24:06",
+          "rider2Time": "00:00:01"
+        },
+        {
+          "name": "ETAPA 3 - LAGUNA LOS CERRILLOS - HUINGANCO",
+          "rider1Time": "07:45:46",
+          "rider2Time": "00:00:01"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=56"
+    },
+    {
+      "participantId": 42,
+      "format": "pair",
+      "number": 42,
+      "name": "Rodados Villalba",
+      "category": "Rally Duplas - Caballeros Master C: 50 a 59 Años(Define la categoría, la Edad del Menor de la Dupla)",
+      "location": null,
+      "position": {
+        "overall": 35,
+        "gender": 28,
+        "category": 5
+      },
+      "totalTime": "16:37:29",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "rider1Time": "03:43:28",
+          "rider2Time": "00:00:01"
+        },
+        {
+          "name": "ETAPA 2 - VARVARCO - LAGUNA LOS CERRILLOS",
+          "rider1Time": "05:24:10",
+          "rider2Time": "00:00:00"
+        },
+        {
+          "name": "ETAPA 3 - LAGUNA LOS CERRILLOS - HUINGANCO",
+          "rider1Time": "07:25:50",
+          "rider2Time": "00:00:00"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=42"
+    },
+    {
+      "participantId": 13,
+      "format": "pair",
+      "number": 13,
+      "name": "Painanis",
+      "category": "Rally Duplas - Caballeros Master A: 30 a 39 Años(Define la categoría, la Edad del Menor de la Dupla)",
+      "location": null,
+      "position": {
+        "overall": 36,
+        "gender": 29,
+        "category": 10
+      },
+      "totalTime": "16:39:37",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "rider1Time": "03:27:29",
+          "rider2Time": "00:00:00"
+        },
+        {
+          "name": "ETAPA 2 - VARVARCO - LAGUNA LOS CERRILLOS",
+          "rider1Time": "05:11:56",
+          "rider2Time": "00:00:00"
+        },
+        {
+          "name": "ETAPA 3 - LAGUNA LOS CERRILLOS - HUINGANCO",
+          "rider1Time": "08:00:11",
+          "rider2Time": "00:00:01"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=13"
+    },
+    {
+      "participantId": 37,
+      "format": "pair",
+      "number": 37,
+      "name": "Bicicleteria Charly",
+      "category": "Rally Duplas - Caballeros Master C: 50 a 59 Años(Define la categoría, la Edad del Menor de la Dupla)",
+      "location": null,
+      "position": {
+        "overall": 37,
+        "gender": 30,
+        "category": 6
+      },
+      "totalTime": "17:01:31",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "rider1Time": "03:30:47",
+          "rider2Time": "00:00:00"
+        },
+        {
+          "name": "ETAPA 2 - VARVARCO - LAGUNA LOS CERRILLOS",
+          "rider1Time": "05:38:23",
+          "rider2Time": "00:24:31"
+        },
+        {
+          "name": "ETAPA 3 - LAGUNA LOS CERRILLOS - HUINGANCO",
+          "rider1Time": "07:25:50",
+          "rider2Time": "00:00:00"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=37"
+    },
+    {
+      "participantId": 53,
+      "format": "pair",
+      "number": 53,
+      "name": "La Manada",
+      "category": "Rally Duplas - Mixto B: 35 a 49 Años (Define la categoría, la Edad de la Dama)",
+      "location": null,
+      "position": {
+        "overall": 38,
+        "gender": 7,
+        "category": 7
+      },
+      "totalTime": "17:11:19",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "rider1Time": "03:16:06",
+          "rider2Time": "00:00:01"
+        },
+        {
+          "name": "ETAPA 2 - VARVARCO - LAGUNA LOS CERRILLOS",
+          "rider1Time": "05:24:17",
+          "rider2Time": "01:01:37"
+        },
+        {
+          "name": "ETAPA 3 - LAGUNA LOS CERRILLOS - HUINGANCO",
+          "rider1Time": "07:27:18",
+          "rider2Time": "00:00:01"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=53"
+    },
+    {
+      "participantId": 23,
+      "format": "pair",
+      "number": 23,
+      "name": "Los Cojudos.",
+      "category": "Rally Duplas - Caballeros Master B: 40 a 49 Años(Define la categoría, la Edad del Menor de la Dupla)",
+      "location": null,
+      "position": {
+        "overall": 39,
+        "gender": 31,
+        "category": 12
+      },
+      "totalTime": "17:25:36",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "rider1Time": "03:34:53",
+          "rider2Time": "00:00:01"
+        },
+        {
+          "name": "ETAPA 2 - VARVARCO - LAGUNA LOS CERRILLOS",
+          "rider1Time": "05:54:17",
+          "rider2Time": "00:00:00"
+        },
+        {
+          "name": "ETAPA 3 - LAGUNA LOS CERRILLOS - HUINGANCO",
+          "rider1Time": "07:56:24",
+          "rider2Time": "00:00:01"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=23"
+    },
+    {
+      "participantId": 52,
+      "format": "pair",
+      "number": 52,
+      "name": "Furia Y Alegría",
+      "category": "Rally Duplas - Mixto B: 35 a 49 Años (Define la categoría, la Edad de la Dama)",
+      "location": null,
+      "position": {
+        "overall": 40,
+        "gender": 8,
+        "category": 8
+      },
+      "totalTime": "17:26:30",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "rider1Time": "03:23:25",
+          "rider2Time": "00:00:00"
+        },
+        {
+          "name": "ETAPA 2 - VARVARCO - LAGUNA LOS CERRILLOS",
+          "rider1Time": "05:24:17",
+          "rider2Time": "01:01:37"
+        },
+        {
+          "name": "ETAPA 3 - LAGUNA LOS CERRILLOS - HUINGANCO",
+          "rider1Time": "07:37:12",
+          "rider2Time": "00:00:00"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=52"
+    },
+    {
+      "participantId": 36,
+      "format": "pair",
+      "number": 36,
+      "name": "Timon Y Pumba",
+      "category": "Rally Duplas - Caballeros Master B: 40 a 49 Años(Define la categoría, la Edad del Menor de la Dupla)",
+      "location": null,
+      "position": {
+        "overall": 41,
+        "gender": 32,
+        "category": 13
+      },
+      "totalTime": "17:40:35",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "rider1Time": "02:58:08",
+          "rider2Time": "00:00:00"
+        },
+        {
+          "name": "ETAPA 2 - VARVARCO - LAGUNA LOS CERRILLOS",
+          "rider1Time": "04:18:01",
+          "rider2Time": "01:45:20"
+        },
+        {
+          "name": "ETAPA 3 - LAGUNA LOS CERRILLOS - HUINGANCO",
+          "rider1Time": "08:37:04",
+          "rider2Time": "00:00:02"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=36"
+    },
+    {
+      "participantId": 55,
+      "format": "pair",
+      "number": 55,
+      "name": "Los Correcaminos",
+      "category": "Rally Duplas - Mixto B: 35 a 49 Años (Define la categoría, la Edad de la Dama)",
+      "location": null,
+      "position": {
+        "overall": 42,
+        "gender": 9,
+        "category": 9
+      },
+      "totalTime": "17:50:48",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "rider1Time": "03:39:00",
+          "rider2Time": "00:00:00"
+        },
+        {
+          "name": "ETAPA 2 - VARVARCO - LAGUNA LOS CERRILLOS",
+          "rider1Time": "05:10:51",
+          "rider2Time": "00:42:16"
+        },
+        {
+          "name": "ETAPA 3 - LAGUNA LOS CERRILLOS - HUINGANCO",
+          "rider1Time": "06:54:38",
+          "rider2Time": "01:24:04"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=55"
+    },
+    {
+      "participantId": 35,
+      "format": "pair",
+      "number": 35,
+      "name": "Tero Rengo",
+      "category": "Rally Duplas - Caballeros Master B: 40 a 49 Años(Define la categoría, la Edad del Menor de la Dupla)",
+      "location": null,
+      "position": {
+        "overall": 43,
+        "gender": 33,
+        "category": 14
+      },
+      "totalTime": "18:02:02",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "rider1Time": "03:33:35",
+          "rider2Time": "00:00:01"
+        },
+        {
+          "name": "ETAPA 2 - VARVARCO - LAGUNA LOS CERRILLOS",
+          "rider1Time": "05:49:20",
+          "rider2Time": "00:00:00"
+        },
+        {
+          "name": "ETAPA 3 - LAGUNA LOS CERRILLOS - HUINGANCO",
+          "rider1Time": "08:37:04",
+          "rider2Time": "00:00:02"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=35"
+    },
+    {
+      "participantId": 32,
+      "format": "pair",
+      "number": 32,
+      "name": "Rodamundos Team",
+      "category": "Rally Duplas - Caballeros Master B: 40 a 49 Años(Define la categoría, la Edad del Menor de la Dupla)",
+      "location": null,
+      "position": {
+        "overall": 44,
+        "gender": 34,
+        "category": 15
+      },
+      "totalTime": "18:15:14",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "rider1Time": "03:29:55",
+          "rider2Time": "00:00:00"
+        },
+        {
+          "name": "ETAPA 2 - VARVARCO - LAGUNA LOS CERRILLOS",
+          "rider1Time": "05:16:45",
+          "rider2Time": "00:49:29"
+        },
+        {
+          "name": "ETAPA 3 - LAGUNA LOS CERRILLOS - HUINGANCO",
+          "rider1Time": "08:37:04",
+          "rider2Time": "00:00:02"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=32"
+    },
+    {
+      "participantId": 5,
+      "format": "pair",
+      "number": 5,
+      "name": "Team Huingán",
+      "category": "Rally Duplas - Caballeros Elite . 15 a 29 Años(Define la categoría, la Edad del Menor de la Dupla)",
+      "location": null,
+      "position": {
+        "overall": 45,
+        "gender": 35,
+        "category": 4
+      },
+      "totalTime": "18:19:09",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "rider1Time": "03:51:07",
+          "rider2Time": "00:00:00"
+        },
+        {
+          "name": "ETAPA 2 - VARVARCO - LAGUNA LOS CERRILLOS",
+          "rider1Time": "06:04:36",
+          "rider2Time": "00:00:01"
+        },
+        {
+          "name": "ETAPA 3 - LAGUNA LOS CERRILLOS - HUINGANCO",
+          "rider1Time": "08:21:24",
+          "rider2Time": "00:00:02"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=5"
+    },
+    {
+      "participantId": 20,
+      "format": "pair",
+      "number": 20,
+      "name": "Catadores Lite",
+      "category": "Rally Duplas - Caballeros Master B: 40 a 49 Años(Define la categoría, la Edad del Menor de la Dupla)",
+      "location": null,
+      "position": {
+        "overall": 46,
+        "gender": 36,
+        "category": 16
+      },
+      "totalTime": "18:32:47",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "rider1Time": "03:54:09",
+          "rider2Time": "00:00:01"
+        },
+        {
+          "name": "ETAPA 2 - VARVARCO - LAGUNA LOS CERRILLOS",
+          "rider1Time": "05:21:00",
+          "rider2Time": "00:40:32"
+        },
+        {
+          "name": "ETAPA 3 - LAGUNA LOS CERRILLOS - HUINGANCO",
+          "rider1Time": "08:37:04",
+          "rider2Time": "00:00:02"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=20"
+    },
+    {
+      "participantId": 27,
+      "format": "pair",
+      "number": 27,
+      "name": "Oldelbike",
+      "category": "Rally Duplas - Caballeros Master B: 40 a 49 Años(Define la categoría, la Edad del Menor de la Dupla)",
+      "location": null,
+      "position": {
+        "overall": 47,
+        "gender": 37,
+        "category": 17
+      },
+      "totalTime": "18:33:41",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "rider1Time": "03:53:32",
+          "rider2Time": "00:00:00"
+        },
+        {
+          "name": "ETAPA 2 - VARVARCO - LAGUNA LOS CERRILLOS",
+          "rider1Time": "06:13:22",
+          "rider2Time": "00:00:02"
+        },
+        {
+          "name": "ETAPA 3 - LAGUNA LOS CERRILLOS - HUINGANCO",
+          "rider1Time": "08:26:45",
+          "rider2Time": "00:00:00"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=27"
+    },
+    {
+      "participantId": 48,
+      "format": "pair",
+      "number": 48,
+      "name": "Team Master Neuquen 130",
+      "category": "Rally Duplas - Damas C: 50 y + Años(Define la categoría, la Edad del Menor de la Dupla)",
+      "location": null,
+      "position": {
+        "overall": 48,
+        "gender": 2,
+        "category": 1
+      },
+      "totalTime": "18:39:47",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "rider1Time": "03:58:31",
+          "rider2Time": "00:00:01"
+        },
+        {
+          "name": "ETAPA 2 - VARVARCO - LAGUNA LOS CERRILLOS",
+          "rider1Time": "06:10:05",
+          "rider2Time": "00:00:01"
+        },
+        {
+          "name": "ETAPA 3 - LAGUNA LOS CERRILLOS - HUINGANCO",
+          "rider1Time": "08:29:09",
+          "rider2Time": "00:00:01"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=48"
+    },
+    {
+      "participantId": 51,
+      "format": "pair",
+      "number": 51,
+      "name": "Endurance Mix",
+      "category": "Rally Duplas - Mixto B: 35 a 49 Años (Define la categoría, la Edad de la Dama)",
+      "location": null,
+      "position": {
+        "overall": 49,
+        "gender": 10,
+        "category": 10
+      },
+      "totalTime": "19:07:32",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "rider1Time": "03:18:23",
+          "rider2Time": "00:42:40"
+        },
+        {
+          "name": "ETAPA 2 - VARVARCO - LAGUNA LOS CERRILLOS",
+          "rider1Time": "05:20:42",
+          "rider2Time": "00:42:38"
+        },
+        {
+          "name": "ETAPA 3 - LAGUNA LOS CERRILLOS - HUINGANCO",
+          "rider1Time": "09:01:09",
+          "rider2Time": "00:00:00"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=51"
+    },
+    {
+      "participantId": 54,
+      "format": "pair",
+      "number": 54,
+      "name": "Los Bagley",
+      "category": "Rally Duplas - Mixto B: 35 a 49 Años (Define la categoría, la Edad de la Dama)",
+      "location": null,
+      "position": {
+        "overall": 50,
+        "gender": 11,
+        "category": 11
+      },
+      "totalTime": "19:39:43",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "rider1Time": "04:13:32",
+          "rider2Time": "00:00:00"
+        },
+        {
+          "name": "ETAPA 2 - VARVARCO - LAGUNA LOS CERRILLOS",
+          "rider1Time": "06:15:12",
+          "rider2Time": "00:09:50"
+        },
+        {
+          "name": "ETAPA 3 - LAGUNA LOS CERRILLOS - HUINGANCO",
+          "rider1Time": "09:01:09",
+          "rider2Time": "00:00:00"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=54"
+    },
+    {
+      "participantId": 11,
+      "format": "pair",
+      "number": 11,
+      "name": "Los Pedalestrangers",
+      "category": "Rally Duplas - Caballeros Master A: 30 a 39 Años(Define la categoría, la Edad del Menor de la Dupla)",
+      "location": null,
+      "position": {
+        "overall": 51,
+        "gender": 38,
+        "category": 11
+      },
+      "totalTime": "18:58:47",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "rider1Time": "03:33:07",
+          "rider2Time": "00:37:13"
+        },
+        {
+          "name": "ETAPA 2 - VARVARCO - LAGUNA LOS CERRILLOS",
+          "rider1Time": "05:45:07",
+          "rider2Time": "00:32:47"
+        },
+        {
+          "name": "ETAPA 3 - LAGUNA LOS CERRILLOS - HUINGANCO",
+          "rider1Time": "08:30:33",
+          "rider2Time": null
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=11"
+    },
+    {
+      "participantId": 62,
+      "format": "pair",
+      "number": 62,
+      "name": "Brutal Bike",
+      "category": "Rally Duplas - Caballeros Master B: 40 a 49 Años(Define la categoría, la Edad del Menor de la Dupla)",
+      "location": null,
+      "position": {
+        "overall": 52,
+        "gender": 39,
+        "category": 18
+      },
+      "totalTime": "06:48:36",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "rider1Time": "02:35:58",
+          "rider2Time": "00:00:00"
+        },
+        {
+          "name": "ETAPA 2 - VARVARCO - LAGUNA LOS CERRILLOS",
+          "rider1Time": "04:12:37",
+          "rider2Time": "00:00:00"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=62"
+    },
+    {
+      "participantId": 25,
+      "format": "pair",
+      "number": 25,
+      "name": "Los Galgos",
+      "category": "Rally Duplas - Caballeros Master B: 40 a 49 Años(Define la categoría, la Edad del Menor de la Dupla)",
+      "location": null,
+      "position": {
+        "overall": 53,
+        "gender": 40,
+        "category": 19
+      },
+      "totalTime": "08:16:10",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "rider1Time": "03:01:28",
+          "rider2Time": "00:00:00"
+        },
+        {
+          "name": "ETAPA 2 - VARVARCO - LAGUNA LOS CERRILLOS",
+          "rider1Time": "04:37:46",
+          "rider2Time": "00:36:56"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=25"
+    },
+    {
+      "participantId": 40,
+      "format": "pair",
+      "number": 40,
+      "name": "Mapuche Btt",
+      "category": "Rally Duplas - Caballeros Master C: 50 a 59 Años(Define la categoría, la Edad del Menor de la Dupla)",
+      "location": null,
+      "position": {
+        "overall": 54,
+        "gender": 41,
+        "category": 7
+      },
+      "totalTime": "09:46:23",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "rider1Time": "03:43:28",
+          "rider2Time": "00:00:01"
+        },
+        {
+          "name": "ETAPA 2 - VARVARCO - LAGUNA LOS CERRILLOS",
+          "rider1Time": "05:38:23",
+          "rider2Time": "00:24:31"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=40"
+    },
+    {
+      "participantId": 47,
+      "format": "pair",
+      "number": 47,
+      "name": "Las Desconocidas",
+      "category": "Rally Duplas - Damas C: 50 y + Años(Define la categoría, la Edad del Menor de la Dupla)",
+      "location": null,
+      "position": {
+        "overall": 55,
+        "gender": 3,
+        "category": 2
+      },
+      "totalTime": "09:57:05",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "rider1Time": "03:46:58",
+          "rider2Time": "00:00:01"
+        },
+        {
+          "name": "ETAPA 2 - VARVARCO - LAGUNA LOS CERRILLOS",
+          "rider1Time": "06:10:05",
+          "rider2Time": "00:00:01"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=47"
+    },
+    {
+      "participantId": 45,
+      "format": "pair",
+      "number": 45,
+      "name": "Las Bbr (banda Buena Racha)",
+      "category": "Rally Duplas - Damas B: 35 a 49 Años(Define la categoría, la Edad del Menor de la Dupla)",
+      "location": null,
+      "position": {
+        "overall": 56,
+        "gender": 4,
+        "category": 2
+      },
+      "totalTime": "10:30:51",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "rider1Time": "04:05:49",
+          "rider2Time": "00:00:00"
+        },
+        {
+          "name": "ETAPA 2 - VARVARCO - LAGUNA LOS CERRILLOS",
+          "rider1Time": "06:15:10",
+          "rider2Time": "00:09:52"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=45"
+    },
+    {
+      "participantId": 44,
+      "format": "pair",
+      "number": 44,
+      "name": "Sin Rodillas Y A Puro Corazón",
+      "category": "Rally Duplas - Caballeros Master D: 60 y + Años(Define la categoría, la Edad del Menor de la Dupla)",
+      "location": null,
+      "position": {
+        "overall": 57,
+        "gender": 42,
+        "category": 1
+      },
+      "totalTime": "05:38:30",
+      "stages": [
+        {
+          "name": "ETAPA 1 - HUINGANCO - VARVARCO",
+          "rider1Time": "05:38:28",
+          "rider2Time": "00:00:02"
+        }
+      ],
+      "detailUrl": "https://cronometrajeinstantaneo.com/resultados/rally-del-viento-a-los-andes-2025/ticket?idparticipante=44"
+    }
+  ]
+}
