@@ -43,6 +43,12 @@ function Header() {
           >
             Resultados
           </a>
+          <a
+            href="/#contact"
+            className="text-xs uppercase tracking-[0.18em] text-white/80 transition-colors hover:text-white"
+          >
+            Contacto
+          </a>
 
           <a
             href="/#registration"

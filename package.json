@@ -16,6 +16,7 @@
     "inspect:problematic:tickets:2025": "tsx scripts/inspect-problematic-tickets-2025.ts"
   },
   "dependencies": {
+    "@emailjs/browser": "^4.4.1",
     "@tailwindcss/vite": "^4.3.3",
     "@tmcw/togeojson": "^7.1.2",
     "maplibre-gl": "^6.5.0",

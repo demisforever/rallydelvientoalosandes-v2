@@ -6,6 +6,9 @@ import Stage from '../../components/Stages/Stage'
 import stage1Gpx from '../../assets/gpx/etapa-1-huinganco-varvarco.gpx?raw'
 import stage2Gpx from '../../assets/gpx/etapa-2-varvarco-los-cerrillos.gpx?raw'
 import stage3Gpx from '../../assets/gpx/etapa-3-los-cerrillos-huinganco.gpx?raw'
+import Contact from '../../components/Contact/Contact'
+import Footer from '../../components/Footer/Footer'
+import Gallery from '../../components/Gallery/Gallery'
 
 function Home() {
   return (
@@ -43,6 +46,10 @@ function Home() {
           mapSide="left"
         />
       </div>
+
+      <Gallery />
+      <Contact />
+      <Footer />
     </main>
   )
 }

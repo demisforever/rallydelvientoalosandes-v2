@@ -8,3 +8,74 @@ body {
   margin: 0;
   min-width: 320px;
 }
+
+/* ============================================================
+   DOCUMENTS
+   ============================================================ */
+
+.medical-document-page {
+  --document-accent: #c08a45;
+}
+
+.medical-document-paper {
+  font-family: Georgia, 'Times New Roman', serif;
+}
+
+.medical-document-paper h2,
+.medical-document-paper p,
+.medical-document-paper span {
+  color: #171717;
+}
+
+/* ============================================================
+   PRINT
+   ============================================================ */
+
+@media print {
+  @page {
+    size: A4;
+    margin: 0;
+  }
+
+  html,
+  body {
+    background: #f4f1eb !important;
+  }
+
+  body {
+    margin: 0;
+  }
+
+  .medical-document-page {
+    min-height: auto !important;
+    background: #f4f1eb !important;
+    color: #171717 !important;
+  }
+
+  .medical-document-page > header,
+  .medical-document-page > nav,
+  .medical-document-header,
+  .medical-document-page section > div > div:last-child {
+    display: none !important;
+  }
+
+  .medical-document-page section {
+    padding: 0 !important;
+  }
+
+  .medical-document-paper {
+    display: block !important;
+    width: 100%;
+    max-width: none !important;
+    min-height: 100vh;
+    margin: 0 !important;
+    padding: 18mm 18mm 15mm !important;
+    background: #f4f1eb !important;
+    box-shadow: none !important;
+  }
+
+  .medical-document-paper img {
+    print-color-adjust: exact;
+    -webkit-print-color-adjust: exact;
+  }
+}
