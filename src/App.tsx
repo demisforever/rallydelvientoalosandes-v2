@@ -5,6 +5,7 @@ import ResultsPage from './pages/Results/ResultsPage'
 import RegulationPage from './pages/Documents/RegulationPage'
 import MedicalCertificatePage from './pages/Documents/MedicalCertificatePage'
 import MinorAuthorizationPage from './pages/Documents/MinorAuthorizationPage'
+import LiabilityWaiverPage from './pages/Documents/LiabilityWaiverPage'
 
 function App() {
   return (
@@ -28,6 +29,10 @@ function App() {
         <Route
           path="/documentos/autorizacion-menores"
           element={<MinorAuthorizationPage />}
+        />
+        <Route
+          path="/documentos/deslinde"
+          element={<LiabilityWaiverPage />}
         />
       </Routes>
     </BrowserRouter>

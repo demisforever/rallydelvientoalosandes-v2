@@ -1,0 +1,1165 @@
+/* ============================================================
+   REGULATION DOCUMENT
+   ============================================================ */
+
+.regulation-page {
+  --regulation-accent: #c08a45;
+  --regulation-background: #0f0f10;
+}
+
+/* ============================================================
+   HEADER / HERO
+   ============================================================ */
+
+.regulation-hero img {
+  object-fit: contain;
+}
+
+.regulation-hero h1 {
+  line-height: 1.1;
+}
+
+/* ============================================================
+   DOCUMENT
+   ============================================================ */
+
+.regulation-document {
+  max-width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.regulation-document-header {
+  padding-bottom: 3rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+/* ============================================================
+   TABLE OF CONTENTS
+   ============================================================ */
+
+.regulation-contents {
+  scroll-margin-top: 120px;
+}
+
+.regulation-content-link {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+
+  padding: 0.65rem 0;
+
+  color: rgba(255, 255, 255, 0.55);
+
+  font-size: 0.72rem;
+  line-height: 1.4;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+
+  transition:
+    color 180ms ease,
+    transform 180ms ease;
+}
+
+.regulation-content-link span:first-child {
+  min-width: 1.8rem;
+
+  color: var(--regulation-accent);
+
+  font-size: 0.65rem;
+  letter-spacing: 0.12em;
+}
+
+.regulation-content-link:hover {
+  color: rgba(255, 255, 255, 0.95);
+  transform: translateX(4px);
+}
+
+/* ============================================================
+   SECTIONS
+   ============================================================ */
+
+.regulation-section {
+  margin-top: 7rem;
+  scroll-margin-top: 100px;
+}
+
+.regulation-section-header {
+  margin-bottom: 3rem;
+}
+
+.regulation-section-header h2 {
+  line-height: 1.2;
+}
+
+/* ============================================================
+   BODY
+   ============================================================ */
+
+.regulation-body {
+  color: rgba(255, 255, 255, 0.68);
+
+  font-size: 0.95rem;
+  line-height: 1.9;
+}
+
+.regulation-body p {
+  margin: 0;
+}
+
+.regulation-body > p + p {
+  margin-top: 1.5rem;
+}
+
+/* ============================================================
+   ITEMS
+   ============================================================ */
+
+.regulation-item {
+  display: grid;
+  grid-template-columns: 2rem minmax(0, 1fr);
+
+  column-gap: 0.75rem;
+
+  margin-bottom: 2rem;
+}
+
+.regulation-item:last-child {
+  margin-bottom: 0;
+}
+
+.regulation-item-label {
+  color: var(--regulation-accent);
+
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+
+  padding-top: 0.15rem;
+}
+
+.regulation-item-content {
+  min-width: 0;
+}
+
+.regulation-item-no-label {
+  display: block;
+}
+
+.regulation-item-no-label .regulation-item-content {
+  width: 100%;
+}
+
+/* ============================================================
+   CATEGORIES
+   ============================================================ */
+
+.regulation-category {
+  margin-bottom: 2rem;
+
+  padding-left: 1.25rem;
+
+  border-left: 1px solid rgba(192, 138, 69, 0.35);
+}
+
+.regulation-category:last-child {
+  margin-bottom: 0;
+}
+
+.regulation-category h3 {
+  color: rgba(255, 255, 255, 0.95);
+
+  font-size: 0.75rem;
+  font-weight: 600;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+}
+
+.regulation-category p {
+  color: rgba(255, 255, 255, 0.62);
+
+  font-size: 0.9rem;
+  line-height: 1.8;
+}
+
+/* ============================================================
+   STAGES
+   ============================================================ */
+
+.regulation-stage {
+  position: relative;
+
+  margin-top: 4rem;
+  padding-left: 1.5rem;
+
+  border-left: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.regulation-stage:first-child {
+  margin-top: 0;
+}
+
+.regulation-stage::before {
+  content: '';
+
+  position: absolute;
+  left: -4px;
+  top: 0;
+
+  width: 7px;
+  height: 7px;
+
+  border-radius: 50%;
+
+  background: var(--regulation-accent);
+}
+
+.regulation-stage-heading h3 {
+  line-height: 1.25;
+}
+
+.regulation-stage-content {
+  margin-top: 2rem;
+
+  color: rgba(255, 255, 255, 0.65);
+
+  font-size: 0.92rem;
+  line-height: 1.9;
+}
+
+.regulation-stage-content p + p {
+  margin-top: 1.5rem;
+}
+
+/* ============================================================
+   CLOSING
+   ============================================================ */
+
+.regulation-closing {
+  margin-top: 8rem;
+  padding-top: 1rem;
+  padding-bottom: 2rem;
+}
+
+.regulation-closing p {
+  letter-spacing: 0.12em;
+}
+
+/* ============================================================
+   ACTIONS
+   ============================================================ */
+
+.regulation-actions {
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+  padding-top: 2rem;
+}
+
+/* ============================================================
+   MOBILE
+   ============================================================ */
+
+@media (max-width: 640px) {
+  .regulation-document {
+    width: 100%;
+  }
+
+  .regulation-section {
+    margin-top: 5rem;
+  }
+
+  .regulation-section-header {
+    margin-bottom: 2rem;
+  }
+
+  .regulation-section-header > div:first-child {
+    align-items: flex-start;
+  }
+
+  .regulation-section-header h2 {
+    font-size: 1.4rem;
+  }
+
+  .regulation-body {
+    font-size: 0.9rem;
+    line-height: 1.8;
+  }
+
+  .regulation-item {
+    grid-template-columns: 1.5rem minmax(0, 1fr);
+    column-gap: 0.5rem;
+
+    margin-bottom: 1.75rem;
+  }
+
+  .regulation-item-label {
+    font-size: 0.65rem;
+  }
+
+  .regulation-stage {
+    margin-top: 3.5rem;
+    padding-left: 1rem;
+  }
+
+  .regulation-stage-content {
+    font-size: 0.88rem;
+    line-height: 1.8;
+  }
+
+  .regulation-closing {
+    margin-top: 6rem;
+  }
+
+  .regulation-closing p {
+    font-size: 0.9rem;
+  }
+}
+
+/* ============================================================
+   LIABILITY WAIVER
+   ============================================================ */
+
+.minor-team-data {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 2rem;
+}
+
+.minor-form-field {
+  display: flex;
+  flex-direction: column;
+  gap: 0.65rem;
+}
+
+.minor-form-field > span,
+.minor-signature-data span {
+  color: rgba(255, 255, 255, 0.45);
+  font-size: 0.65rem;
+  font-weight: 500;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.minor-form-line {
+  width: 100%;
+  height: 1px;
+  background: rgba(255, 255, 255, 0.2);
+}
+
+.minor-signatures-section {
+  margin-top: 7rem;
+}
+
+.minor-signatures-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 4rem;
+}
+
+.minor-signature-block {
+  min-width: 0;
+}
+
+.minor-signature-line {
+  width: 100%;
+  height: 7rem;
+  border-bottom: 1px solid rgba(255, 255, 255, 0.25);
+}
+
+.minor-signature-role {
+  margin-top: 1rem;
+  color: rgba(255, 255, 255, 0.75);
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+}
+
+.minor-signature-data {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+  margin-top: 2rem;
+}
+
+.minor-signature-data > div {
+  display: flex;
+  flex-direction: column;
+  gap: 0.65rem;
+}
+
+/* ============================================================
+   LIABILITY WAIVER — DOCUMENT
+   ============================================================ */
+
+.liability-document {
+  background: #ffffff;
+  color: #171717;
+  border-radius: 2px;
+  padding: 3.25rem 4rem;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.25);
+}
+
+/* ------------------------------------------------------------
+   HEADER
+   ------------------------------------------------------------ */
+
+.liability-document .regulation-document-header {
+  padding-bottom: 2rem;
+  border-bottom-color: rgba(0, 0, 0, 0.12);
+}
+
+.liability-document .regulation-document-header img {
+  width: 9rem;
+  margin-bottom: 1.25rem;
+}
+
+.liability-document .regulation-document-header p {
+  color: rgba(23, 23, 23, 0.55);
+}
+
+.liability-document .regulation-document-header p.text-\[\#C08A45\] {
+  color: #9a6a35;
+}
+
+.liability-document .regulation-document-header h2 {
+  color: #171717;
+  font-size: 1.45rem;
+}
+
+.liability-document .regulation-document-header p:last-child {
+  font-size: 0.65rem;
+}
+
+/* ------------------------------------------------------------
+   SECTIONS
+   ------------------------------------------------------------ */
+
+.liability-document .regulation-section {
+  margin-top: 2.75rem;
+}
+
+.liability-document .regulation-section-header {
+  margin-bottom: 1rem;
+}
+
+.liability-document .regulation-section-header > div:first-child {
+  gap: 0.65rem;
+}
+
+.liability-document .regulation-section-header span {
+  color: #9a6a35;
+  font-size: 0.6rem;
+}
+
+.liability-document .regulation-section-header > div:last-child {
+  background: rgba(0, 0, 0, 0.12);
+}
+
+.liability-document .regulation-section-header h2 {
+  color: #171717;
+  font-size: 1.05rem;
+  margin-top: 0.5rem;
+}
+
+/* ------------------------------------------------------------
+   BODY
+   ------------------------------------------------------------ */
+
+.liability-document .regulation-body {
+  color: #3f3f3f;
+  font-size: 0.88rem;
+  line-height: 1.65;
+}
+
+.liability-document .regulation-body strong {
+  color: #171717;
+}
+
+/* ------------------------------------------------------------
+   PARTICIPANT DATA
+   ------------------------------------------------------------ */
+
+.liability-document .minor-team-data {
+  gap: 2.5rem;
+}
+
+.liability-document .minor-form-field {
+  gap: 0.5rem;
+}
+
+.liability-document .minor-form-field > span,
+.liability-document .minor-signature-data span {
+  color: #666666;
+  font-size: 0.6rem;
+}
+
+/* ------------------------------------------------------------
+   SIGNATURES
+   ------------------------------------------------------------ */
+
+.liability-document .minor-signatures-section {
+  margin-top: 3rem;
+}
+
+.liability-document .minor-signatures-grid {
+  gap: 3rem;
+}
+
+.liability-document .minor-signature-line {
+  height: 5rem;
+  border-bottom-color: #888888;
+}
+
+.liability-document .minor-signature-role {
+  margin-top: 0.75rem;
+  color: #333333;
+  font-size: 0.65rem;
+}
+
+.liability-document .minor-signature-data {
+  gap: 1rem;
+  margin-top: 1.25rem;
+}
+
+.liability-document .minor-signature-data > div {
+  gap: 0.5rem;
+}
+
+.liability-document .minor-form-line {
+  background: #999999;
+}
+
+/* ------------------------------------------------------------
+   CLOSING
+   ------------------------------------------------------------ */
+
+.liability-document .regulation-closing {
+  margin-top: 3rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0;
+  color: #555555;
+}
+
+.liability-document .regulation-closing > div {
+  background: #9a6a35;
+  margin-bottom: 1rem !important;
+}
+
+.liability-document .regulation-closing p {
+  color: #555555;
+  font-size: 0.65rem;
+}
+
+/* ============================================================
+   LIABILITY WAIVER — MOBILE
+   ============================================================ */
+
+@media (max-width: 640px) {
+  .minor-team-data {
+    grid-template-columns: 1fr;
+    gap: 1.75rem;
+  }
+
+  .minor-signatures-section {
+    margin-top: 5rem;
+  }
+
+  .minor-signatures-grid {
+    grid-template-columns: 1fr;
+    gap: 4rem;
+  }
+
+  .minor-signature-line {
+    height: 6rem;
+  }
+
+  .liability-document {
+    padding: 2rem 1.25rem;
+  }
+
+  .liability-document .regulation-document-header img {
+    width: 8rem;
+  }
+
+  .liability-document .regulation-document-header h2 {
+    font-size: 1.2rem;
+  }
+
+  .liability-document .regulation-section {
+    margin-top: 2.5rem;
+  }
+
+  .liability-document .minor-team-data {
+    grid-template-columns: 1fr;
+    gap: 1.5rem;
+  }
+
+  .liability-document .minor-signatures-grid {
+    grid-template-columns: 1fr;
+    gap: 3rem;
+  }
+}
+
+/* ============================================================
+   PRINT / PDF
+   ============================================================ */
+
+@media print {
+  @page {
+    size: A4;
+    margin: 16mm 17mm 17mm;
+  }
+
+  html,
+  body {
+    background: #ffffff !important;
+  }
+
+  body {
+    margin: 0 !important;
+  }
+
+  .regulation-page {
+    min-height: auto !important;
+    background: #ffffff !important;
+    color: #171717 !important;
+  }
+
+  /* Hide site navigation and screen-only elements */
+
+  .regulation-page > header,
+  .regulation-hero,
+  .regulation-contents,
+  .regulation-actions {
+    display: none !important;
+  }
+
+  .regulation-page > section {
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  .regulation-document {
+    width: 100%;
+    max-width: none;
+    margin: 0 !important;
+  }
+
+  .regulation-document-header {
+    padding-bottom: 8mm;
+    border-bottom: 1px solid #d8d8d8;
+  }
+
+  .regulation-document-header p,
+  .regulation-document-header h2 {
+    color: #171717 !important;
+  }
+
+  .regulation-document-header p:first-child {
+    color: #9a6a35 !important;
+  }
+
+  .regulation-introduction {
+    color: #333333 !important;
+    font-size: 10.5pt !important;
+    line-height: 1.7 !important;
+  }
+
+  .regulation-section {
+    margin-top: 12mm;
+    page-break-inside: auto;
+    break-inside: auto;
+  }
+
+  .regulation-section-header {
+    margin-bottom: 7mm;
+    page-break-after: avoid;
+    break-after: avoid;
+  }
+
+  .regulation-section-header > div {
+    display: flex;
+    align-items: baseline;
+  }
+
+  .regulation-section-header span {
+    color: #9a6a35 !important;
+  }
+
+  .regulation-section-header h2 {
+    color: #171717 !important;
+    font-size: 17pt !important;
+  }
+
+  .regulation-section-header > div:last-child {
+    background: #d8d8d8 !important;
+  }
+
+  .regulation-body {
+    color: #333333 !important;
+    font-size: 10.5pt !important;
+    line-height: 1.65 !important;
+  }
+
+  .regulation-item {
+    page-break-inside: avoid;
+    break-inside: avoid;
+    margin-bottom: 5mm;
+  }
+
+  .regulation-item-label {
+    color: #9a6a35 !important;
+  }
+
+  .regulation-category {
+    page-break-inside: avoid;
+    break-inside: avoid;
+    border-left-color: #c8a77c;
+  }
+
+  .regulation-category h3 {
+    color: #171717 !important;
+  }
+
+  .regulation-category p {
+    color: #444444 !important;
+  }
+
+  .regulation-stage {
+    page-break-inside: auto;
+    break-inside: auto;
+    border-left-color: #d8d8d8;
+  }
+
+  .regulation-stage::before {
+    background: #9a6a35 !important;
+  }
+
+  .regulation-stage-heading {
+    page-break-after: avoid;
+    break-after: avoid;
+  }
+
+  .regulation-stage-heading h3 {
+    color: #171717 !important;
+  }
+
+  .regulation-stage-heading > div:nth-child(2) {
+    border-top-color: #d8d8d8 !important;
+    border-bottom-color: #d8d8d8 !important;
+  }
+
+  .regulation-stage-heading > div:nth-child(2) span {
+    color: #555555 !important;
+  }
+
+  .regulation-stage-heading > div:nth-child(2) span:first-child {
+    color: #999999 !important;
+  }
+
+  .regulation-stage-content {
+    color: #333333 !important;
+    font-size: 10.5pt !important;
+    line-height: 1.65 !important;
+  }
+
+  .regulation-closing {
+    margin-top: 12mm;
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+
+  .regulation-closing > div {
+    background: #9a6a35 !important;
+  }
+
+  .regulation-closing p {
+    color: #333333 !important;
+  }
+
+  /* Avoid orphan headings */
+
+  h1,
+  h2,
+  h3 {
+    page-break-after: avoid;
+    break-after: avoid;
+  }
+
+  /* Avoid awkward paragraph splitting */
+
+  p {
+    orphans: 3;
+    widows: 3;
+  }
+
+  /* Remove shadows and transitions */
+
+  * {
+    box-shadow: none !important;
+    text-shadow: none !important;
+    transition: none !important;
+  }
+}
+
+/* ============================================================
+   LIABILITY WAIVER — PRINT / A4
+   ============================================================ */
+
+@page liability {
+  size: A4;
+  margin: 10mm;
+}
+
+@media print {
+  html,
+  body {
+    background: #ffffff !important;
+  }
+
+  body {
+    margin: 0 !important;
+  }
+
+  /* Ocultar elementos propios de la web */
+
+  .regulation-page > header,
+  .regulation-hero,
+  .regulation-actions {
+    display: none !important;
+  }
+
+  .regulation-page {
+    min-height: auto !important;
+    background: #ffffff !important;
+    color: #171717 !important;
+  }
+
+  .regulation-page > section {
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  .regulation-page > section > div {
+    max-width: none !important;
+    margin: 0 !important;
+  }
+
+  /* ----------------------------------------------------------
+     HOJA A4
+     ---------------------------------------------------------- */
+
+  .liability-document {
+    page: liability;
+    width: 190mm;
+    max-width: none !important;
+
+    margin: 0 !important;
+    padding: 0 !important;
+
+    background: #ffffff !important;
+    color: #171717 !important;
+
+    border-radius: 0 !important;
+    box-shadow: none !important;
+  }
+
+  /* ----------------------------------------------------------
+     ENCABEZADO
+     ---------------------------------------------------------- */
+
+  .liability-document .regulation-document-header {
+    padding-bottom: 5mm;
+    border-bottom: 1px solid #d8d8d8;
+  }
+
+  .liability-document .regulation-document-header img {
+    width: 30mm !important;
+    margin-bottom: 3mm !important;
+  }
+
+  .liability-document .regulation-document-header p {
+    color: #555555 !important;
+  }
+
+  .liability-document .regulation-document-header p.text-\[\#C08A45\] {
+    color: #9a6a35 !important;
+  }
+
+  .liability-document .regulation-document-header h2 {
+    color: #171717 !important;
+    font-size: 15pt !important;
+    margin-top: 2mm !important;
+  }
+
+  .liability-document .regulation-document-header p:last-child {
+    color: #666666 !important;
+    font-size: 7pt !important;
+    margin-top: 2mm !important;
+  }
+
+  /* ----------------------------------------------------------
+     SECCIONES
+     ---------------------------------------------------------- */
+
+  .liability-document .regulation-section {
+    margin-top: 6mm !important;
+
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+
+  .liability-document .regulation-section-header {
+    margin-bottom: 2.5mm !important;
+
+    page-break-after: avoid;
+    break-after: avoid;
+  }
+
+  .liability-document .regulation-section-header > div:first-child {
+    gap: 2.5mm;
+  }
+
+  .liability-document .regulation-section-header span {
+    color: #9a6a35 !important;
+    font-size: 6pt !important;
+  }
+
+  .liability-document .regulation-section-header > div:last-child {
+    background: #d8d8d8 !important;
+  }
+
+  .liability-document .regulation-section-header h2 {
+    color: #171717 !important;
+    font-size: 12pt !important;
+    margin-top: 1mm !important;
+  }
+
+  /* ----------------------------------------------------------
+     TEXTO
+     ---------------------------------------------------------- */
+
+  .liability-document .regulation-body {
+    color: #333333 !important;
+    font-size: 9pt !important;
+    line-height: 1.45 !important;
+  }
+
+  .liability-document .regulation-body strong {
+    color: #171717 !important;
+  }
+
+  .liability-document p {
+    orphans: 3;
+    widows: 3;
+  }
+
+  /* ----------------------------------------------------------
+     DATOS DEL EQUIPO
+     ---------------------------------------------------------- */
+
+  .liability-document .minor-team-data {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 10mm;
+  }
+
+  .liability-document .minor-form-field {
+    gap: 1.5mm;
+  }
+
+  .liability-document .minor-form-field > span,
+  .liability-document .minor-signature-data span {
+    color: #555555 !important;
+    font-size: 6.5pt !important;
+  }
+
+  .liability-document .minor-form-line {
+    background: #888888 !important;
+  }
+
+  /* ----------------------------------------------------------
+     FIRMAS
+     ---------------------------------------------------------- */
+
+  .liability-document .minor-signatures-section {
+    margin-top: 7mm !important;
+  }
+
+  .liability-document .minor-signatures-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 10mm;
+  }
+
+  .liability-document .minor-signature-block {
+    page-break-inside: avoid;
+    break-inside: avoid;
+  }
+
+  .liability-document .minor-signature-line {
+    height: 16mm;
+    border-bottom-color: #888888 !important;
+  }
+
+  .liability-document .minor-signature-role {
+    margin-top: 2mm;
+    color: #333333 !important;
+    font-size: 7pt !important;
+  }
+
+  .liability-document .minor-signature-data {
+    gap: 4mm;
+    margin-top: 4mm;
+  }
+
+  .liability-document .minor-signature-data > div {
+    gap: 1.5mm;
+  }
+
+  /* ----------------------------------------------------------
+     FECHA
+     ---------------------------------------------------------- */
+
+  .liability-document .regulation-closing {
+    margin-top: 3mm;
+    padding-top: 1mm;
+    padding-bottom: 0;
+  }
+
+  .liability-document .regulation-closing > div {
+    width: 16mm !important;
+    margin-bottom: 3mm !important;
+    background: #9a6a35 !important;
+  }
+
+  .liability-document .regulation-closing p {
+    color: #555555 !important;
+    font-size: 7pt !important;
+  }
+
+  /* ----------------------------------------------------------
+     LIMPIEZA
+     ---------------------------------------------------------- */
+
+  * {
+    box-shadow: none !important;
+    text-shadow: none !important;
+    transition: none !important;
+  }
+}
+
+/* =========================================================
+   MEDICAL CERTIFICATE - PRINT
+========================================================= */
+
+@page medical-certificate {
+  size: A4 portrait;
+  margin: 10mm;
+}
+
+@media print {
+  .medical-document-page {
+    min-height: auto !important;
+    height: auto !important;
+    background: #ffffff !important;
+    color: #171717 !important;
+  }
+
+  .medical-document-page > section {
+    padding: 0 !important;
+    margin: 0 !important;
+  }
+
+  .medical-document-page > section > div {
+    max-width: none !important;
+    margin: 0 !important;
+  }
+
+  /* Oculta el encabezado exterior de la página */
+  .medical-document-page > section > div > .medical-document-header {
+    display: none !important;
+  }
+
+  /* Hoja imprimible */
+  .medical-document-paper {
+    page: medical-certificate;
+    width: 100% !important;
+    max-width: none !important;
+    margin: 0 !important;
+    padding: 10mm 14mm !important;
+    background: #ffffff !important;
+    color: #171717 !important;
+    box-shadow: none !important;
+    border: none !important;
+    overflow: visible !important;
+    break-inside: avoid !important;
+    page-break-inside: avoid !important;
+  }
+
+  .medical-document-paper > div {
+    max-width: none !important;
+    margin: 0 !important;
+  }
+
+  /* Compactamos un poco el contenido para asegurar una sola A4 */
+  .medical-document-paper > div > header {
+    padding-bottom: 5mm !important;
+  }
+
+  .medical-document-paper > div > header img {
+    width: 34mm !important;
+    margin-bottom: 4mm !important;
+  }
+
+  .medical-document-paper section {
+    padding-top: 6mm !important;
+  }
+
+  .medical-document-paper section h2 {
+    font-size: 16pt !important;
+    line-height: 1.2 !important;
+  }
+
+  .medical-document-paper section > div {
+    line-height: 1.5 !important;
+  }
+
+  .medical-document-paper .mt-10 {
+    margin-top: 6mm !important;
+  }
+
+  .medical-document-paper .mt-12 {
+    margin-top: 8mm !important;
+  }
+
+  .medical-document-paper .mt-16 {
+    margin-top: 10mm !important;
+  }
+
+  .medical-document-paper .space-y-8 > * + * {
+    margin-top: 5mm !important;
+  }
+
+  .medical-document-paper .space-y-7 > * + * {
+    margin-top: 4mm !important;
+  }
+
+  .medical-document-paper .h-20 {
+    height: 16mm !important;
+  }
+
+  .medical-document-paper .w-64 {
+    width: 58mm !important;
+  }
+
+  /* Oculta los botones de la aplicación */
+  .medical-document-page .regulation-actions,
+  .medical-document-page button {
+    display: none !important;
+  }
+
+  /* Evita elementos flotando fuera de la hoja */
+  .medical-document-page * {
+    print-color-adjust: exact;
+    -webkit-print-color-adjust: exact;
+  }
+}

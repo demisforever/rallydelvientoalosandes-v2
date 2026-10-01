@@ -9,6 +9,7 @@ import stage3Gpx from '../../assets/gpx/etapa-3-los-cerrillos-huinganco.gpx?raw'
 import Contact from '../../components/Contact/Contact'
 import Footer from '../../components/Footer/Footer'
 import Gallery from '../../components/Gallery/Gallery'
+import Documents from '../../components/Documents/Documents'
 
 function Home() {
   return (
@@ -48,6 +49,7 @@ function Home() {
       </div>
 
       <Gallery />
+      <Documents />
       <Contact />
       <Footer />
     </main>

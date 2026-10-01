@@ -44,6 +44,12 @@ function Header() {
             Resultados
           </a>
           <a
+            href="/#documents"
+            className="text-xs uppercase tracking-[0.18em] text-white/80 transition-colors hover:text-white"
+          >
+            Documentos
+          </a>
+          <a
             href="/#contact"
             className="text-xs uppercase tracking-[0.18em] text-white/80 transition-colors hover:text-white"
           >

@@ -1,0 +1,151 @@
+.documents-section {
+  position: relative;
+  overflow: hidden;
+}
+
+.documents-card {
+  position: relative;
+  display: flex;
+  min-height: 250px;
+  gap: 2rem;
+  padding: 2rem;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  background: rgba(255, 255, 255, 0.015);
+  text-decoration: none;
+  transition:
+    border-color 300ms ease,
+    background-color 300ms ease,
+    transform 300ms ease;
+}
+
+.documents-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 3px;
+  height: 0;
+  background: #c08a45;
+  transition: height 300ms ease;
+}
+
+.documents-card:hover {
+  border-color: rgba(192, 138, 69, 0.4);
+  background: rgba(192, 138, 69, 0.035);
+  transform: translateY(-3px);
+}
+
+.documents-card:hover::before {
+  height: 100%;
+}
+
+.documents-card-number {
+  flex-shrink: 0;
+  padding-top: 0.15rem;
+  color: rgba(192, 138, 69, 0.7);
+  font-size: 0.7rem;
+  font-weight: 500;
+  letter-spacing: 0.2em;
+}
+
+.documents-card-content {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  min-width: 0;
+}
+
+.documents-card-content h3 {
+  margin: 0;
+  color: rgba(255, 255, 255, 0.95);
+  font-size: 1.35rem;
+  font-weight: 400;
+  letter-spacing: -0.02em;
+  line-height: 1.3;
+  transition: color 300ms ease;
+}
+
+.documents-card:hover .documents-card-content h3 {
+  color: #c08a45;
+}
+
+.documents-card-content p {
+  max-width: 560px;
+  margin: 1rem 0 0;
+  color: rgba(255, 255, 255, 0.5);
+  font-size: 0.9rem;
+  line-height: 1.8;
+}
+
+.documents-card-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.65rem;
+  margin-top: auto;
+  padding-top: 2rem;
+  color: rgba(255, 255, 255, 0.65);
+  font-size: 0.65rem;
+  font-weight: 500;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  transition:
+    color 300ms ease,
+    gap 300ms ease;
+}
+
+.documents-card-link span {
+  color: #c08a45;
+  font-size: 1rem;
+  line-height: 1;
+  transition: transform 300ms ease;
+}
+
+.documents-card:hover .documents-card-link {
+  color: rgba(255, 255, 255, 0.95);
+  gap: 0.9rem;
+}
+
+.documents-card:hover .documents-card-link span {
+  transform: translateX(3px);
+}
+
+/* ----------------------------------------
+   Responsive
+---------------------------------------- */
+
+@media (max-width: 767px) {
+  .documents-card {
+    min-height: 230px;
+    gap: 1.25rem;
+    padding: 1.5rem;
+  }
+
+  .documents-card-content h3 {
+    font-size: 1.15rem;
+  }
+
+  .documents-card-content p {
+    font-size: 0.85rem;
+    line-height: 1.7;
+  }
+
+  .documents-card-link {
+    padding-top: 1.5rem;
+  }
+}
+
+@media (max-width: 480px) {
+  .documents-card {
+    min-height: 0;
+    gap: 1rem;
+    padding: 1.25rem;
+  }
+
+  .documents-card-number {
+    font-size: 0.6rem;
+  }
+
+  .documents-card-content h3 {
+    font-size: 1.05rem;
+  }
+}
