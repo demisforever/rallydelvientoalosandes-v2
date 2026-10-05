@@ -1,5 +1,6 @@
-import logoDelVientoALosAndes from '../../assets/images/logoDelVientoALosAndes.png'
+import { Link } from 'react-router-dom'
 import Header from '../../components/Header/Header'
+import logoDelVientoALosAndes from '../../assets/images/logoDelVientoALosAndes.png'
 import './Documents.css'
 
 function RegulationPage() {
@@ -9,18 +10,19 @@ function RegulationPage() {
 
             <section className="px-6 pb-24 pt-32 md:px-10">
                 <div className="mx-auto max-w-5xl">
+                    <Link
+                        to="/documentos"
+                        className="medical-document-back-link mb-8 inline-flex items-center gap-2 text-xs font-medium uppercase tracking-[0.18em] text-white/45 transition-colors hover:text-[#C08A45]"
+                    >
+                        <span aria-hidden="true">←</span>
+                        Volver a documentos
+                    </Link>
 
                     {/* =====================================================
               HEADER
           ====================================================== */}
 
                     <header className="regulation-hero text-center">
-                        <img
-                            src={logoDelVientoALosAndes}
-                            alt="Rally del Viento a los Andes"
-                            className="mx-auto mb-8 w-44 md:w-52"
-                        />
-
                         <p className="mb-3 text-[10px] font-medium uppercase tracking-[0.3em] text-[#C08A45]">
                             Documento oficial
                         </p>
@@ -1080,25 +1082,25 @@ type RegulationItemProps = {
 }
 
 function RegulationItem({
-  label,
-  children,
+    label,
+    children,
 }: {
-  label: string
-  children: React.ReactNode
+    label: string
+    children: React.ReactNode
 }) {
-  return (
-    <div className={`regulation-item ${label ? '' : 'regulation-item-no-label'}`}>
-      {label && (
-        <span className="regulation-item-label">
-          {label}
-        </span>
-      )}
+    return (
+        <div className={`regulation-item ${label ? '' : 'regulation-item-no-label'}`}>
+            {label && (
+                <span className="regulation-item-label">
+                    {label}
+                </span>
+            )}
 
-      <div className="regulation-item-content">
-        {children}
-      </div>
-    </div>
-  )
+            <div className="regulation-item-content">
+                {children}
+            </div>
+        </div>
+    )
 }
 
 type RegulationCategoryProps = {
