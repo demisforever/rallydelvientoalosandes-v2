@@ -1,3 +1,4 @@
+import { useEffect } from 'react'
 import Header from '../../components/Header/Header'
 import Hero from '../../components/Hero/Hero'
 import Experience from '../../components/Experience/Experience'
@@ -12,6 +13,25 @@ import Gallery from '../../components/Gallery/Gallery'
 import Documents from '../../components/Documents/Documents'
 
 function Home() {
+
+  // useEffect para renderizar la web hasta el lugar, por ejemplo #documents
+  useEffect(() => {
+    const hash = window.location.hash
+
+    if (!hash) return
+
+    const element = document.querySelector(hash)
+
+    if (!element) return
+
+    requestAnimationFrame(() => {
+      element.scrollIntoView({
+        behavior: 'smooth',
+        block: 'start',
+      })
+    })
+  }, [])
+
   return (
     <main>
       <Header />

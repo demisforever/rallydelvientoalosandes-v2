@@ -259,7 +259,7 @@ function LiabilityWaiverPage() {
             </button>
 
             <a
-              href="/documentos"
+              href="/#documents"
               className="border border-white/10 px-6 py-3 text-[10px] font-medium uppercase tracking-[0.18em] text-white/50 transition-colors hover:border-white/30 hover:text-white"
             >
               Volver a documentos

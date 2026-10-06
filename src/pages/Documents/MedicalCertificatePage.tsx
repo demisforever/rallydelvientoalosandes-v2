@@ -1,4 +1,3 @@
-import { Link } from 'react-router-dom'
 import Header from '../../components/Header/Header'
 import logoDelVientoALosAndes from '../../assets/images/logoDelVientoALosAndes.png'
 
@@ -9,13 +8,13 @@ function MedicalCertificatePage() {
 
       <section className="px-6 pb-20 pt-32 md:px-10">
         <div className="mx-auto max-w-4xl">
-          <Link
-            to="/documentos"
+          <a
+            href="/#documents"
             className="medical-document-back-link mb-8 inline-flex items-center gap-2 text-xs font-medium uppercase tracking-[0.18em] text-white/45 transition-colors hover:text-[#C08A45]"
           >
             <span aria-hidden="true">←</span>
             Volver a documentos
-          </Link>
+          </a>
           {/* Document header */}
           <header className="medical-document-header text-center">
             <p className="mb-2 text-[10px] font-medium uppercase tracking-[0.28em] text-[#C08A45]">
@@ -151,7 +150,7 @@ function MedicalCertificatePage() {
             </button>
 
             <a
-              href="/documentos"
+              href="/#documents"
               className="w-full px-7 py-3 text-center text-xs font-medium uppercase tracking-[0.18em] text-white/50 transition-colors hover:text-white sm:w-auto"
             >
               Volver a documentos
