@@ -1172,3 +1172,267 @@
     -webkit-print-color-adjust: exact;
   }
 }
+
+/* ============================================================
+   REGULATION / MINOR AUTHORIZATION — DOCUMENT PAPER
+============================================================ */
+
+.regulation-document:not(.liability-document) {
+  background: #ffffff;
+  color: #171717;
+  border-radius: 2px;
+  padding: 3.5rem 4rem;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.25);
+}
+
+.regulation-document:not(.liability-document)
+  .regulation-document-header {
+  border-bottom-color: rgba(0, 0, 0, 0.12);
+}
+
+.regulation-document:not(.liability-document)
+  .regulation-document-header
+  p {
+  color: rgba(23, 23, 23, 0.55);
+}
+
+.regulation-document:not(.liability-document)
+  .regulation-document-header
+  h2 {
+  color: #171717;
+}
+
+.regulation-document:not(.liability-document)
+  .regulation-section-header
+  h2 {
+  color: #171717;
+}
+
+.regulation-document:not(.liability-document)
+  .regulation-section-header
+  span {
+  color: #9a6a35;
+}
+
+.regulation-document:not(.liability-document)
+  .regulation-section-header
+  > div:last-child {
+  background: rgba(0, 0, 0, 0.12);
+}
+
+.regulation-document:not(.liability-document)
+  .regulation-body {
+  color: #3f3f3f;
+}
+
+.regulation-document:not(.liability-document)
+  .regulation-category {
+  border-left-color: rgba(154, 106, 53, 0.35);
+}
+
+.regulation-document:not(.liability-document)
+  .regulation-category
+  h3 {
+  color: #171717;
+}
+
+.regulation-document:not(.liability-document)
+  .regulation-category
+  p {
+  color: #444444;
+}
+
+.regulation-document:not(.liability-document)
+  .regulation-stage {
+  border-left-color: rgba(0, 0, 0, 0.12);
+}
+
+.regulation-document:not(.liability-document)
+  .regulation-stage::before {
+  background: #9a6a35;
+}
+
+.regulation-document:not(.liability-document)
+  .regulation-stage-heading
+  h3 {
+  color: #171717;
+}
+
+.regulation-document:not(.liability-document)
+  .regulation-stage-content {
+  color: #3f3f3f;
+}
+
+.regulation-document:not(.liability-document)
+  .regulation-closing {
+  color: #555555;
+}
+
+.regulation-document:not(.liability-document)
+  .minor-form-field
+  > span,
+.regulation-document:not(.liability-document)
+  .minor-signature-data
+  span {
+  color: #666666;
+}
+
+.regulation-document:not(.liability-document)
+  .minor-form-line {
+  background: #999999;
+}
+
+.regulation-document:not(.liability-document)
+  .minor-signature-line {
+  border-bottom-color: #888888;
+}
+
+.regulation-document:not(.liability-document)
+  .minor-signature-role {
+  color: #333333;
+}
+
+/* ============================================================
+   REGULATION / MINOR AUTHORIZATION — MOBILE
+============================================================ */
+
+@media (max-width: 640px) {
+  .regulation-document:not(.liability-document) {
+    padding: 2rem 1.25rem;
+  }
+}
+
+/* ============================================================
+   LIGHT DOCUMENT — TEXT FIXES
+============================================================ */
+
+.regulation-document:not(.liability-document)
+  .regulation-content-link {
+  color: rgba(23, 23, 23, 0.62);
+}
+
+.regulation-document:not(.liability-document)
+  .regulation-content-link span {
+  color: #9a6a35;
+}
+
+.regulation-document:not(.liability-document)
+  .regulation-content-link:hover {
+  color: #171717;
+}
+.regulation-document:not(.liability-document)
+  [class*='text-white'] {
+  color: #3f3f3f !important;
+}
+
+.regulation-document:not(.liability-document)
+  [class*='text-white']
+  strong {
+  color: #171717 !important;
+}
+.regulation-document:not(.liability-document)
+  .regulation-contents {
+  color: #3f3f3f;
+}
+
+.regulation-document:not(.liability-document)
+  .regulation-contents
+  span:first-child {
+  color: #9a6a35;
+}
+
+/* ============================================================
+   MINOR AUTHORIZATION — PRINT / ONE PAGE
+============================================================ */
+
+@media print {
+  .minor-authorization-document {
+    padding: 8mm 12mm !important;
+  }
+
+  .minor-authorization-document .regulation-document-header {
+    padding-bottom: 4mm !important;
+  }
+
+  .minor-authorization-document .regulation-document-header img {
+    width: 28mm !important;
+    margin-bottom: 2.5mm !important;
+  }
+
+  .minor-authorization-document .regulation-document-header h2 {
+    font-size: 14pt !important;
+    line-height: 1.2 !important;
+  }
+
+  .minor-authorization-document .regulation-section {
+    margin-top: 6mm !important;
+  }
+
+  .minor-authorization-document .regulation-section-header {
+    margin-bottom: 3mm !important;
+  }
+
+  .minor-authorization-document .regulation-section-header h2 {
+    font-size: 12pt !important;
+  }
+
+  .minor-authorization-document .regulation-body {
+    font-size: 9pt !important;
+    line-height: 1.45 !important;
+  }
+
+  .minor-authorization-document .minor-team-data {
+    gap: 7mm !important;
+  }
+
+  .minor-authorization-document .minor-form-field {
+    gap: 1.5mm !important;
+  }
+
+  /* Bloque de firmas */
+  .minor-authorization-document .minor-signatures-section {
+    margin-top: 6mm !important;
+  }
+
+  .minor-authorization-document .minor-signatures-grid {
+    gap: 7mm !important;
+  }
+
+  .minor-authorization-document .minor-signature-line {
+    height: 14mm !important;
+  }
+
+  .minor-authorization-document .minor-signature-role {
+    margin-top: 1.5mm !important;
+    font-size: 7pt !important;
+  }
+
+  .minor-authorization-document .minor-signature-data {
+    gap: 3mm !important;
+    margin-top: 3mm !important;
+  }
+
+  .minor-authorization-document .minor-signature-data span,
+  .minor-authorization-document .minor-form-field > span {
+    font-size: 6pt !important;
+  }
+
+  .minor-authorization-document .minor-form-line {
+    height: 1px !important;
+  }
+
+  /* Fecha y leyenda final */
+  .minor-authorization-document .regulation-closing {
+    margin-top: 4mm !important;
+    padding-top: 1mm !important;
+    padding-bottom: 0 !important;
+  }
+
+  .minor-authorization-document .regulation-closing p {
+    font-size: 6.5pt !important;
+  }
+
+  .minor-authorization-document .regulation-closing > div {
+    margin-bottom: 2mm !important;
+  }
+}

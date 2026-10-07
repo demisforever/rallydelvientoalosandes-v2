@@ -35,7 +35,7 @@ function MinorAuthorizationPage() {
           </header>
 
           {/* DOCUMENT */}
-          <article className="regulation-document mt-16">
+          <article className="regulation-document minor-authorization-document mt-16">
 
             <header className="regulation-document-header">
               <img
