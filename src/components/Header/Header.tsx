@@ -11,7 +11,7 @@ function Header() {
           <img
             src={logo}
             alt="Rally del Viento a los Andes"
-            className="h-auto w-32 md:w-40"
+            className="h-auto w-[77px] md:w-[96px]"
           />
         </a>
 
