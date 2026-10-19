@@ -36,12 +36,13 @@ function Hero() {
             Huinganco · Neuquén
           </p>
 
-          <button
+          <a
             type="button"
+            href="/#disciplines"
             className="mt-10 bg-[#C08A45] px-8 py-4 text-sm font-semibold uppercase tracking-[0.2em] text-white transition-transform duration-300 hover:scale-105"
           >
             Quiero ser parte
-          </button>
+          </a>
         </div>
       </div>
     </section>

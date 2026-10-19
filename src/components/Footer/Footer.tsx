@@ -62,7 +62,7 @@ function Footer() {
                             </a>
 
                             <a
-                                href="/#registration"
+                                href="/#disciplines"
                                 className="w-fit text-sm text-white/70 transition-colors hover:text-white"
                             >
                                 Quiero ser parte
@@ -97,17 +97,19 @@ function Footer() {
 
                             <div className="mt-4 flex gap-5">
                                 <a
-                                    href="#"
+                                    href="https://www.instagram.com/rally_delvientoalosandes"
                                     aria-label="Instagram"
                                     className="text-sm text-white/60 transition-colors hover:text-white"
+                                    target="_blank"
                                 >
                                     Instagram
                                 </a>
 
                                 <a
-                                    href="#"
+                                    href="https://www.facebook.com/rallydelviento.alosandes"
                                     aria-label="Facebook"
                                     className="text-sm text-white/60 transition-colors hover:text-white"
+                                    target="_blank"
                                 >
                                     Facebook
                                 </a>

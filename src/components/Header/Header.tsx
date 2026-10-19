@@ -55,13 +55,13 @@ function Header() {
           >
             Contacto
           </a>
-
+          { /** 
           <a
-            href="/#registration"
+            href="/#disciplines"
             className="bg-[#C08A45] px-5 py-3 text-xs font-semibold uppercase tracking-[0.18em] text-white transition-transform hover:scale-105"
           >
             Quiero ser parte
-          </a>
+          </a> */}
         </div>
       </nav>
     </header>

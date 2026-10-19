@@ -1,5 +1,4 @@
-const landscapeImage = '/assets/photos/raw/lagunaVarvarcoTapia(2).jpeg'
-const dosmilmsnm = '/assets/photos/raw/2.000msnm.jpeg'
+const ciclistasentrelagosymontanas = '/assets/photos/raw/ciclistasentrelagosymontanas.JPG'
 const cyclistImage = '/assets/photos/raw/maravillosonorteneuquino.jpg'
 const campImage = '/assets/photos/raw/porestoschivitosvaleelesfuerzo.jpeg'
 
@@ -36,7 +35,7 @@ function Experience() {
       <div className="relative mx-auto max-w-[1600px] px-4 md:px-8">
         <div className="relative aspect-[16/9] overflow-hidden md:aspect-[2/1]">
           <img
-            src={dosmilmsnm}
+            src={ciclistasentrelagosymontanas}
             alt="Paisaje de Laguna Varvarco Tapia"
             className="h-full w-full object-cover"
             loading="lazy"
@@ -50,9 +49,9 @@ function Experience() {
             </p>
 
             <p className="mt-4 text-2xl font-medium leading-tight md:text-4xl">
-              La montaña no es el escenario.
+              La montaña y los lagos como
               <br />
-              Es parte de la experiencia.
+              protagonistas de la experiencia.
             </p>
           </div>
         </div>
@@ -67,7 +66,7 @@ function Experience() {
             </p>
 
             <h3 className="text-3xl font-semibold uppercase leading-[0.95] tracking-tight md:text-5xl">
-              Encontrá tu ritmo.
+              Encontrá tu ritmo
               <br />
               Superá tus límites.
             </h3>

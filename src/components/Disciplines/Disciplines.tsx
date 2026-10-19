@@ -7,6 +7,8 @@ const disciplines = [
     subtitle: 'Huinganco → Varvarco',
     description: 'Una única etapa para vivir la experiencia del Rally.',
     image: '/assets/photos/raw/paisajesincreibles.jpg',
+    registrationUrl:
+      'https://cronometrajeinstantaneo.com/inscripciones/rally-del-viento-a-los-andes-2027',
   },
   {
     number: '02',
@@ -14,6 +16,8 @@ const disciplines = [
     subtitle: 'Tres etapas',
     description: 'Tres días de montaña, esfuerzo y compañerismo.',
     image: '/assets/photos/raw/crucedeaguastermales2aetapa.jpeg',
+    registrationUrl:
+      'https://cronometrajeinstantaneo.com/inscripciones/rally-del-viento-a-los-andes-2027/dupla',
   },
   {
     number: '03',
@@ -21,6 +25,8 @@ const disciplines = [
     subtitle: 'Tres etapas',
     description: 'El desafío de recorrer la montaña a tu propio ritmo.',
     image: '/assets/photos/raw/rumboalvolcánDomuyo.jpg',
+    registrationUrl:
+      'https://cronometrajeinstantaneo.com/inscripciones/rally-del-viento-a-los-andes-2027',
   },
 ]
 
@@ -50,18 +56,30 @@ function Disciplines() {
             <div className="discipline-card__overlay" />
 
             <div className="discipline-card__content">
+              {/** 
               <span className="discipline-card__number">
                 {discipline.number}
               </span>
-
+*/}
               <div>
                 <h3>{discipline.title}</h3>
+
                 <p className="discipline-card__subtitle">
                   {discipline.subtitle}
                 </p>
+
                 <p className="discipline-card__description">
                   {discipline.description}
                 </p>
+
+                <a
+                  className="discipline-card__action"
+                  href={discipline.registrationUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  Inscribirme
+                </a>
               </div>
             </div>
           </article>
