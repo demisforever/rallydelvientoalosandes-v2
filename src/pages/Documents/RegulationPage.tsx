@@ -1075,11 +1075,6 @@ function RegulationSectionHeader({
     )
 }
 
-type RegulationItemProps = {
-    label: string
-    children: React.ReactNode
-}
-
 function RegulationItem({
     label,
     children,
