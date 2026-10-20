@@ -1,3 +1,5 @@
+import delVientoTransparent from '../../assets/images/delVientotransparent.png'
+
 function Hero() {
   return (
     <section
@@ -23,7 +25,7 @@ function Hero() {
         <div className="flex max-w-4xl flex-col items-center text-center">
 
           <img
-            src="/src/assets/images/delVientotransparent.png"
+            src={delVientoTransparent}
             alt="Rally del Viento a los Andes"
             className="w-full max-w-3xl"
           />
