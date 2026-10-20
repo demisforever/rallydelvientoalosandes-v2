@@ -17,9 +17,7 @@ function RegulationPage() {
                         Volver a documentos
                     </a>
 
-                    {/* =====================================================
-              HEADER
-          ====================================================== */}
+                    {/* ==================== HEADER ======================== */}
 
                     <header className="regulation-hero text-center">
                         <p className="mb-3 text-[10px] font-medium uppercase tracking-[0.3em] text-[#C08A45]">
@@ -51,7 +49,7 @@ function RegulationPage() {
                                 style={{ objectFit: 'contain' }}
                             />
                             <p className="text-center text-xs font-medium uppercase tracking-[0.16em] text-[#C08A45]">
-                                5ta. Edición
+                                Edición 2027
                             </p>
 
                             <h2 className="mt-3 text-center text-2xl font-semibold uppercase tracking-[0.08em] md:text-3xl">
@@ -63,7 +61,7 @@ function RegulationPage() {
                             </p>
 
                             <p className="mt-4 text-center text-xs uppercase tracking-[0.14em] text-white/40">
-                                06, 07 y 08 de febrero de 2026
+                                12, 13 y 14 de febrero de 2027
                             </p>
                         </header>
 
@@ -189,7 +187,7 @@ function RegulationPage() {
                                 <RegulationItem label="c">
                                     Cada equipo e individual deberá proveer su traslado al
                                     lugar de partida (Huinganco), debiendo estar en dicho lugar
-                                    el día jueves 05/02/26 para la acreditación y entrega de
+                                    el día jueves 11/02/27 para la acreditación y entrega de
                                     equipaje. Concluye la etapa 3 en la misma localidad, allí
                                     se realizará la premiación y posterior desconcentración del
                                     evento.
@@ -289,7 +287,7 @@ function RegulationPage() {
                                 <div className="mt-8 space-y-5">
                                     <p>
                                         La categoría será definida con la edad del corredor al
-                                        05 de febrero del 2026.
+                                        10 de febrero del 2027.
                                     </p>
 
                                     <p>
@@ -334,7 +332,7 @@ function RegulationPage() {
 
                                 <RegulationItem label="">
                                     Premiación final: Jersey de Campeón Rally 3 etapas “Del
-                                    Viento a los Andes” 2025 a la pareja ganadora de cada
+                                    Viento a los Andes” 2027 a la pareja ganadora de cada
                                     categoría.
                                 </RegulationItem>
 
@@ -388,7 +386,7 @@ function RegulationPage() {
                                         title="Junto al viento"
                                         route="Huinganco — Varvarco"
                                         distance="53 KM"
-                                        date="06/02/26"
+                                        date="12/02/27"
                                         start="8:00 a.m."
                                     >
                                         <p>
@@ -429,7 +427,7 @@ function RegulationPage() {
                                         title="En lo alto"
                                         route="Varvarco — Los Cerrillos · Laguna Varvarco Tapia"
                                         distance="73 KM"
-                                        date="07/02/26"
+                                        date="13/02/27"
                                         start="08:00 a.m."
                                     >
                                         <p>
@@ -480,7 +478,7 @@ function RegulationPage() {
                                         title="Uniendo rios"
                                         route="Laguna Varvarco Tapia — Huinganco"
                                         distance="136 KM"
-                                        date="08/02/26"
+                                        date="14/02/27"
                                         start="7:00 a.m."
                                     >
                                         <p>
@@ -675,8 +673,8 @@ function RegulationPage() {
                                 </RegulationItem>
 
                                 <RegulationItem label="c">
-                                    Se habilita la inscripción desde el 05/08/25 hasta el
-                                    05/01/26.
+                                    Se habilita la inscripción desde el 05/10/26 hasta el
+                                    05/01/27.
                                 </RegulationItem>
 
                                 <RegulationItem label="d">
@@ -685,30 +683,16 @@ function RegulationPage() {
                                 </RegulationItem>
 
                                 <RegulationItem label="e">
-                                    El valor para cada team será de $500.000 (quinientos mil)
-                                    con las siguientes opciones reserva de cupo) y 1 pago de
-                                    $250.000.- (dosciento cincuenta mil pesos) al 05/12/25, o 1
-                                    pago de $ 200.000 (dosciento mil pesos) antes del 05/09/25,
-                                    1 pago de $ 200.000 (dosciento mil pesos) al 05/10/25 y 1
-                                    pago de $100.000.- (cien mil pesos) al 05/11/25 será por
-                                    transferencia bancaria saldado el total al del 05/12/25.
-                                    Se abre una segunda etapa de inscripción, a partir del
-                                    05/12/25 hasta el 01/01/26, cuyo valor para el team será
-                                    según ajuste inflacionarios.
+                                    El valor para cada team será de $600.000 (seiscientos mil pesos), con las siguientes opciones: reserva de cupo y un pago de $300.000 al 05/10/26, o tres pagos de $200.000 cada uno, antes del 05/10/26, al 05/11/26 y al 05/12/26, por transferencia bancaria. El total deberá estar saldado al 05/12/26. Se abre una segunda etapa de inscripción desde el 06/12/26 hasta el 01/01/27, cuyo valor para el team estará sujeto a ajustes inflacionarios.
                                 </RegulationItem>
 
                                 <RegulationItem label="f">
-                                    El valor para individual será de $ 300.000, (trecientos mil),
-                                    podrá ser abonado en un pago o dos, diciembre y enero,
-                                    debiendo completar el saldo al 15/01/26.
+                                    El valor para individual será de $300.000 (trescientos mil pesos), podrá ser abonado en un pago o en dos, durante diciembre y enero, debiendo completar el saldo al 05/01/27.
                                 </RegulationItem>
 
                                 <RegulationItem label="g">
                                     El valor para correr la primera etapa de manera individual
-                                    promocional es de $60.000.- (sesenta mil pesos), por
-                                    transferencia bancaria saldada antes del 05/12/25. El
-                                    segundo periodo tendrá un valor de, según ajuste
-                                    inflacionario.
+                                    promocional es de $100.000 (cien mil pesos), por transferencia bancaria, saldada antes del 05/12/26. El segundo periodo tendrá un valor sujeto a ajuste inflacionario.
                                 </RegulationItem>
 
                                 <RegulationItem label="h">
@@ -725,7 +709,7 @@ function RegulationPage() {
 
                                 <RegulationItem label="j">
                                     la inscripción incluye: jersey rally del Viento a los Andes
-                                    edición 2026; placas con número del equipo; medalla
+                                    edición 2027; placas con número del equipo; medalla
                                     finisher; hidratación, frutas y snacks en puestos de
                                     hidratación y abastecimiento; atención médica; seguro del
                                     corredor; servicio de barredora para corredor y bicicleta;
@@ -747,7 +731,7 @@ function RegulationPage() {
 
                                 <RegulationItem label="k">
                                     La acreditación, entrega de kit, se realizará el día jueves
-                                    05/02/26 en la localidad de Huinganco, en lugar y horario a
+                                    11/02/27 en la localidad de Huinganco, en lugar y horario a
                                     determinar. Será el único momento para este fin.
                                 </RegulationItem>
 
@@ -763,7 +747,7 @@ function RegulationPage() {
 
                                 <RegulationItem label="m">
                                     En caso de no participación, la inscripción NO es
-                                    reintegrable, si podrá ser transferible hasta el 05/01/2026,
+                                    reintegrable, si podrá ser transferible hasta el 05/01/2027,
                                     en tal caso quien no participe deberá enviar correo
                                     electrónico a ciclismohuinganco@gmail.com, indicando su baja
                                     y los datos de la transferencia.
