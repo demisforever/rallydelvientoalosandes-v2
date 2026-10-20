@@ -97,3 +97,20 @@ Always prioritize storytelling over UI.
 Every section must have a clear emotional purpose before adding visual elements.
 
 The website should feel like an expedition through Northern Patagonia rather than an event brochure.
+
+## Cambios para hacer (NO SUBIR)
+- hay un problema que necesito resolver que es que en estos momento el menú no aparece en el navegador en Mobile.
+
+
+## Solo en navegador pc
+- quitar el boton "quiero ser parte" que esta abajo, solo dejar el que esta arriba a la derecha junto al menu.
+- cuando preciono disciplina no navega
+
+## Solo en mobile
+- En la seccion experience "Norte Neuquino" queda muy pegado a la parte superior de la imagen
+
+
+ok chat, mas arriba te había hecho el pedido de continuemos creando src/pages/Stages/StagesPage.tsx y llevar ahí las tres etapas actuales; después limpiamos la Home y finalmente ajustamos Header/Footer.
+podríamos continuar con este pedido?
+
+en las etapas hay que achicar la letra para que se pueda ver 
