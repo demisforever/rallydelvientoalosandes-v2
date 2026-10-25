@@ -46,7 +46,7 @@ function LiabilityWaiverPage() {
               />
 
               <p className="text-center text-xs font-medium uppercase tracking-[0.16em] text-[#C08A45]">
-                5ta. Edición
+                6ta. Edición
               </p>
 
               <h2 className="mt-3 text-center text-2xl font-semibold uppercase tracking-[0.08em] md:text-3xl">
@@ -58,7 +58,7 @@ function LiabilityWaiverPage() {
               </p>
 
               <p className="mt-4 text-center text-xs uppercase tracking-[0.14em] text-white/40">
-                Departamento Minas · Neuquén · 06 al 08 de febrero de 2026
+                Departamento Minas · Neuquén · 12 al 14 de febrero de 2027
               </p>
             </header>
 
@@ -80,15 +80,15 @@ function LiabilityWaiverPage() {
 
               <div className="regulation-body">
                 <p>
-                  Declaro en forma irrevocable, que eximo de toda
-                  responsabilidad a los organizadores de la 5ta. edición del
-                  Rally MTB en parejas por etapas “Del Viento a los Andes”, y a
-                  las autoridades jurisdiccionales del lugar de realización que
-                  fiscalice, por cualquier reclamo contra los mencionados, por
-                  motivo de alguna lesión o accidente personal provocado por
-                  caídas, contacto con otros participantes, consecuencias del
-                  clima y del terreno, daño y/o pérdidas de objetos, sufrido
-                  antes, durante y después de la carrera.
+                  Declaro en forma irrevocable, que eximo de toda responsabilidad
+                  a los organizadores de la 6ta. edición del Rally MTB en parejas
+                  por etapas “Del Viento a los Andes”, y a las autoridades
+                  jurisdiccionales del lugar de realización que fiscalice, por
+                  cualquier reclamo contra los mencionados, por motivo de alguna
+                  lesión o accidente personal provocado por caídas, contacto con
+                  otros participantes, consecuencias del clima y del terreno,
+                  daño y/o pérdidas de objetos, sufrido antes, durante y después
+                  de la carrera.
                 </p>
               </div>
             </section>
@@ -198,7 +198,7 @@ function LiabilityWaiverPage() {
 
                   <p className="minor-signature-role">
                     Firma del corredor N.º 1
-                  </p>
+                    </p>
 
                   <div className="minor-signature-data">
                     <div>
@@ -219,7 +219,7 @@ function LiabilityWaiverPage() {
 
                   <p className="minor-signature-role">
                     Firma del corredor N.º 2
-                  </p>
+                    </p>
 
                   <div className="minor-signature-data">
                     <div>
@@ -242,7 +242,7 @@ function LiabilityWaiverPage() {
               <div className="mx-auto mb-6 h-px w-16 bg-[#C08A45]" />
 
               <p className="text-center text-xs uppercase tracking-[0.12em] text-white/40">
-                Huinganco, 5 de febrero de 2026.
+                Huinganco, 11 de febrero de 2027.
               </p>
             </div>
 
@@ -265,7 +265,7 @@ function LiabilityWaiverPage() {
               Volver a documentos
             </a>
           </div>
-
+          
         </div>
       </section>
     </main>
