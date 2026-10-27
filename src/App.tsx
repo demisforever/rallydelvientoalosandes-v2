@@ -1,6 +1,7 @@
 import { BrowserRouter, Navigate, Route, Routes } from 'react-router-dom'
 
 import Home from './pages/Home/Home'
+import StagesPage from './pages/Stages/StagesPage'
 import ResultsPage from './pages/Results/ResultsPage'
 import RegulationPage from './pages/Documents/RegulationPage'
 import MedicalCertificatePage from './pages/Documents/MedicalCertificatePage'
@@ -12,6 +13,7 @@ function App() {
     <BrowserRouter>
       <Routes>
         <Route path="/" element={<Home />} />
+        <Route path="/stages" element={<StagesPage />} />
         <Route path="/resultados" element={<ResultsPage />} />
         <Route
           path="/documentos/reglamento"
@@ -21,11 +23,6 @@ function App() {
           path="/documentos/certificado-medico"
           element={<MedicalCertificatePage />}
         />
-
-        <Route
-          path="*"
-          element={<Navigate to="/" replace />}
-        />
         <Route
           path="/documentos/autorizacion-menores"
           element={<MinorAuthorizationPage />}
@@ -34,6 +31,7 @@ function App() {
           path="/documentos/deslinde"
           element={<LiabilityWaiverPage />}
         />
+        <Route path="*" element={<Navigate to="/" replace />} />
       </Routes>
     </BrowserRouter>
   )

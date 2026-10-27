@@ -4,7 +4,7 @@ import logo from '../../assets/images/logoDelVientoALosAndes.png'
 const navigationLinks = [
   { label: 'Experiencia', href: '/#experience' },
   { label: 'Disciplinas', href: '/#disciplines' },
-  { label: 'Etapas', href: '/#stages' },
+  { label: 'Etapas', href: '/stages' },
   { label: 'Resultados', href: '/resultados' },
   { label: 'Documentos', href: '/#documents' },
   { label: 'Contacto', href: '/#contact' },
@@ -13,19 +13,12 @@ const navigationLinks = [
 function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false)
 
-  const closeMenu = () => {
-    setIsMenuOpen(false)
-  }
+  const closeMenu = () => setIsMenuOpen(false)
 
   return (
     <header className="absolute inset-x-0 top-0 z-50">
       <nav className="mx-auto flex max-w-7xl items-center justify-between px-6 py-6 lg:px-10">
-        {/* Logo */}
-        <a
-          href="/#hero"
-          aria-label="Rally del Viento a los Andes"
-          onClick={closeMenu}
-        >
+        <a href="/#hero" aria-label="Rally del Viento a los Andes" onClick={closeMenu}>
           <img
             src={logo}
             alt="Rally del Viento a los Andes"
@@ -33,7 +26,6 @@ function Header() {
           />
         </a>
 
-        {/* Menú de escritorio */}
         <div className="hidden items-center gap-8 lg:flex">
           {navigationLinks.map((link) => (
             <a
@@ -66,11 +58,7 @@ function Header() {
               className="h-6 w-6"
               aria-hidden="true"
             >
-              <path
-                strokeLinecap="round"
-                strokeLinejoin="round"
-                d="M6 6l12 12M18 6L6 18"
-              />
+              <path strokeLinecap="round" strokeLinejoin="round" d="M6 6l12 12M18 6L6 18" />
             </svg>
           ) : (
             /* Tres líneas horizontales */
@@ -83,10 +71,7 @@ function Header() {
               className="h-6 w-6"
               aria-hidden="true"
             >
-              <path
-                strokeLinecap="round"
-                d="M3 6h18M3 12h18M3 18h18"
-              />
+              <path strokeLinecap="round" d="M3 6h18M3 12h18M3 18h18" />
             </svg>
           )}
         </button>

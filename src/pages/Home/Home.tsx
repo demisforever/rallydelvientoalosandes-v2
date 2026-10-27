@@ -3,18 +3,13 @@ import Header from '../../components/Header/Header'
 import Hero from '../../components/Hero/Hero'
 import Experience from '../../components/Experience/Experience'
 import Disciplines from '../../components/Disciplines/Disciplines'
-import Stage from '../../components/Stages/Stage'
-import stage1Gpx from '../../assets/gpx/etapa-1-huinganco-varvarco.gpx?raw'
-import stage2Gpx from '../../assets/gpx/etapa-2-varvarco-los-cerrillos.gpx?raw'
-import stage3Gpx from '../../assets/gpx/etapa-3-los-cerrillos-huinganco.gpx?raw'
 import Contact from '../../components/Contact/Contact'
 import Footer from '../../components/Footer/Footer'
 import Gallery from '../../components/Gallery/Gallery'
 import Documents from '../../components/Documents/Documents'
 
 function Home() {
-
-  // useEffect para renderizar la web hasta el lugar, por ejemplo #documents
+  // Permite abrir directamente una sección de Home mediante un hash, por ejemplo /#documents.
   useEffect(() => {
     const hash = window.location.hash
 
@@ -39,34 +34,27 @@ function Home() {
       <Experience />
       <Disciplines />
 
-      <div id="stages">
-        <Stage
-          number={1}
-          title="Huinganco → Varvarco"
-          description="La primera etapa..."
-          gpx={stage1Gpx}
-          gpxFileName="etapa-1-huinganco-varvarco.gpx"
-          mapSide="left"
-        />
-
-        <Stage
-          number={2}
-          title="Varvarco → Los Cerrillos"
-          description="La segunda etapa continúa el recorrido hacia el corazón de los Andes."
-          gpx={stage2Gpx}
-          gpxFileName="etapa-2-varvarco-los-cerrillos.gpx"
-          mapSide="left"
-        />
-
-        <Stage
-          number={3}
-          title="Los Cerrillos → Huinganco"
-          description="La última etapa nos devuelve a Huinganco para completar la experiencia."
-          gpx={stage3Gpx}
-          gpxFileName="etapa-3-los-cerrillos-huinganco.gpx"
-          mapSide="left"
-        />
-      </div>
+      <section className="bg-[#0F0F10] px-6 py-20 text-white lg:px-10">
+        <div className="mx-auto max-w-7xl">
+          <span className="text-xs uppercase tracking-[0.25em] text-[#C08A45]">
+            El recorrido
+          </span>
+          <h2 className="mt-4 text-3xl uppercase tracking-tight md:text-5xl">
+            Tres etapas. Un desafío.
+          </h2>
+          <p className="mt-5 max-w-2xl text-base leading-7 text-white/60">
+            Descubrí los recorridos que conectan Huinganco, Varvarco y Los
+            Cerrillos, y consultá los mapas, las estadísticas y los archivos GPX
+            de cada etapa.
+          </p>
+          <a
+            href="/stages"
+            className="mt-8 inline-flex border border-[#C08A45] px-6 py-3 text-xs uppercase tracking-[0.18em] text-white transition-colors hover:bg-[#C08A45]"
+          >
+            Explorar las etapas
+          </a>
+        </div>
+      </section>
 
       <Gallery />
       <Documents />
