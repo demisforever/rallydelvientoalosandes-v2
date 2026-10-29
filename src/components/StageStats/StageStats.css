@@ -68,3 +68,19 @@
   margin-top: 24px;
   margin-bottom: 24px;
 }
+
+@media (max-width: 639px) {
+  .stage-stat strong {
+    font-size: 1.15rem;
+    white-space: nowrap;
+  }
+
+  .stage-stat span {
+    font-size: 0.65rem;
+    letter-spacing: 0.08em;
+  }
+
+  .stage-stats__grid {
+    column-gap: 16px;
+  }
+}
