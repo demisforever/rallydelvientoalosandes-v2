@@ -12,9 +12,6 @@ function StagesPage() {
 
       <div className="bg-[#0F0F10] px-6 pb-16 pt-36 text-white lg:px-10">
         <div className="mx-auto max-w-7xl">
-          <span className="text-xs uppercase tracking-[0.25em] text-[#C08A45]">
-            Rally del Viento a los Andes
-          </span>
           <h1 className="mt-4 text-4xl uppercase tracking-tight md:text-6xl">
             Las etapas
           </h1>

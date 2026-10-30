@@ -7,6 +7,7 @@ import Contact from '../../components/Contact/Contact'
 import Footer from '../../components/Footer/Footer'
 import Gallery from '../../components/Gallery/Gallery'
 import Documents from '../../components/Documents/Documents'
+import './Home.css'
 
 function Home() {
   // Permite abrir directamente una sección de Home mediante un hash, por ejemplo /#documents.
@@ -34,13 +35,13 @@ function Home() {
       <Experience />
       <Disciplines />
 
-      <section className="bg-[#0F0F10] px-6 py-20 text-white lg:px-10">
-        <div className="mx-auto max-w-7xl">
+      <section className="home-route-section px-6 py-20 text-white lg:px-10">
+        <div className="home-route-section__content mx-auto max-w-7xl">
           <span className="text-xs uppercase tracking-[0.25em] text-[#C08A45]">
             El recorrido
           </span>
           <h2 className="mt-4 text-3xl uppercase tracking-tight md:text-5xl">
-            Tres etapas. Un desafío.
+            Tres etapas, Un desafío.
           </h2>
           <p className="mt-5 max-w-2xl text-base leading-7 text-white/60">
             Descubrí los recorridos que conectan Huinganco, Varvarco y Los
