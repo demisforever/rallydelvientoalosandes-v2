@@ -58,7 +58,7 @@ function LiabilityWaiverPage() {
               </p>
 
               <p className="mt-4 text-center text-xs uppercase tracking-[0.14em] text-white/40">
-                Departamento Minas · Neuquén · 12 al 14 de febrero de 2027
+                Departamento Minas · Neuquén · 19 al 21 de febrero de 2027
               </p>
             </header>
 
@@ -242,7 +242,7 @@ function LiabilityWaiverPage() {
               <div className="mx-auto mb-6 h-px w-16 bg-[#C08A45]" />
 
               <p className="text-center text-xs uppercase tracking-[0.12em] text-white/40">
-                Huinganco, 11 de febrero de 2027.
+                Huinganco, 18 de febrero de 2027.
               </p>
             </div>
 

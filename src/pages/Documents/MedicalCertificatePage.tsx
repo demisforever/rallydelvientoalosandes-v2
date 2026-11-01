@@ -28,7 +28,7 @@ function MedicalCertificatePage() {
 
                 <p className="mt-1 text-xs uppercase tracking-[0.12em] text-black/60">“Del Viento a los Andes”</p>
                 
-                <p className="mt-3 text-[11px] uppercase tracking-[0.12em] text-black/50">Departamento Minas, Neuquén · 12 al 14/02/2027</p>
+                <p className="mt-3 text-[11px] uppercase tracking-[0.12em] text-black/50">Departamento Minas, Neuquén · 19 al 21/02/2027</p>
               </header>
 
               <section className="pt-10">

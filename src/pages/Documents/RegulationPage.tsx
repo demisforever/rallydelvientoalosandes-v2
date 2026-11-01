@@ -61,7 +61,7 @@ function RegulationPage() {
                             </p>
 
                             <p className="mt-4 text-center text-xs uppercase tracking-[0.14em] text-white/40">
-                                12, 13 y 14 de febrero de 2027
+                                19, 20 y 21 de febrero de 2027
                             </p>
                         </header>
 
@@ -187,7 +187,7 @@ function RegulationPage() {
                                 <RegulationItem label="c">
                                     Cada equipo e individual deberá proveer su traslado al
                                     lugar de partida (Huinganco), debiendo estar en dicho lugar
-                                    el día jueves 11/02/27 para la acreditación y entrega de
+                                    el día jueves 18/02/27 para la acreditación y entrega de
                                     equipaje. Concluye la etapa 3 en la misma localidad, allí
                                     se realizará la premiación y posterior desconcentración del
                                     evento.
@@ -287,7 +287,7 @@ function RegulationPage() {
                                 <div className="mt-8 space-y-5">
                                     <p>
                                         La categoría será definida con la edad del corredor al
-                                        10 de febrero del 2027.
+                                        18 de febrero del 2027.
                                     </p>
 
                                     <p>
@@ -386,7 +386,7 @@ function RegulationPage() {
                                         title="Junto al viento"
                                         route="Huinganco — Varvarco"
                                         distance="53 KM"
-                                        date="12/02/27"
+                                        date="19/02/27"
                                         start="8:00 a.m."
                                     >
                                         <p>
@@ -427,7 +427,7 @@ function RegulationPage() {
                                         title="En lo alto"
                                         route="Varvarco — Los Cerrillos · Laguna Varvarco Tapia"
                                         distance="73 KM"
-                                        date="13/02/27"
+                                        date="20/02/27"
                                         start="08:00 a.m."
                                     >
                                         <p>
@@ -478,7 +478,7 @@ function RegulationPage() {
                                         title="Uniendo rios"
                                         route="Laguna Varvarco Tapia — Huinganco"
                                         distance="136 KM"
-                                        date="14/02/27"
+                                        date="21/02/27"
                                         start="7:00 a.m."
                                     >
                                         <p>
@@ -731,7 +731,7 @@ function RegulationPage() {
 
                                 <RegulationItem label="k">
                                     La acreditación, entrega de kit, se realizará el día jueves
-                                    11/02/27 en la localidad de Huinganco, en lugar y horario a
+                                    18/02/27 en la localidad de Huinganco, en lugar y horario a
                                     determinar. Será el único momento para este fin.
                                 </RegulationItem>
 
@@ -747,7 +747,7 @@ function RegulationPage() {
 
                                 <RegulationItem label="m">
                                     En caso de no participación, la inscripción NO es
-                                    reintegrable, si podrá ser transferible hasta el 05/01/2027,
+                                    reintegrable, si podrá ser transferible hasta el 12/01/2027,
                                     en tal caso quien no participe deberá enviar correo
                                     electrónico a ciclismohuinganco@gmail.com, indicando su baja
                                     y los datos de la transferencia.

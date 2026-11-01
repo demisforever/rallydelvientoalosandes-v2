@@ -45,7 +45,7 @@ function MinorAuthorizationPage() {
               />
 
               <p className="text-center text-xs font-medium uppercase tracking-[0.16em] text-[#C08A45]">
-                5ta. Edición
+                6ta. Edición
               </p>
 
               <h2 className="mt-3 text-center text-2xl font-semibold uppercase tracking-[0.08em] md:text-3xl">
@@ -57,7 +57,7 @@ function MinorAuthorizationPage() {
               </p>
 
               <p className="mt-4 text-center text-xs uppercase tracking-[0.14em] text-white/40">
-                Departamento Minas · Neuquén · 05 al 08 de febrero de 2026
+                Departamento Minas · Neuquén · 19 al 21 de febrero de 2027
               </p>
             </header>
 
@@ -128,8 +128,8 @@ function MinorAuthorizationPage() {
 
                 <p className="mt-8">
                   otorgamos la autorización expresa para que participe de la
-                  5ta. edición del Rally MTB en parejas, por etapas “Del Viento
-                  a los Andes”, a realizarse del 5 al 8 de febrero de 2026,
+                  6ta. edición del Rally MTB en parejas, por etapas “Del Viento
+                  a los Andes”, a realizarse del 19 al 21 de febrero de 2027,
                   declarando conocer y aceptar su reglamentación.
                 </p>
 

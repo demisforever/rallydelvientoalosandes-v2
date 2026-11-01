@@ -31,7 +31,7 @@ function Hero() {
           />
 
           <p className="mt-8 text-sm uppercase tracking-[0.3em] text-[#D8D8D8]">
-            11 · 12 · 13 · 14 FEBRERO 2027
+            19 · 20 · 21 FEBRERO 2027
           </p>
 
           <p className="mt-2 text-sm uppercase tracking-[0.25em] text-[#D8D8D8]">
