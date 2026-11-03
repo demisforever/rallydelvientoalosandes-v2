@@ -1,5 +1,4 @@
 import { useState } from 'react'
-import logo from '../../assets/images/logoDelVientoALosAndes.png'
 
 const navigationLinks = [
   { label: 'Experiencia', href: '/#experience' },
@@ -20,7 +19,7 @@ function Header() {
       <nav className="mx-auto flex max-w-7xl items-center justify-between px-6 py-6 lg:px-10">
         <a href="/#hero" aria-label="Rally del Viento a los Andes" onClick={closeMenu}>
           <img
-            src={logo}
+            src="/logoDelVientoALosAndes.png"
             alt="Rally del Viento a los Andes"
             className="h-auto w-[77px] md:w-[96px]"
           />

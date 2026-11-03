@@ -1,6 +1,5 @@
 import { Link } from 'react-router-dom'
 import Header from '../../components/Header/Header'
-import logoDelVientoALosAndes from '../../assets/images/logoDelVientoALosAndes.png'
 import './Documents.css'
 
 function LiabilityWaiverPage() {
@@ -40,7 +39,7 @@ function LiabilityWaiverPage() {
 
             <header className="regulation-document-header">
               <img
-                src={logoDelVientoALosAndes}
+                src="/logoDelVientoALosAndes.png"
                 alt="Rally del Viento a los Andes"
                 className="mx-auto mb-6 w-36"
               />

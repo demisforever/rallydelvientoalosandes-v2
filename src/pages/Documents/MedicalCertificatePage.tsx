@@ -1,5 +1,4 @@
 import Header from '../../components/Header/Header'
-import logoDelVientoALosAndes from '../../assets/images/logoDelVientoALosAndes.png'
 
 function MedicalCertificatePage() {
   return (
@@ -23,7 +22,7 @@ function MedicalCertificatePage() {
           <article className="medical-document-paper mt-12 bg-[#F4F1EB] px-6 py-10 text-[#171717] shadow-2xl md:px-16 md:py-14">
             <div className="mx-auto max-w-3xl">
               <header className="border-b border-black/10 pb-8 text-center">
-                <img src={logoDelVientoALosAndes} alt="Rally del Viento a los Andes" className="mx-auto mb-6 w-40" />
+                <img src="/logoDelVientoALosAndes.png" alt="Rally del Viento a los Andes" className="mx-auto mb-6 w-40" />
                 <p className="text-xs font-semibold uppercase tracking-[0.14em]">6ta. Edición Rally MTB en Parejas · 3 Etapas</p>
 
                 <p className="mt-1 text-xs uppercase tracking-[0.12em] text-black/60">“Del Viento a los Andes”</p>

@@ -98,9 +98,6 @@ Every section must have a clear emotional purpose before adding visual elements.
 
 The website should feel like an expedition through Northern Patagonia rather than an event brochure.
 
-## Cambios para hacer (NO SUBIR)
-- hay un problema que necesito resolver que es que en estos momento el menú no aparece en el navegador en Mobile.
-
 
 ## Solo en navegador pc
 - quitar el boton "quiero ser parte" que esta abajo, solo dejar el que esta arriba a la derecha junto al menu.
@@ -109,8 +106,11 @@ The website should feel like an expedition through Northern Patagonia rather tha
 ## Solo en mobile
 - En la seccion experience "Norte Neuquino" queda muy pegado a la parte superior de la imagen
 
+15000 09/15 flyer acreditación trail del bosque
+12000 10/15 flyer inscripción Duplas
+12000 10/15 flyer inscripción individual
+20000 11/01 flyer cambio de fecha del rally
+15000 11/01 cambio de fecha en todos los documentos de la web
+25000 11/03 vectorizacion de RakiduamHue
 
-ok chat, mas arriba te había hecho el pedido de continuemos creando src/pages/Stages/StagesPage.tsx y llevar ahí las tres etapas actuales; después limpiamos la Home y finalmente ajustamos Header/Footer.
-podríamos continuar con este pedido?
-
-en las etapas hay que achicar la letra para que se pueda ver 
+99000 total
