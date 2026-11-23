@@ -7,7 +7,6 @@ import Contact from '../../components/Contact/Contact'
 import Footer from '../../components/Footer/Footer'
 import Gallery from '../../components/Gallery/Gallery'
 import Documents from '../../components/Documents/Documents'
-import SocialMediaVideos from '../../components/SocialMediaVideos/SocialMediaVideos'
 import './Home.css'
 
 function Home() {
@@ -57,7 +56,6 @@ function Home() {
           </a>
         </div>
       </section>
-      <SocialMediaVideos />
 
       <Gallery />
       <Documents />
